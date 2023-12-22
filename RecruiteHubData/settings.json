@@ -1,0 +1,3 @@
+{
+  "ConnectionString": "Data Source=DESKTOP-U5DJCCC\\SQLEXPRESS;Initial Catalog=DemoRecruitHubDB;Integrated Security=True;MultipleActiveResultSets=True; TrustServerCertificate=True;"
+}

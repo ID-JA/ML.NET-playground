@@ -1,14 +1,31 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.0.31903.59
+VisualStudioVersion = 17.9.34310.174
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecruiteHubData", "RecruiteHubData\RecruiteHubData.csproj", "{E17F9939-1BE2-4A2F-BF34-43045982C4BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RankingAPI", "RankingAPI\RankingAPI.csproj", "{C98A2801-6212-4904-B298-665E3747AFD4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E17F9939-1BE2-4A2F-BF34-43045982C4BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E17F9939-1BE2-4A2F-BF34-43045982C4BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E17F9939-1BE2-4A2F-BF34-43045982C4BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E17F9939-1BE2-4A2F-BF34-43045982C4BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C98A2801-6212-4904-B298-665E3747AFD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C98A2801-6212-4904-B298-665E3747AFD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C98A2801-6212-4904-B298-665E3747AFD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C98A2801-6212-4904-B298-665E3747AFD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD238239-11D3-44ED-891B-591D9B90E766}
 	EndGlobalSection
 EndGlobal

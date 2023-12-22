@@ -1,0 +1,1001 @@
+Label,GroupId,Education,YearsExperience,FullName,SkillSet
+0,1,Undergraduate,6,Ada.Sprage,JavaScript;Python;TypeScript;Docker;npm;Angular;Flask;Node.js;React.js
+0,1,Master,15,Pollyanna.Suzetta,C#;HTML/CSS;TypeScript;Docker;npm;Unity 3D;ASP.NET Core ;Blazor;Vue.js;Microsoft Azure;Microsoft SQL Server
+0,1,Master,19,Yetty.Sharl,HTML/CSS;JavaScript;Ruby;SQL;Docker;Homebrew;npm;Yarn;Laravel;Next.js;Node.js;React.js;Ruby on Rails;DigitalOcean;Heroku;Elasticsearch;MariaDB;Microsoft SQL Server;PostgreSQL;SQLite
+1,1,Undergraduate,35,Meg.Payson,Java;PowerShell;Homebrew;Angular;AWS;MySQL;Oracle;PostgreSQL
+0,1,Undergraduate,8,Laurene.Berriman,HTML/CSS;Java;JavaScript;Kotlin;Python;Vue.js
+0,1,Master,12,Steffane.Seumas,Bash/Shell;JavaScript;Rust;TypeScript;Docker;Kubernetes;Node.js;MySQL;SQLite
+0,1,Other,4,Nataline.Ochs,HTML/CSS;JavaScript;PHP;SQL;Docker;npm;jQuery;Laravel;Node.js;React.js;Vue.js;Google Cloud;MongoDB;MySQL
+1,1,Other,20,Flo.Wilona,Bash/Shell;Go;HTML/CSS;JavaScript;Lua;PowerShell;Python;SQL;TypeScript;Docker;Flow;Kubernetes;npm;Terraform;Gatsby;Node.js;Nuxt.js;React.js;Vue.js;AWS;DigitalOcean;Google Cloud;Linode;Elasticsearch;MongoDB;MySQL;PostgreSQL;Redis;SQLite
+1,1,Master,9,Collen.Stav,C;C++;Python;Rust;Docker
+0,1,NoHigherEd,13,Annice.Dawkins,HTML/CSS;JavaScript;TypeScript;Docker;Homebrew;npm;Express;Node.js;React.js;Heroku;Microsoft Azure;Microsoft SQL Server;MongoDB
+0,1,Undergraduate,8,Agathe.Harday,TypeScript;Next.js;Node.js;React.js;AWS;PostgreSQL
+1,1,Undergraduate,7,Elie.Tippets,C;C++;HTML/CSS;JavaScript;Rust;Docker;npm;DigitalOcean
+1,1,Undergraduate,20,Korrie.Dominy,Bash/Shell;Java;JavaScript;PowerShell;TypeScript;Docker;npm;Unity 3D;Angular;Express;Node.js;AWS;DynamoDB
+0,1,Master,21,Lisette.Meli,Bash/Shell;Python;Rust;TypeScript;Docker;Homebrew;Kubernetes;Terraform;FastAPI;Node.js;React.js;Google Cloud;Microsoft Azure;Microsoft SQL Server;PostgreSQL;Redis
+0,1,Master,7,Brana.Izaak,HTML/CSS;Java;JavaScript;Python;Rust;SQL;Docker;Flask;jQuery;AWS;DigitalOcean;PostgreSQL
+1,1,Undergraduate,10,Demetris.Edvard,Rust;Docker;Kubernetes;AWS;Google Cloud;MongoDB;Redis
+0,1,Undergraduate,9,Lanna.Pauly,Bash/Shell;C;Rust
+0,1,NoHigherEd,30,Margarette.Odysseus,Bash/Shell;C++;Haskell;HTML/CSS;JavaScript;PowerShell;Python;Docker;Homebrew;npm;Django;AWS;Heroku
+0,1,NoHigherEd,20,Ardys.Ehrman,Bash/Shell;Go;JavaScript;Python;SQL;Ansible;Docker;Homebrew;Kubernetes;Puppet;FastAPI;Flask;Node.js;React.js;DigitalOcean;Microsoft Azure;PostgreSQL;Redis;SQLite
+1,1,Undergraduate,9,Imojean.Raul,Bash/Shell;Elixir;Erlang;HTML/CSS;JavaScript;Kotlin;Python;TypeScript;Docker;npm;Terraform;Yarn;Express;Node.js;Phoenix;Svelte;Vue.js;AWS;Microsoft Azure;MySQL;PostgreSQL;SQLite
+0,1,Undergraduate,12,Merry.Byrne,Bash/Shell;Go;HTML/CSS;JavaScript;Python;Rust;TypeScript;Docker;Homebrew;npm;Yarn;Django;Express;FastAPI;Flask;Next.js;Node.js;React.js;DigitalOcean;Linode;Elasticsearch;MongoDB;PostgreSQL;Redis
+0,1,Master,13,Clo.Seumas,Rust;Docker;Homebrew;Kubernetes;Microsoft Azure
+0,1,Master,20,Kristan.Damarra,Bash/Shell;C++;Fortran;HTML/CSS;JavaScript;Perl;Python;Rust;SQL;TypeScript;Ansible;Docker;Homebrew;Yarn;Express;Flask;Next.js;Node.js;React.js;Linode;PostgreSQL;SQLite
+0,1,Undergraduate,30,Carmencita.Bevin,Clojure;AWS;Google Cloud;Heroku;PostgreSQL
+0,1,Undergraduate,13,Shannah.Boycey,C++;HTML/CSS;JavaScript;TypeScript;Docker;Homebrew;npm;Terraform;Yarn;Express;Node.js;React.js;AWS;Heroku;Linode;Elasticsearch;MongoDB;PostgreSQL;Redis
+0,1,Undergraduate,10,Sara-Ann.Corilla,C#;C++;Python;Rust;Docker;Unreal Engine;ASP.NET Core ;Blazor;DigitalOcean;SQLite
+1,1,Master,9,Maurene.Bahr,Bash/Shell;Go;Groovy;Python;R;Ruby;SQL;Ansible;Docker;Kubernetes;Terraform;Flask;AWS;DigitalOcean;Google Cloud;Linode;DynamoDB;PostgreSQL;Redis;SQLite
+0,1,Undergraduate,26,Sean.Vary,Elixir;Erlang;Ruby;Rust;Ansible;Homebrew;Kubernetes;Terraform;Ruby on Rails;AWS;Cassandra;DynamoDB;Elasticsearch;PostgreSQL;Redis
+0,1,Undergraduate,8,Sashenka.Chem,HTML/CSS;JavaScript;npm;Yarn;Express;Next.js;Node.js;React.js;MongoDB;PostgreSQL
+0,1,PhD,11,Lilith.Berard,C#;Python;Docker;Kubernetes;npm;Yarn;ASP.NET Core ;Flask;React.js;Microsoft Azure;Redis;SQLite
+0,1,Undergraduate,8,Gretal.Arathorn,C#;Kotlin;ASP.NET Core ;Microsoft Azure;Microsoft SQL Server;MongoDB;Redis
+0,1,Undergraduate,5,Kelly.Ambrosia,Dart;Swift;MongoDB
+1,1,Other,7,Gianina.Morehouse,Dart;Java;Objective-C;Python;Swift;Homebrew;Firebase
+1,1,Master,8,Nonnah.Natalia,HTML/CSS;Java;JavaScript;TypeScript;npm;Yarn;Angular;Angular.js;React.js
+0,1,Master,14,Carolina.Fillbert,HTML/CSS;JavaScript;TypeScript;npm;Next.js;React.js
+1,1,Master,40,Kathy.Podvin,Bash/Shell;Groovy;HTML/CSS;Java;JavaScript;jQuery;Elasticsearch;MongoDB
+0,1,Undergraduate,8,Alia.Radu,Go;Java;SQL;TypeScript;Docker;AWS;MongoDB;PostgreSQL
+0,1,NoHigherEd,6,Laurene.Raul,Go;JavaScript;Python;Rust;TypeScript;npm;Deno;Express;FastAPI;Fastify;jQuery;Node.js;MongoDB;MySQL;PostgreSQL
+0,1,Master,7,Camile.Amethist,C;C#;C++;Go;Java;Kotlin;Python;Rust;Docker;Homebrew;ASP.NET Core ;Node.js;AWS;PostgreSQL;Redis;SQLite
+0,1,Undergraduate,15,Malina.Wallis,C;Go;SQL;Docker;Kubernetes;AWS;OpenStack;PostgreSQL;Redis
+0,1,Undergraduate,20,Rani.Telfer,Bash/Shell;HTML/CSS;JavaScript;PHP;Rust;SQL;TypeScript;Docker;Kubernetes;npm;Terraform;Yarn;Express;Node.js;React.js;Vue.js;AWS;Google Cloud;Heroku;PostgreSQL
+1,1,Undergraduate,12,Frances.Stoller,HTML/CSS;Java;JavaScript;SQL;npm;Angular;Node.js;Oracle
+1,1,Undergraduate,10,Brooks.Macey,Bash/Shell;HTML/CSS;JavaScript;Perl;Python;SQL;Docker;Terraform;Flask;AWS;DigitalOcean;MariaDB;Redis;SQLite
+0,1,NoHigherEd,17,Valli.Connelly,JavaScript;Python;SQL;TypeScript;Flow;Homebrew;Kubernetes;npm;Angular;Node.js;React.js;AWS;Google Cloud;Microsoft Azure;OpenStack;Firebase Realtime Database;Redis
+0,1,PhD,25,Tami.Katrine,Bash/Shell;JavaScript;Lua;Python;Rust;SQL;TypeScript;Docker;npm;Pulumi;Yarn;Angular;Django;AWS;Firebase;Microsoft Azure;PostgreSQL;Redis
+0,1,Other,15,Brietta.Llovera,Ruby;Rust;Docker;npm;Ruby on Rails
+0,1,Undergraduate,8,Inga.Merat,C#;HTML/CSS;JavaScript;SQL;TypeScript;Docker;Angular;Angular.js;ASP.NET;ASP.NET Core ;jQuery;Node.js;React.js;Google Cloud;Microsoft SQL Server;Oracle
+0,1,Other,14,Jan.Sadowski,C#;Java;JavaScript;Kotlin;Docker;ASP.NET;ASP.NET Core ;Vue.js;MariaDB;MongoDB;PostgreSQL
+1,1,Undergraduate,6,Tami.Eiser,C#;Dart;HTML/CSS;Java;JavaScript;PHP;Python;SQL;TypeScript;Docker;npm;Unity 3D;Express;jQuery;Next.js;Node.js;React.js;AWS;Heroku;Microsoft Azure;MongoDB;MySQL;SQLite
+0,1,Master,10,Aili.Jena,HTML/CSS;JavaScript;Lua;Python;Rust;Scala;Docker;Homebrew;Kubernetes;npm;Pulumi;Terraform;Unreal Engine;Node.js;AWS;Microsoft Azure;DynamoDB;Microsoft SQL Server;MySQL;PostgreSQL
+1,1,Master,8,Brena.Maryanne,Assembly;Bash/Shell;C;C++;Go;Haskell;HTML/CSS;JavaScript;LISP;Lua;Python;Rust;SQL;Docker;Homebrew;Kubernetes;Cassandra;PostgreSQL;SQLite
+0,1,Undergraduate,5,Angela.Lilas,Bash/Shell;C#;HTML/CSS;JavaScript;PowerShell;TypeScript;Ansible;Docker;npm;Angular;Angular.js;ASP.NET;ASP.NET Core ;Deno;Gatsby;Node.js;React.js;Microsoft Azure;Microsoft SQL Server;Redis
+1,1,Other,14,Danika.Jotham,Groovy;HTML/CSS;Java;JavaScript;PowerShell;SQL;Ansible;Docker;jQuery;AWS;Microsoft Azure;Oracle Cloud Infrastructure;MySQL;Oracle;PostgreSQL
+0,1,Undergraduate,12,Cathie.Camden,HTML/CSS;JavaScript;Lua;PHP;Python;SQL;TypeScript;Docker;npm;Unity 3D;Unreal Engine;Laravel;React.js;Firebase;Microsoft Azure;Cloud Firestore;IBM DB2;MySQL;PostgreSQL
+1,1,Undergraduate,10,Devina.Henebry,Bash/Shell;Dart;Java;Kotlin;Python;Ruby;Scala;Docker;Homebrew;npm;Yarn;Firebase;SQLite
+1,1,Master,17,Calla.Annice,Bash/Shell;C#;C++;HTML/CSS;JavaScript;Rust;Unity 3D;Unreal Engine
+0,1,Undergraduate,8,Joleen.Concha,C#;HTML/CSS;JavaScript;Python;SQL;Docker;npm;Unity 3D;Unreal Engine;ASP.NET;ASP.NET Core ;Node.js;Microsoft Azure;Elasticsearch;Microsoft SQL Server
+0,1,Undergraduate,5,Jaclyn.Medrek,Bash/Shell;C#;Groovy;HTML/CSS;Java;PowerShell;Python;Rust;Scala;SQL;Docker;Homebrew;Kubernetes;Unity 3D;AWS;PostgreSQL
+0,1,Undergraduate,6,Sindee.Montgomery,C#;C++;Python;VBA;ASP.NET;ASP.NET Core 
+0,1,Other,2,Dari.Odysseus,HTML/CSS;JavaScript;Ruby;SQL;Node.js;React.js;Ruby on Rails;PostgreSQL
+1,1,Undergraduate,21,Willetta.Lorain,JavaScript;Python;SQL;TypeScript;Docker;Yarn;Node.js;React.js
+0,1,Undergraduate,8,Tami.Yorick,C#;PowerShell;Python;Microsoft SQL Server;MongoDB
+0,1,Master,5,Concettina.Wenda,Bash/Shell;Fortran;Java;Python;SQL;Ansible;Docker;Homebrew;Flask;AWS;Microsoft SQL Server;SQLite
+0,1,PhD,30,Gwenneth.Jobi,Assembly;Bash/Shell;C;Go;Haskell;Python;Ruby;Rust;Docker;Homebrew;AWS;PostgreSQL
+0,1,Master,20,Donetta.Pascia,Bash/Shell;C;Java;Python;SQL;Microsoft SQL Server;MySQL;SQLite
+0,1,Master,5,Shirlee.Friede,C++;Lua;Rust;AWS
+0,1,Undergraduate,10,Margalo.Sheedy,JavaScript;Python;TypeScript;Docker;Homebrew;Kubernetes;npm;Puppet;Terraform;Express;Flask;Node.js;React.js;AWS;MySQL
+1,1,Master,26,Adelle.Phi,Bash/Shell;C++;Rust
+0,1,PhD,20,Melisent.Sibyls,Bash/Shell;HTML/CSS;JavaScript;Python;Rust;SQL;TypeScript;Docker;Kubernetes;npm;Terraform;Unity 3D;Yarn;React.js;Google Cloud;Microsoft Azure
+1,1,Master,22,Collen.Ovid,Bash/Shell;HTML/CSS;JavaScript;Lua;Rust;SQL;TypeScript;Docker;npm;Yarn;Express;FastAPI;Next.js;Node.js;React.js;Svelte;Vue.js;Microsoft Azure;MongoDB;PostgreSQL;Redis
+0,1,Other,20,Steffane.Cadmar,C#;HTML/CSS;JavaScript;Python;TypeScript;npm;ASP.NET Core ;React.js;AWS;Microsoft SQL Server
+0,1,Master,6,Adelle.Krystle,Bash/Shell;C++;Delphi;HTML/CSS;JavaScript;Lua;Python;Rust;SQL;TypeScript;Docker;FastAPI;React.js;MariaDB
+1,1,NoHigherEd,3,Jaime.O'Neill,Bash/Shell;HTML/CSS;JavaScript;Python;TypeScript;Docker;Homebrew;npm;Terraform;Yarn;Django;Express;jQuery;Node.js;React.js;AWS;Firebase;Google Cloud;Heroku;Cloud Firestore;PostgreSQL;SQLite
+0,1,Other,22,Dede.Mozelle,Go;Java;Python;TypeScript;Docker;Kubernetes;npm;Next.js;AWS;VMware;Elasticsearch;MongoDB;MySQL;PostgreSQL
+0,1,Undergraduate,4,Harrietta.Kannry,Clojure;HTML/CSS;JavaScript;Rust;TypeScript;Firebase;Heroku;PostgreSQL;Firebase Realtime Database;SQLite
+0,1,Undergraduate,22,Katleen.Ball,Bash/Shell;Rust;SQL;Docker;Kubernetes;npm;Terraform;Colocation;Managed Hosting;Microsoft Azure;PostgreSQL;Redis
+1,1,Master,6,Viviene.McCutcheon,PowerShell;Python;R;SQL;Microsoft SQL Server;PostgreSQL;SQLite
+0,1,Undergraduate,19,Iseabal.Tice,C#;F#;OCaml;Rust;Scala;Docker;Kubernetes;Terraform;AWS;PostgreSQL;SQLite
+1,1,Undergraduate,18,Vonny.Poll,Bash/Shell;Clojure;HTML/CSS;JavaScript;SQL;TypeScript;React.js;AWS;PostgreSQL
+1,1,NoHigherEd,6,Orelia.Maples,Go;HTML/CSS;JavaScript;Ruby;TypeScript;Docker;npm;Terraform;Unreal Engine;Yarn;Express;Next.js;Nuxt.js;React.js;Ruby on Rails;Vue.js;AWS;Heroku;PostgreSQL;Redis
+1,1,Master,11,Gabi.Gaynor,HTML/CSS;JavaScript;TypeScript;Docker;npm;Puppet;Terraform;Yarn;Angular;Angular.js;jQuery;Node.js;React.js;Ruby on Rails;AWS;DynamoDB;MySQL;Redis
+0,1,Undergraduate,14,Kary.Fennessy,Bash/Shell;C;Java;Rust;SQL;Docker;Kubernetes;Terraform;Google Cloud;Microsoft Azure;OVH;PostgreSQL;SQLite
+0,1,Undergraduate,8,Annora.Vernier,C#;HTML/CSS;JavaScript;Rust;SQL;TypeScript;Docker;Kubernetes;npm;Express;Node.js;Svelte;DigitalOcean;Microsoft Azure;PostgreSQL;Redis
+1,1,Other,6,Nerta.Hedve,Bash/Shell;C#;HTML/CSS;JavaScript;PHP;Python;SQL;npm;Yarn;Next.js;Node.js;React.js;Google Cloud;VMware;MariaDB
+0,1,Other,20,Lusa.Amand,Bash/Shell;C;C#;C++;HTML/CSS;JavaScript;Python;Rust;Docker;Kubernetes;Google Cloud;Heroku;Microsoft Azure
+1,1,Undergraduate,12,Wileen.Schalles,C#;HTML/CSS;JavaScript;PowerShell;Python;SQL;TypeScript;Docker;npm;ASP.NET;ASP.NET Core ;Blazor;Django;Express;Node.js;React.js;Microsoft Azure;Microsoft SQL Server;MongoDB;MySQL;SQLite
+1,1,Undergraduate,13,Lynea.Gert,C++;HTML/CSS;JavaScript;Rust;TypeScript;npm;Angular;Node.js;Oracle
+0,1,Master,8,Flory.Malina,Bash/Shell;Go;JavaScript;Rust;Docker;npm;Terraform;FastAPI;Flask;Next.js;React.js;AWS;DynamoDB
+0,1,Other,4,Tatiania.Kress,C#;HTML/CSS;JavaScript;TypeScript;Docker;Kubernetes;npm;Yarn;Angular;ASP.NET Core ;Node.js;React.js;Microsoft Azure;MongoDB
+0,1,Master,8,Darlleen.Pozzy,Bash/Shell;C#;HTML/CSS;JavaScript;Python;SQL;VBA;ASP.NET;Blazor;jQuery;IBM DB2;Microsoft SQL Server
+0,1,Undergraduate,10,Corly.Brenn,C#;Python;SQL;TypeScript;Docker;Angular;Django;Flask;DigitalOcean;Firebase;Heroku;Microsoft Azure;Cloud Firestore;Microsoft SQL Server;PostgreSQL
+0,1,Undergraduate,5,Odessa.Gaal,C++;Go;PHP;SQL;Docker;Homebrew;Laravel;AWS;MySQL
+0,1,Undergraduate,8,Regina.Avi,Bash/Shell;C;C#;C++;Lua;Unity 3D
+0,1,Other,4,Sophia.Jotham,C#;HTML/CSS;JavaScript;PHP;SQL;TypeScript;npm;Angular;ASP.NET Core ;jQuery;Laravel;Node.js;Symfony;Vue.js;AWS;MariaDB;Microsoft SQL Server;MySQL
+1,1,Master,12,Penelopa.Camden,C;C++;HTML/CSS;JavaScript;PHP;Python;SQL;Ansible;Angular;Flask;jQuery;Node.js;React.js;DigitalOcean;Linode;OpenStack;OVH;MySQL;PostgreSQL;Redis;SQLite
+0,1,Undergraduate,10,Jeanna.Joli,C#;C++;HTML/CSS;JavaScript;PowerShell;SQL;TypeScript;Flow;Homebrew;Kubernetes;npm;Unity 3D;ASP.NET;ASP.NET Core ;jQuery;Node.js;React.js;Microsoft Azure;Microsoft SQL Server;MySQL
+0,1,Other,20,Justinn.Tristram,Go;HTML/CSS;Java;JavaScript;Python;Rust;Scala;TypeScript;Kubernetes;Puppet;Node.js;React.js;Google Cloud;PostgreSQL
+0,1,Undergraduate,19,Bobbi.Adamsen,HTML/CSS;JavaScript;Kotlin;Objective-C;PHP;SQL;Swift;TypeScript;Homebrew;Yarn;React.js;Managed Hosting;MariaDB;SQLite
+0,1,Undergraduate,3,Edith.Bonilla,PHP;Python;SQL;Docker;Django;Express;Flask;Node.js;MongoDB;MySQL;PostgreSQL;Redis
+0,1,Undergraduate,7,Clo.Merna,C#;Rust;VBA
+0,1,NoHigherEd,4,Jacquetta.Voletta,C#;HTML/CSS;JavaScript;SQL;TypeScript;npm;ASP.NET Core ;Node.js;Vue.js;Microsoft SQL Server
+1,1,Other,15,Sarette.Diann,HTML/CSS;Java;JavaScript;Rust;SQL;TypeScript;Docker;Kubernetes;npm;Yarn;Angular;Fastify;Node.js;React.js;Heroku;Microsoft Azure;MongoDB;Oracle;Redis
+0,1,Undergraduate,21,Tina.Weitman,Haskell;HTML/CSS;Java;Scala;SQL;Heroku;MariaDB;Microsoft SQL Server;PostgreSQL;SQLite
+0,1,Undergraduate,8,Kayla.Campball,C#;HTML/CSS;JavaScript;SQL;TypeScript;npm;Node.js;React.js;Vue.js;AWS;DynamoDB;PostgreSQL
+0,1,NoHigherEd,9,Dania.Edmund,C;C++;Python;Docker;Homebrew;AWS;DynamoDB;Redis
+0,1,Undergraduate,6,Laurene.Wiener,Bash/Shell;C;C++;Go;HTML/CSS;Java;JavaScript;Lua;MATLAB;PowerShell;Python;SQL;Docker;npm;Django;Flask;jQuery;Vue.js;DigitalOcean;Google Cloud;Linode;OpenStack;MySQL;Neo4j;PostgreSQL;SQLite
+0,1,Undergraduate,14,Hettie.Sikorski,C#;Java;JavaScript;SQL;TypeScript;Docker;Homebrew;npm;Pulumi;Terraform;Yarn;ASP.NET Core ;Deno;FastAPI;Node.js;React.js;Svelte;Vue.js;AWS;Firebase;Google Cloud;DynamoDB;PostgreSQL;Redis;SQLite
+1,1,Undergraduate,38,Stacey.Lynn,Bash/Shell;C;C#;C++;Go;Groovy;HTML/CSS;Java;JavaScript;Perl;PHP;Python;Ruby;Rust;SQL;Ansible;Docker;Puppet;Unity 3D;Unreal Engine;Django;Flask;React.js;Cassandra;Elasticsearch;MariaDB;MongoDB;MySQL;Neo4j;PostgreSQL;Redis;SQLite
+1,1,Undergraduate,8,Fidelia.Peti,HTML/CSS;Java;JavaScript;Kotlin;Python;Scala;TypeScript;Docker;Kubernetes;npm;Terraform;Angular;AWS;Microsoft Azure;PostgreSQL
+0,1,Master,8,Dale.Zuzana,Bash/Shell;C++;Rust;VMware
+0,1,Undergraduate,5,Amara.Nikaniki,HTML/CSS;JavaScript;Perl;Python;SQL;TypeScript;npm;Express;Node.js;React.js;Microsoft SQL Server
+1,1,Undergraduate,13,Harmonia.Waldron,HTML/CSS;Java;JavaScript;SQL;Docker;Kubernetes;npm;Node.js;React.js;AWS;Linode;Cassandra;DynamoDB;Elasticsearch;MySQL;PostgreSQL;Redis
+1,1,Other,20,Merrie.Waite,JavaScript;Rust;TypeScript;npm;Vue.js;PostgreSQL
+0,1,Other,9,Tiffie.Evvie,Bash/Shell;C++;Java;Rust;Deno;React.js
+1,1,Undergraduate,10,Cristine.Pandolfi,C#;JavaScript;SQL;TypeScript;Angular;Angular.js;ASP.NET;ASP.NET Core ;Microsoft Azure;Microsoft SQL Server;MongoDB;MySQL
+0,1,Master,3,Deane.Lewes,HTML/CSS;Java;TypeScript;Docker;Homebrew;npm;Yarn;Express;Node.js;React.js;AWS;PostgreSQL
+0,1,Master,10,Jaime.Alrich,Elixir;SQL;TypeScript;Docker;Yarn;Gatsby;Node.js;Phoenix;Vue.js;AWS;DigitalOcean;OVH;DynamoDB;Elasticsearch;PostgreSQL;SQLite
+0,1,Undergraduate,7,Chickie.Elisha,C#;F#;HTML/CSS;JavaScript;TypeScript;npm;ASP.NET Core ;Blazor;Express;Next.js;React.js;Microsoft Azure;Microsoft SQL Server;PostgreSQL
+0,1,Undergraduate,8,Gusty.Colleen,Assembly;C;C++;JavaScript;MATLAB;Python;R;Docker
+1,1,Other,12,Allyce.Ovid,Bash/Shell;C;C#;C++;Clojure;Delphi;Go;Groovy;Haskell;HTML/CSS;Java;JavaScript;Kotlin;Lua;PHP;Rust;Scala;SQL;Docker;Homebrew;Kubernetes;npm;Yarn;jQuery;Node.js;Play Framework;AWS;Google Cloud;Elasticsearch;MariaDB;MongoDB;MySQL;PostgreSQL;Redis
+0,1,Undergraduate,16,Margarette.Mandler,Bash/Shell;C#;C++;Java;JavaScript;PowerShell;Ruby;SQL;TypeScript;npm;Angular;ASP.NET Core ;jQuery;Microsoft SQL Server
+0,1,Undergraduate,12,Dorene.Hurley,C;Go;HTML/CSS;JavaScript;Rust;Docker;Vue.js;Colocation;DigitalOcean;PostgreSQL;SQLite
+0,1,Undergraduate,5,Mignon.Cutlerr,Bash/Shell;C#;HTML/CSS;JavaScript;PowerShell;Rust;SQL;TypeScript;Docker;Kubernetes;npm;Unity 3D;Angular;ASP.NET;ASP.NET Core ;Deno;Express;Gatsby;jQuery;Node.js;React.js;DigitalOcean;Microsoft SQL Server;MongoDB;PostgreSQL;SQLite
+0,1,Master,6,Tabbatha.Santoro,C#;JavaScript;Python;TypeScript;Docker;npm;Terraform;Yarn;ASP.NET Core ;React.js;AWS;Microsoft Azure;DynamoDB;Elasticsearch;PostgreSQL;Redis
+0,1,PhD,8,Aurelie.Tremayne,Dart;HTML/CSS;JavaScript;Python;R;Rust;SQL;Docker;Homebrew;Kubernetes;Pulumi;Terraform;FastAPI;Flask;Microsoft Azure;MongoDB;PostgreSQL
+0,1,Undergraduate,19,Kalina.Wesle,Bash/Shell;Groovy;HTML/CSS;Java;JavaScript;PowerShell;Python;SQL;TypeScript;Docker;Kubernetes;Terraform;React.js;AWS;MongoDB;MySQL
+0,1,Other,23,Madelle.Winthorpe,Rust;Docker;Ruby on Rails;Managed Hosting;MariaDB;Redis
+0,1,Master,5,Elvira.Forrer,Bash/Shell;C#;JavaScript;Python;SQL;TypeScript;Docker;Homebrew;npm;Yarn;ASP.NET;ASP.NET Core ;Node.js;AWS;Elasticsearch;Microsoft SQL Server;PostgreSQL;Redis
+0,1,Undergraduate,4,Nerta.Jagir,Bash/Shell;Python;Rust;TypeScript;npm
+0,1,Other,35,Jacenta.Dex,C#;HTML/CSS;Java;JavaScript;SQL;TypeScript;npm;Angular;ASP.NET Core ;Node.js;Microsoft Azure;VMware;Microsoft SQL Server;PostgreSQL;Redis;SQLite
+1,1,Master,6,Danny.Alcott,Go;JavaScript;Python;Rust;SQL;Docker;AWS;Google Cloud;MariaDB;SQLite
+0,1,Other,14,Mildrid.Prober,Java;JavaScript;Kotlin;SQL;Docker;Vue.js;AWS;DigitalOcean;PostgreSQL;SQLite
+0,1,Undergraduate,12,Latisha.Jacobah,Bash/Shell;C;C#;Dart;Elixir;Erlang;Java;JavaScript;Python;Rust;SQL;Swift;TypeScript;Ansible;Docker;Homebrew;npm;Yarn;ASP.NET Core ;Express;Phoenix;React.js;AWS;DigitalOcean;Heroku;PostgreSQL;Redis
+0,1,Master,5,Annice.Ursulette,Bash/Shell;C++;HTML/CSS;Lua;Python;Rust;SQL;Puppet;Microsoft Azure;Couchbase;MariaDB;PostgreSQL
+0,1,Undergraduate,16,Ginnie.Hirsch,HTML/CSS;Scala;TypeScript;Docker;Kubernetes;npm;Angular;Google Cloud;MongoDB
+1,1,Undergraduate,20,Carol-Jean.Demitria,C;Elixir;Erlang;F#;Go;Groovy;Haskell;HTML/CSS;Java;JavaScript;Kotlin;OCaml;Scala;SQL;Chef;Docker;Kubernetes;npm;Puppet;Flask;Node.js;Play Framework;AWS;DigitalOcean;OVH;Cassandra;Elasticsearch;MySQL;PostgreSQL;Redis;SQLite
+0,1,Master,10,Sadie.Oscar,Go;Rust;SQL;TypeScript;Ansible;Docker;Homebrew;npm;Terraform;Yarn;Deno;Node.js;Vue.js;AWS;DynamoDB;Elasticsearch;MariaDB;MySQL;PostgreSQL
+0,1,Other,10,Gerrie.Colbert,Bash/Shell;Go;Groovy;HTML/CSS;Java;JavaScript;Kotlin;PHP;Python;Rust;SQL;TypeScript;Docker;Homebrew;npm;Yarn;jQuery;Node.js;React.js;AWS;Firebase;Linode;Cloud Firestore;Firebase Realtime Database;Redis;SQLite
+0,1,Undergraduate,10,Corly.Carri,HTML/CSS;JavaScript;PHP;SQL;TypeScript;Docker;npm;Puppet;Yarn;Express;jQuery;Laravel;Node.js;Symfony;Vue.js;AWS;Linode;Elasticsearch;MySQL;Redis
+1,1,Undergraduate,19,Doro.Socha,Bash/Shell;HTML/CSS;Java;JavaScript;PowerShell;Python;SQL;TypeScript;Docker;Homebrew;Kubernetes;npm;Yarn;Angular;Angular.js;Gatsby;Node.js;React.js;Vue.js;AWS;Microsoft Azure;IBM DB2;Microsoft SQL Server;MongoDB;Neo4j;PostgreSQL
+0,1,Undergraduate,18,Marleah.Belldas,Bash/Shell;HTML/CSS;Java;JavaScript;Python;SQL;Docker;Yarn;Node.js;Vue.js;AWS;DynamoDB;Elasticsearch;MongoDB;PostgreSQL;Redis
+0,1,Undergraduate,11,Allis.Robertson,Bash/Shell;Java;JavaScript;Kotlin;Python;Rust;SQL;Chef;Docker;Kubernetes;npm;Terraform;Node.js;React.js;Microsoft Azure;PostgreSQL
+1,1,Undergraduate,6,Donnie.Atcliffe,Bash/Shell;Go;JavaScript;Python;SQL;TypeScript;Chef;Docker;Homebrew;npm;Terraform;FastAPI;Node.js;Vue.js;AWS;VMware;PostgreSQL
+0,1,Master,13,Chrystel.Salvidor,Bash/Shell;Clojure;Elixir;HTML/CSS;PHP;SQL;Docker;Homebrew;Kubernetes;npm;Symfony;AWS;MySQL
+1,1,PhD,26,Jacenta.Audly,Bash/Shell;JavaScript;Python;SQL;VBA;SQLite
+0,1,Master,10,Celisse.Wind,Bash/Shell;C#;Java;Julia;Python;Rust;Docker;Homebrew;Terraform;AWS;Google Cloud;PostgreSQL
+1,1,Undergraduate,14,Daune.Kenwood,Bash/Shell;C#;Go;HTML/CSS;JavaScript;PowerShell;Python;SQL;Swift;VBA;Ansible;Docker;Kubernetes;FastAPI;Flask;jQuery;AWS;Google Cloud;Microsoft Azure;VMware;Elasticsearch;MariaDB;Microsoft SQL Server;MySQL;Neo4j;PostgreSQL
+1,1,Master,7,Jasmina.Marisa,Bash/Shell;C++;Python;Rust;Ansible;Docker;MySQL;PostgreSQL;Redis
+0,1,Undergraduate,12,Elfreda.Morgun,C;C#;C++;PowerShell;Python
+0,1,Master,8,Ricky.Dom,C++;Python
+1,1,Undergraduate,3,Doro.Loeb,C#;HTML/CSS;JavaScript;Python;Rust;TypeScript;npm;Yarn;Angular;React.js;Microsoft Azure;Microsoft SQL Server;PostgreSQL;SQLite
+1,1,Undergraduate,7,Pamella.Chinua,C;C#;Java;Python;npm;Unity 3D;DigitalOcean;SQLite
+0,1,Master,7,Bill.Kronfeld,Bash/Shell;C#;C++;Python;Docker;Microsoft SQL Server
+0,1,PhD,16,Annecorinne.Goddard,Bash/Shell;C#;HTML/CSS;JavaScript;Lua;Python;TypeScript;npm;ASP.NET;jQuery;Microsoft Azure;Microsoft SQL Server;SQLite
+0,1,Master,22,Daphne.Avi,Bash/Shell;C#;C++;SQL;Docker;Oracle;SQLite
+1,1,NoHigherEd,14,Valeda.Quinn,C#;Go;HTML/CSS;JavaScript;PHP;Python;Rust;SQL;Swift;Ansible;Kubernetes;npm;Puppet;Yarn;Django;Flask;Linode;Microsoft Azure;MariaDB;Microsoft SQL Server;MySQL;PostgreSQL;Redis;SQLite
+1,1,Undergraduate,6,Elfreda.Juliet,C++;Python;Rust;Docker;Kubernetes;Google Cloud;Linode;Microsoft Azure
+1,1,Undergraduate,17,Kelly.Heidt,C#;HTML/CSS;JavaScript;PowerShell;SQL;TypeScript;Chef;Angular;ASP.NET;ASP.NET Core ;Node.js;AWS;Colocation;Microsoft Azure;Microsoft SQL Server;Redis
+0,1,Undergraduate,6,Cacilie.Vittoria,C#;HTML/CSS;JavaScript;PHP;SQL;TypeScript;npm;Yarn;jQuery;Node.js;React.js;Firebase;Heroku;Microsoft Azure;MySQL;Firebase Realtime Database
+1,1,Undergraduate,6,Roberta.Ammann,HTML/CSS;Java;JavaScript;Kotlin;SQL;TypeScript;Docker;Homebrew;npm;Terraform;Yarn;Express;React.js;DigitalOcean;Google Cloud;Microsoft Azure;MongoDB;MySQL;Firebase Realtime Database
+1,1,Master,7,Basia.Aldric,Bash/Shell;C;C++;Julia;Lua;Python;Rust;Ansible;Docker;Homebrew;MongoDB;PostgreSQL
+1,1,Other,30,Yolane.Friede,Bash/Shell;HTML/CSS;JavaScript;Ruby;TypeScript;Docker;Homebrew;npm;Terraform;Yarn;Next.js;Node.js;React.js;AWS;PostgreSQL
+1,1,Undergraduate,8,Cristabel.Pelagias,Groovy;JavaScript;Kotlin;SQL;TypeScript;Express;Node.js;AWS;DynamoDB;PostgreSQL
+0,1,Undergraduate,16,Aeriela.Rugen,Bash/Shell;C#;C++;HTML/CSS;Kotlin;PowerShell;Python;Docker;Unreal Engine;ASP.NET Core ;Flask;Google Cloud;Microsoft Azure;Elasticsearch;MySQL;PostgreSQL;SQLite
+0,1,Undergraduate,25,Sophia.Karna,Bash/Shell;C#;HTML/CSS;JavaScript;PowerShell;Python;SQL;TypeScript;npm;Terraform;Angular;ASP.NET Core ;React.js;Svelte;AWS;Microsoft Azure;Microsoft SQL Server;PostgreSQL;SQLite
+0,1,PhD,11,Sandie.Charity,Java;Python;SQL;Docker;AWS;PostgreSQL
+0,1,Undergraduate,11,Carol-Jean.Tufts,Dart;HTML/CSS;JavaScript;SQL;TypeScript;npm;Yarn;Angular;Angular.js;Express;jQuery;Node.js;React.js;MySQL;PostgreSQL;Redis
+0,1,Undergraduate,24,Carilyn.Kevon,C#;HTML/CSS;Java;PowerShell;SQL;TypeScript;Docker;Kubernetes;npm;Yarn;Angular;ASP.NET Core ;Gatsby;Node.js;React.js;Vue.js;AWS;Microsoft Azure;Elasticsearch;Microsoft SQL Server;MongoDB;Redis
+0,1,Master,34,Marita.Kevon,Bash/Shell;C#;HTML/CSS;JavaScript;PHP;PowerShell;Python;SQL;Docker;jQuery;Microsoft SQL Server;PostgreSQL
+0,1,Undergraduate,16,Vanessa.Rugen,Python;Docker;Angular;AWS;MongoDB;SQLite
+0,1,Undergraduate,17,Laurene.Ball,Bash/Shell;HTML/CSS;JavaScript;Rust;TypeScript;Ansible;Docker;npm;Terraform;Yarn;Drupal;Node.js;Vue.js;AWS;DynamoDB;Microsoft SQL Server;MySQL;PostgreSQL
+1,1,Undergraduate,18,Wileen.Hertzfeld,Bash/Shell;C;C++;Python;Rust
+1,1,NoHigherEd,9,Marinna.Ludewig,C#;C++;HTML/CSS;JavaScript;ASP.NET;ASP.NET Core ;jQuery;Google Cloud;Microsoft Azure;Microsoft SQL Server;Oracle
+1,1,Undergraduate,32,Nonnah.Blase,APL;Assembly;Bash/Shell;C;C#;C++;Go;HTML/CSS;Java;JavaScript;LISP;Perl;Python;R;Ruby;SQL;Flask;AWS;MySQL;PostgreSQL
+0,1,Undergraduate,23,Concettina.Israeli,C;C#;C++;HTML/CSS;Java;JavaScript;Python;SQL;Docker;npm;Express;Fastify;Next.js;Node.js;AWS;Microsoft Azure;VMware;DynamoDB;IBM DB2;MariaDB;Microsoft SQL Server;MongoDB;MySQL;Oracle;PostgreSQL;SQLite
+0,1,Undergraduate,10,Emelina.Gombach,Assembly;Bash/Shell;C;C++;Python;Rust;Ansible;AWS;Google Cloud;Microsoft Azure
+0,1,Other,17,Kalina.Pitt,C;C++;Rust;SQL;Node.js;AWS
+1,1,Undergraduate,15,Alex.Tjon,COBOL;Java;JavaScript;SQL;Docker;Kubernetes;npm;Terraform;Node.js;AWS;Google Cloud;Heroku;Microsoft Azure;DynamoDB;MySQL;SQLite
+0,1,Master,8,Cordi.Podvin,Bash/Shell;C;C++;Fortran;Julia;MATLAB;Python;Docker;Homebrew
+0,1,Master,7,Amelia.O'Neill,Rust;TypeScript;Docker;npm;Yarn;Google Cloud;PostgreSQL;Redis;SQLite
+1,1,Undergraduate,35,Georgetta.Jerold,C#;HTML/CSS;JavaScript;PowerShell;SQL;TypeScript;Docker;Kubernetes;Terraform;Unity 3D;ASP.NET;ASP.NET Core ;Blazor;jQuery;DigitalOcean;Managed Hosting;Microsoft Azure;Microsoft SQL Server;Oracle;PostgreSQL;Redis;SQLite
+0,1,Master,9,Sissy.Sacken,C;C++;HTML/CSS;JavaScript;Python;Rust;TypeScript;Homebrew;Angular;Angular.js;SQLite
+0,1,Undergraduate,7,Annabela.Narton,JavaScript;Ruby;SQL;TypeScript;Docker;Kubernetes;npm;Yarn;Node.js;React.js;Ruby on Rails;AWS;Google Cloud;MongoDB;MySQL
+0,1,Undergraduate,25,Doro.Karylin,Bash/Shell;C;C#;C++;HTML/CSS;JavaScript;PHP;Python;Rust;SQL;TypeScript;Docker;npm;Flask;Laravel;Vue.js;DigitalOcean;Firebase;Microsoft Azure;MySQL;PostgreSQL;SQLite
+0,1,NoHigherEd,24,Tersina.Klotz,Bash/Shell;Python;CouchDB
+1,1,Undergraduate,8,Aaren.Land,Java;Python;Scala;SQL;Docker;Kubernetes;Puppet;MySQL
+1,1,Undergraduate,20,Heida.Randene,HTML/CSS;Rust;SQL;TypeScript;Docker;Kubernetes;npm;Node.js;Microsoft Azure;Microsoft SQL Server;Redis
+0,1,PhD,7,Renae.Persse,Bash/Shell;HTML/CSS;JavaScript;Python;Rust;Solidity;TypeScript;Docker;Homebrew;npm;Yarn;jQuery;AWS;Heroku
+1,1,Undergraduate,6,Cam.Alisia,Bash/Shell;HTML/CSS;Java;JavaScript;PHP;PowerShell;Python;SQL;TypeScript;Docker;npm;Express;Gatsby;jQuery;Next.js;Node.js;React.js;Managed Hosting;MariaDB;Microsoft SQL Server;MySQL;Redis
+1,1,NoHigherEd,25,Brooks.Therine,Bash/Shell;Go;HTML/CSS;JavaScript;PHP;Python;Rust;TypeScript;Ansible;Docker;npm;Yarn;Angular;Angular.js;Node.js;Svelte;Symfony;Vue.js;AWS;Elasticsearch;MariaDB;Redis
+1,1,Undergraduate,13,Angelique.MacIntosh,Bash/Shell;C;C++;Elixir;Erlang;HTML/CSS;JavaScript;Python;Rust;SQL;TypeScript;Docker;npm;React.js;Vue.js;DigitalOcean;PostgreSQL
+0,1,Other,22,Aurelie.Lay,Bash/Shell;Go;Java;JavaScript;Objective-C;PowerShell;Python;SQL;Ansible;Chef;Docker;Flow;Homebrew;Kubernetes;npm;Pulumi;Terraform;ASP.NET;Node.js;AWS;DigitalOcean;Microsoft Azure;OpenStack;VMware;DynamoDB;Elasticsearch;Oracle;PostgreSQL;Redis
+1,1,Other,14,Wilma.Greenwald,Go;HTML/CSS;JavaScript;Kotlin;Rust;TypeScript;Docker;Kubernetes;npm;Angular;Express;Fastify;Next.js;Node.js;React.js;AWS;DigitalOcean;Firebase;OVH;Elasticsearch;MongoDB;PostgreSQL;Redis
+0,1,Other,26,Ermengarde.Percy,Go;HTML/CSS;JavaScript;PHP;SQL;TypeScript;Docker;Kubernetes;npm;Express;jQuery;Laravel;Node.js;React.js;Vue.js;AWS;DigitalOcean;Firebase;Google Cloud;Heroku;Managed Hosting;Microsoft Azure;Cloud Firestore;Microsoft SQL Server;MongoDB;MySQL;Firebase Realtime Database
+1,1,PhD,15,Cassondra.Fredi,Bash/Shell;C;C++;Go;Julia;Lua;OCaml;Rust;Ansible;Docker;Homebrew;Django;Node.js;React.js;Svelte;DigitalOcean;Firebase;Firebase Realtime Database
+0,1,Undergraduate,10,Annecorinne.Pacorro,Assembly;Bash/Shell;C;C++;Go;Docker
+0,1,Master,17,Hope.Celestine,C#;C++;Java;JavaScript;Kotlin;Objective-C;PHP;Rust;SQL;TypeScript;Docker;npm;Unity 3D;Unreal Engine;Angular;ASP.NET;ASP.NET Core ;Express;Flask;Gatsby;jQuery;Next.js;Node.js;React.js;AWS;Firebase;Google Cloud;Heroku;Microsoft Azure;Cloud Firestore;DynamoDB;MongoDB;MySQL;SQLite
+0,1,Other,15,Mallory.Deny,Bash/Shell;Java;JavaScript;Perl;PHP;SQL;TypeScript;Ansible;Docker;npm;Yarn;Angular;jQuery;React.js;Symfony;AWS;Elasticsearch;MariaDB;MySQL;Redis;SQLite
+1,1,Undergraduate,12,Malina.Corilla,Bash/Shell;Go;HTML/CSS;JavaScript;Lua;TypeScript;Docker;Homebrew;npm;Yarn;Gatsby;Next.js;Node.js;React.js;Redis
+0,1,Undergraduate,15,Zsa Zsa.Stav,Bash/Shell;Elixir;Groovy;Java;JavaScript;Kotlin;Rust;SQL;TypeScript;Docker;Kubernetes;npm;Angular;Next.js;Phoenix;React.js;Vue.js;AWS;Oracle Cloud Infrastructure;OVH;MongoDB;PostgreSQL
+0,1,Undergraduate,10,Florie.Nelsen,C++;Python;Rust;SQL;Docker;Kubernetes;AWS;MySQL;PostgreSQL;SQLite
+1,1,Undergraduate,17,Hannis.Autrey,Bash/Shell;C;Python;Rust;Docker;Homebrew;Kubernetes;Terraform;Flask;AWS;Elasticsearch;PostgreSQL;Redis
+0,1,Master,7,Dagmar.Kirstin,Java;SQL;Docker;Kubernetes;Elasticsearch;PostgreSQL;Redis
+0,1,Undergraduate,36,Amara.Roxanna,C#;Crystal;PowerShell;SQL;Microsoft SQL Server
+0,1,Master,5,June.Nea,C#;HTML/CSS;Java;Python;SQL;VBA;npm;React.js;VMware;Oracle
+0,1,Undergraduate,15,Heida.Andrel,Bash/Shell;HTML/CSS;JavaScript;PowerShell;Python;SQL;TypeScript;Docker;Homebrew;Node.js;React.js;AWS;DynamoDB;Elasticsearch;PostgreSQL
+0,1,Undergraduate,20,Siana.Myrilla,HTML/CSS;Java;JavaScript;PHP;TypeScript;Ansible;Homebrew;Kubernetes;Terraform;Yarn;Express;jQuery;Next.js;Node.js;React.js;Symfony;AWS;Google Cloud;Cloud Firestore;Elasticsearch;Microsoft SQL Server;MySQL;Oracle;PostgreSQL;Redis
+0,1,Undergraduate,30,Eolanda.Daveta,Clojure;Ruby;Homebrew;npm;Yarn;Ruby on Rails;AWS;DigitalOcean;Heroku;Linode;Elasticsearch;PostgreSQL;Redis
+1,1,Undergraduate,13,Calla.Mozelle,Bash/Shell;HTML/CSS;JavaScript;PowerShell;Python;SQL;Docker;npm;Yarn;ASP.NET Core ;Node.js;Vue.js;AWS;MongoDB;MySQL;SQLite
+0,1,Undergraduate,7,Melina.Fleeta,C;C#;C++;Java;JavaScript;Python;Homebrew;Unity 3D;Django;React.js;MariaDB;MySQL;SQLite
+0,1,Master,11,Winifred.Norrie,Python;SQL;Docker;SQLite
+1,1,Master,6,Johna.Ammann,HTML/CSS;Java;JavaScript;Docker;npm;Yarn;Next.js;Node.js;React.js;Firebase;Heroku;Microsoft SQL Server;MySQL;PostgreSQL
+0,1,Other,25,Kristan.Dowski,Elixir;Erlang;HTML/CSS;JavaScript;SQL;TypeScript;Ansible;Docker;Homebrew;npm;Yarn;Phoenix;React.js;Colocation;DigitalOcean;MySQL;PostgreSQL;SQLite
+0,1,NoHigherEd,15,Cassandra.Docilla,JavaScript;npm;Node.js
+0,1,Undergraduate,12,Zia.Ventre,Assembly;Bash/Shell;C++;PowerShell;Python;Rust
+0,1,Other,6,Dorthy.Guthrie,Java;Chef;Docker;Kubernetes;AWS
+0,1,Undergraduate,17,Darlleen.Jerold,Bash/Shell;C;C++;Go;HTML/CSS;JavaScript;Rust;TypeScript;Docker;Kubernetes;Terraform;React.js;AWS;Couchbase;DynamoDB;Elasticsearch;PostgreSQL;Redis;SQLite
+0,1,Undergraduate,18,Elie.Lissi,HTML/CSS;JavaScript;PHP;Rust;SQL;TypeScript;Docker;npm;Angular;Drupal;Fastify;Laravel;Symfony;AWS;Elasticsearch;MariaDB;PostgreSQL;Redis
+0,1,PhD,22,Camile.Nickola,Bash/Shell;Haskell;HTML/CSS;Objective-C;Rust;Docker;Homebrew;PostgreSQL;SQLite
+1,1,Undergraduate,11,Nita.Wu,Bash/Shell;HTML/CSS;JavaScript;Python;Rust;SQL;TypeScript;Docker;Kubernetes;Terraform;Flask;React.js;Google Cloud;Microsoft Azure;Elasticsearch
+0,1,Undergraduate,22,Sophia.Serilda,HTML/CSS;JavaScript;PowerShell;Python;Solidity;Docker;FastAPI;Flask;jQuery;AWS;Elasticsearch;SQLite
+0,1,Undergraduate,7,Marleah.Ophelia,Bash/Shell;Go;Java;SQL;Docker;Terraform;AWS;DynamoDB;MySQL
+1,1,Undergraduate,9,Dotty.Adalbert,HTML/CSS;JavaScript;Python;TypeScript;Docker;Homebrew;npm;Flask;React.js;Microsoft Azure;Microsoft SQL Server
+0,1,PhD,27,Ebonee.Erich,Python;R;SQL;Docker;Homebrew;FastAPI;AWS;Google Cloud;Microsoft Azure;SQLite
+0,1,Other,10,Claudina.Sherfield,Bash/Shell;Dart;Go;HTML/CSS;JavaScript;PHP;SQL;TypeScript;Docker;npm;Pulumi;Yarn;Angular;Express;FastAPI;Fastify;Gatsby;Next.js;Node.js;React.js;AWS;DigitalOcean;Firebase;Google Cloud;Elasticsearch;MariaDB;MySQL;PostgreSQL;Redis;SQLite
+0,1,Undergraduate,6,Annaliese.Poll,Bash/Shell;Go;Python;Rust;Ansible;Docker;Homebrew;Kubernetes;Terraform;Flask;AWS;DigitalOcean;Microsoft Azure;Elasticsearch;Microsoft SQL Server;PostgreSQL;SQLite
+0,1,Master,19,Roslyn.Harriman,C++;Rust;Docker
+1,1,Undergraduate,16,Leanna.Etom,Assembly;Bash/Shell;C;C++;PowerShell;Python;Docker
+0,1,Other,14,Tabbatha.Whittaker,C#;HTML/CSS;JavaScript;Python;SQL;TypeScript;npm;Angular;ASP.NET Core ;Microsoft Azure;Microsoft SQL Server
+1,1,Master,35,Beth.Francyne,HTML/CSS;Java;JavaScript;Python;Ruby;SQL;Ansible;Homebrew;Node.js;React.js;Ruby on Rails;OpenStack;MySQL;SQLite
+0,1,Master,22,Dotty.Bartlett,Bash/Shell;Rust;Kubernetes;AWS;PostgreSQL;Redis
+1,1,Undergraduate,14,Annabela.Evvie,Bash/Shell;Go;HTML/CSS;JavaScript;Python;Node.js;DynamoDB
+1,1,Undergraduate,8,Gwyneth.Shama,C#;HTML/CSS;Java;JavaScript;SQL;VBA;Docker;Kubernetes;npm;ASP.NET;ASP.NET Core ;Node.js;React.js;Microsoft Azure;VMware;Microsoft SQL Server;MySQL;SQLite
+0,1,Master,16,Shaine.Philoo,Assembly;C++;Go;HTML/CSS;JavaScript;Ruby;SQL;Docker;Terraform;Node.js;AWS;Linode;PostgreSQL;Redis
+0,1,Master,22,Hettie.Jacqui,Go;Java;Python;Docker;Homebrew;Terraform;Django;AWS;Colocation;Microsoft Azure;DynamoDB;Elasticsearch;MariaDB;MongoDB;MySQL;Redis
+1,1,PhD,6,Leia.McNully,HTML/CSS;Python;R;SQL;Kubernetes;AWS;PostgreSQL
+1,1,Undergraduate,40,Emma.Byrne,Scala;Docker;AWS;DynamoDB
+0,1,Master,10,Renae.McLaughlin,C;C++;JavaScript;Python;Rust;Docker;Homebrew;AWS
+0,1,Undergraduate,6,Jolyn.Breed,C;C++;Go;Python;Docker;Homebrew;Kubernetes;Django;Flask;AWS;Firebase;DynamoDB;MongoDB;Firebase Realtime Database;Redis
+1,1,Undergraduate,5,Tiffie.Keelia,Elixir;HTML/CSS;JavaScript;Python;Rust;TypeScript;Homebrew;npm;Yarn;Deno;Django;Node.js;React.js;AWS;DigitalOcean;Firebase;Google Cloud;Heroku;Cloud Firestore;PostgreSQL;Redis
+1,1,Master,38,Tani.Alarise,C;Go;Perl;Python;R;Rust;Docker;Homebrew;SQLite
+0,1,Undergraduate,16,Sara-Ann.Nea,C++;Elixir;JavaScript;Ruby;Ansible;Docker;Homebrew;npm;Pulumi;Terraform;Unreal Engine;Yarn;Phoenix;React.js;Ruby on Rails;AWS;Heroku;MySQL;PostgreSQL;Redis
+0,1,Undergraduate,8,Linet.Mott,Go;Rust;Docker;Homebrew;AWS
+1,1,Undergraduate,15,Joceline.Teddman,C#;Java;JavaScript;Ruby;SQL;TypeScript;Docker;Homebrew;Kubernetes;npm;Yarn;Angular;Angular.js;ASP.NET;ASP.NET Core ;Node.js;React.js;Ruby on Rails;Firebase;Google Cloud;Microsoft SQL Server;MySQL;Redis
+1,1,Undergraduate,8,Stevana.Chrystel,Bash/Shell;Go;HTML/CSS;Java;JavaScript;Python;Docker;Homebrew;Kubernetes;Terraform;Yarn;React.js;Vue.js;AWS;Cassandra;MongoDB;PostgreSQL
+1,1,Undergraduate,8,Trixi.Minetta,Python;SQLite
+1,1,Undergraduate,12,Roberta.Izaak,HTML/CSS;JavaScript;SQL;TypeScript;Docker;Homebrew;npm;Yarn;Express;Node.js;React.js;AWS;Heroku;Microsoft Azure;PostgreSQL;Redis
+0,1,Master,8,Charissa.Brittani,Bash/Shell;Go;HTML/CSS;Java;JavaScript;Rust;SQL;Swift;Docker;Express;Node.js;Vue.js;OVH;MySQL;SQLite
+0,1,Undergraduate,15,Valera.Ricarda,Bash/Shell;Erlang;Go;Python;Rust;SQL;Ansible;Terraform;Flask;AWS;DigitalOcean;Linode;DynamoDB;PostgreSQL;Redis;SQLite
+1,1,Undergraduate,15,Janey.Winnick,Bash/Shell;Go;PHP;Python;SQL;Ansible;Docker;Homebrew;Kubernetes;Terraform;Symfony;Google Cloud;MySQL;PostgreSQL
+1,1,Master,4,Teddie.Thema,C#;HTML/CSS;TypeScript;Docker;npm;ASP.NET Core ;Microsoft Azure;PostgreSQL
+0,1,Master,27,Misha.Bettine,Clojure;Docker;Homebrew;Node.js;React.js;AWS;PostgreSQL
+1,1,Other,7,Carilyn.Rugen,Elixir;Python;Docker;Homebrew;Terraform;Django;Phoenix;AWS;Linode;PostgreSQL;Redis;SQLite
+1,1,Undergraduate,12,Jsandye.Sammons,Bash/Shell;HTML/CSS;JavaScript;Julia;Python;Rust
+0,1,NoHigherEd,27,Althea.Presber,Bash/Shell;C;C++;HTML/CSS;JavaScript;Objective-C;Python;Rust;TypeScript;Docker;Homebrew;npm;Yarn;Angular;FastAPI;React.js;AWS;DigitalOcean;Google Cloud;OVH;PostgreSQL;Redis;SQLite
+0,1,Master,9,Allis.Pip,Bash/Shell;C;Fortran;PowerShell;Python;TypeScript;Docker
+1,1,Undergraduate,8,Mallory.Genna,C#;HTML/CSS;JavaScript;SAS;SQL;TypeScript;Docker;Kubernetes;npm;Angular;ASP.NET;ASP.NET Core ;Blazor;Node.js;AWS;Microsoft Azure;VMware;Microsoft SQL Server;MySQL;PostgreSQL;SQLite
+0,1,Master,18,Chickie.Carey,Bash/Shell;Groovy;HTML/CSS;Java;JavaScript;Python;R;SQL;TypeScript;Ansible;Docker;npm;Unity 3D;Django;Flask;jQuery;Node.js;React.js;Colocation;DigitalOcean;Elasticsearch;MariaDB;MySQL;PostgreSQL;SQLite
+0,1,Master,12,Goldie.Shanley,HTML/CSS;JavaScript;Python;Rust;TypeScript;Docker;Kubernetes;Yarn;Django;Express;React.js;AWS;Firebase;MongoDB;MySQL;PostgreSQL;Redis
+1,1,Undergraduate,16,Justinn.Giule,C;C#;C++;Lua;Python;Rust;Flask;PostgreSQL;SQLite
+0,1,Master,13,Aili.Cressida,Assembly;C;C++;Python;Docker
+0,1,Master,15,Paulita.Buttaro,Bash/Shell;Java;Kotlin;SQL;Docker;AWS;Elasticsearch;MySQL;Redis
+0,1,Undergraduate,11,Britni.Presber,Bash/Shell;HTML/CSS;Java;JavaScript;Kotlin;Ruby;Rust;SQL;TypeScript;Docker;Homebrew;Kubernetes;npm;Yarn;React.js;Ruby on Rails;AWS;PostgreSQL
+0,1,Undergraduate,22,Brianna.Ephrem,Python;Rust;Docker;Kubernetes;FastAPI;Google Cloud;MariaDB;PostgreSQL
+1,1,Undergraduate,14,Emma.Cohdwell,C#;C++;HTML/CSS;SQL;TypeScript;ASP.NET Core ;Next.js;Microsoft Azure;Microsoft SQL Server
+1,1,Undergraduate,1,Joeann.Read,HTML/CSS;JavaScript;TypeScript;npm;Angular;Express;Node.js;React.js
+0,1,Undergraduate,13,Elie.Girardo,C#;Go;HTML/CSS;JavaScript;Python;SQL;TypeScript;Homebrew;npm;Unity 3D;Yarn;ASP.NET Core ;Express;jQuery;Next.js;Node.js;React.js;Microsoft SQL Server
+0,1,Undergraduate,20,Ashlee.Lissi,C#;JavaScript;Docker;Angular.js;ASP.NET;ASP.NET Core ;jQuery;Microsoft Azure;Microsoft SQL Server
+0,1,Master,14,Christian.Ramona,Bash/Shell;HTML/CSS;JavaScript;TypeScript;Docker;npm;Terraform;Yarn;Gatsby;React.js;Linode;Microsoft Azure;MariaDB
+0,1,Undergraduate,24,Shaylyn.Bivins,Bash/Shell;C;C#;C++;Groovy;PowerShell;Python;Ansible;Docker;Unity 3D;OpenStack;Elasticsearch
+0,1,Undergraduate,14,Georgina.Schenck,C;C++;JavaScript;Python;Ruby;Swift;Homebrew
+0,1,Master,14,Reeba.Salchunas,Assembly;Bash/Shell;C;C#;C++;Go;HTML/CSS;JavaScript;PowerShell;Python;Rust;SQL;TypeScript;Unity 3D;OVH;PostgreSQL
+0,1,Undergraduate,8,Deloria.Cimbura,Bash/Shell;C#;HTML/CSS;JavaScript;TypeScript;npm;Terraform;ASP.NET Core ;Next.js;React.js;Microsoft Azure;PostgreSQL
+1,1,Master,25,Ingrid.Means,Bash/Shell;TypeScript;Yarn;Next.js;Node.js;React.js;Microsoft Azure
+0,1,Undergraduate,15,Nickie.Casimir,JavaScript;Python;Rust;TypeScript;Docker;Yarn;Deno;React.js
+0,1,Undergraduate,23,Cherrita.Carolin,C#;JavaScript;SQL;Docker;Kubernetes;ASP.NET;ASP.NET Core ;jQuery;Node.js;AWS;Google Cloud;Microsoft Azure;Elasticsearch;Microsoft SQL Server;MongoDB;Redis
+0,1,Undergraduate,34,Danny.Mike,C#;HTML/CSS;JavaScript;PowerShell;SQL;TypeScript;VBA;ASP.NET;ASP.NET Core ;AWS;Microsoft Azure;Microsoft SQL Server
+0,1,Other,22,Wanda.Jenness,HTML/CSS;JavaScript;MATLAB;PHP;SQL;npm;Express;Next.js;Node.js;React.js;AWS;MongoDB;MySQL;PostgreSQL;Redis;SQLite
+0,1,Undergraduate,9,Lacie.Gower,C#;C++;Java;Python
+0,1,Undergraduate,2,Mara.Wittie,Dart;Java;Kotlin;npm;Django;Firebase;Cloud Firestore;MariaDB;MySQL;Firebase Realtime Database;SQLite
+1,1,Undergraduate,13,Catrina.Winthorpe,Go;Kotlin;SQL;TypeScript;Docker;Homebrew;Kubernetes;npm;Yarn;Next.js;React.js;AWS;Google Cloud;Oracle Cloud Infrastructure;MySQL;PostgreSQL;Redis
+0,1,Undergraduate,18,Glenda.Ruvolo,HTML/CSS;JavaScript;PHP;Rust;SQL;Docker;Angular.js;jQuery;Node.js;AWS;OVH;DynamoDB;MySQL;PostgreSQL
+1,1,Undergraduate,5,Pamella.Mata,Bash/Shell;C;C++;Go;HTML/CSS;JavaScript;Python;Rust;SQL;TypeScript;Docker;Kubernetes;AWS;Google Cloud;MySQL
+1,1,Undergraduate,11,Blake.Wyn,Kotlin;PostgreSQL
+0,1,Master,14,Heida.Barney,Java;Ruby;Rust;TypeScript;React.js;Ruby on Rails;Heroku;Elasticsearch;PostgreSQL;Redis
+0,1,Other,25,Merrie.Stanwood,Bash/Shell;C#;Go;HTML/CSS;JavaScript;PHP;PowerShell;Rust;SQL;TypeScript;Docker;Kubernetes;npm;Pulumi;Yarn;ASP.NET;ASP.NET Core ;jQuery;React.js;AWS;Microsoft Azure;Elasticsearch;Microsoft SQL Server;MySQL;PostgreSQL;Redis
+1,1,Undergraduate,11,Aryn.Nicoline,C;C#;C++;JavaScript;TypeScript;Docker;Homebrew;Kubernetes;npm;Terraform;Yarn;Express;Node.js;React.js;AWS;MongoDB;SQLite
+1,1,Undergraduate,10,Dennie.Merat,Bash/Shell;C#;Elixir;Erlang;Go;HTML/CSS;JavaScript;Lua;Python;Rust;SQL;Swift;TypeScript;Docker;Homebrew;Kubernetes;npm;Terraform;Node.js;Phoenix;React.js;AWS;DigitalOcean;Google Cloud;Microsoft Azure;PostgreSQL;Redis
+0,1,Undergraduate,18,Sophia.Lytton,C#;Groovy;HTML/CSS;JavaScript;PowerShell;SQL;Docker;npm;ASP.NET;ASP.NET Core ;jQuery;React.js;Microsoft Azure;Microsoft SQL Server;SQLite
+0,1,Undergraduate,18,Tamqrah.Kellby,JavaScript;Rust;TypeScript;Docker;Homebrew;npm;Yarn;Next.js;Node.js;React.js;Google Cloud;MySQL;PostgreSQL;Redis;SQLite
+0,1,Other,18,Selma.Silvan,C;Haskell;HTML/CSS;JavaScript;Python;Rust;Solidity;TypeScript;Homebrew;npm;Node.js;React.js;DigitalOcean
+1,1,Undergraduate,11,Tersina.Vins,C#;HTML/CSS;JavaScript;PowerShell;Python;SQL;TypeScript;Ansible;Docker;Homebrew;Kubernetes;npm;Terraform;Angular;ASP.NET;ASP.NET Core ;Blazor;Express;React.js;Google Cloud;Microsoft Azure;Elasticsearch;Microsoft SQL Server;Redis
+1,1,Master,23,Hannis.Carbo,C#;Chef;Docker;Kubernetes;Puppet;AWS;Couchbase
+0,1,Master,30,Wanda.Gilmour,Bash/Shell;C;C#;C++;HTML/CSS;JavaScript;PowerShell;Python;SQL;TypeScript;Docker;Kubernetes;Terraform;AWS;Microsoft Azure;VMware;Microsoft SQL Server;Redis
+1,1,Undergraduate,25,Evaleen.Bertold,Bash/Shell;C;C#;F#;HTML/CSS;Java;JavaScript;PowerShell;Rust;SQL;TypeScript;npm;Yarn;ASP.NET;ASP.NET Core ;jQuery;Node.js;React.js;Microsoft Azure;Microsoft SQL Server;SQLite
+1,1,Undergraduate,15,Elyssa.Sothena,C#;HTML/CSS;JavaScript;SQL;ASP.NET;ASP.NET Core ;Express;Node.js;Vue.js;AWS;DigitalOcean;Microsoft SQL Server;PostgreSQL;Redis;SQLite
+0,1,Undergraduate,12,Jobi.Willie,C;HTML/CSS;Java;Kotlin;Lua;Python;Rust;Scala;Docker;Firebase;Linode;MongoDB;MySQL;SQLite
+1,1,Undergraduate,7,Larine.Belanger,C#;Unity 3D
+0,1,Undergraduate,10,Ketti.Duwalt,Java;Kotlin;Python;Ruby;SQL;Docker;AWS;MongoDB;MySQL;Redis
+1,1,Master,14,Caryl.Ahab,Assembly;Bash/Shell;C;C++;Go;HTML/CSS;JavaScript;Perl;Python;Docker;AWS
+1,1,Undergraduate,7,Lenna.Bari,C#;Go;HTML/CSS;Java;JavaScript;Kotlin;Objective-C;PHP;SQL;Swift;TypeScript;Homebrew;npm;Yarn;Angular;ASP.NET Core ;Express;jQuery;Laravel;Next.js;Node.js;React.js;Svelte;Symfony;Vue.js;AWS;Heroku;Microsoft Azure;Microsoft SQL Server;MongoDB;MySQL;PostgreSQL;Redis
+0,1,Undergraduate,10,Sabina.Carolin,Bash/Shell;C;Python;SQL;Docker;Homebrew;Flask;AWS;Linode;SQLite
+0,1,Other,10,Lanna.Ariella,Bash/Shell;Go;Groovy;Java;Kotlin;Python;Ansible;Docker;Homebrew;Kubernetes;npm;Terraform;Yarn;AWS;Elasticsearch;MongoDB;PostgreSQL;Redis
+0,1,PhD,15,Celestyna.Anastatius,Assembly;Bash/Shell;C;C++;Python;Rust
+1,1,Undergraduate,5,Mara.Alejoa,Java;AWS;MySQL
+0,1,Undergraduate,10,Leanna.Ezar,C#;HTML/CSS;JavaScript;PowerShell;SQL;TypeScript;npm;Unity 3D;Yarn;Angular;ASP.NET;ASP.NET Core ;jQuery;Node.js;Microsoft Azure;OVH;Microsoft SQL Server
+1,1,Undergraduate,17,Lorenza.Dorothy,Bash/Shell;C++;Java;Kotlin;Python;Rust;Docker;npm;Yarn;React.js;Vue.js;AWS
+0,1,Undergraduate,10,Elfreda.Donoghue,C;Go;Haskell;JavaScript;Rust;SQL;TypeScript;Docker;npm;Yarn;Express;Fastify;Gatsby;Next.js;Node.js;Nuxt.js;React.js;Svelte;Vue.js;Heroku;MongoDB;MySQL;PostgreSQL;Redis;SQLite
+0,1,Master,35,Merci.Myrilla,Bash/Shell;HTML/CSS;Java;JavaScript;Perl;PHP;SQL;Docker;npm;jQuery;React.js;Vue.js;Oracle;PostgreSQL;SQLite
+0,1,Undergraduate,17,Rosabelle.Argus,Bash/Shell;Java;JavaScript;PowerShell;Python;TypeScript;Docker;Yarn;Next.js;Node.js;React.js;AWS;DynamoDB;MySQL
+0,1,Undergraduate,10,Aeriela.Ajay,C++;Go;Python;Rust;Docker;Kubernetes;Terraform;Django;FastAPI;AWS;DigitalOcean;Google Cloud;Cassandra;DynamoDB;PostgreSQL;Redis
+1,1,Undergraduate,22,Chastity.Freddi,Bash/Shell;Clojure;Java;JavaScript;Lua;TypeScript;Docker;Kubernetes;AWS
+0,1,Undergraduate,28,Sindee.Rillings,Bash/Shell;C;C++;Groovy;Lua;Objective-C;PHP;Python;Rust;Docker;Kubernetes;Terraform;AWS;DigitalOcean;PostgreSQL;SQLite
+0,1,Undergraduate,12,Lorne.Hermes,HTML/CSS;Java;JavaScript;Python;SQL;TypeScript;Docker;npm;Angular;Angular.js;Express;Node.js;Elasticsearch;PostgreSQL
+0,1,Undergraduate,25,Silvana.Amadas,Assembly;Bash/Shell;C;C++;HTML/CSS;Java;JavaScript;PowerShell;Rust;SQL;TypeScript;Homebrew;npm;Node.js;React.js;Vue.js;VMware;IBM DB2;PostgreSQL;SQLite
+0,1,Undergraduate,31,Randa.Iiette,Bash/Shell;C#;Elixir;Go;Groovy;HTML/CSS;Java;JavaScript;SQL;Docker;Kubernetes;Terraform;Angular;Angular.js;Node.js;React.js;Ruby on Rails;AWS;Microsoft Azure;Elasticsearch;MySQL;Oracle;PostgreSQL;Redis
+0,1,Undergraduate,8,Janis.Arathorn,Bash/Shell;Go;Groovy;HTML/CSS;JavaScript;Python;SQL;Swift;Docker;Homebrew;npm;Terraform;Django;Flask;Next.js;Node.js;React.js;AWS;DynamoDB;MySQL;SQLite
+1,1,Undergraduate,20,Dorene.Leler,Bash/Shell;C#;Go;HTML/CSS;Java;JavaScript;PHP;Python;Ruby;Rust;SQL;TypeScript;Ansible;Docker;Kubernetes;npm;Terraform;Yarn;jQuery;Laravel;React.js;Ruby on Rails;AWS;DigitalOcean;Firebase;Managed Hosting;Microsoft Azure;CouchDB;MariaDB;MySQL;PostgreSQL;Redis;SQLite
+0,1,NoHigherEd,10,Marcelline.Vary,Bash/Shell;LISP;Perl;Python;Rust;Homebrew
+0,1,Master,8,Audrie.Lacombe,HTML/CSS;Python;Ruby;SQL;TypeScript;Docker;Homebrew;Terraform;Yarn;FastAPI;Flask;React.js;Ruby on Rails;Google Cloud;Elasticsearch;MongoDB;Redis;SQLite
+0,1,Undergraduate,12,Kimberley.Arvo,HTML/CSS;JavaScript;PHP;SQL;npm;Angular.js;jQuery;Node.js;AWS;Firebase;Google Cloud;Microsoft SQL Server;SQLite
+0,1,Undergraduate,10,Hyacinthe.Pitt,Bash/Shell;C;Dart;HTML/CSS;Java;JavaScript;Kotlin;Objective-C;Python;Rust;SQL;Swift;TypeScript;Docker;Flow;Homebrew;npm;Yarn;ASP.NET Core ;Express;FastAPI;Flask;jQuery;Next.js;Node.js;React.js;Svelte;AWS;DigitalOcean;Firebase;Google Cloud;Microsoft Azure;Cloud Firestore;Elasticsearch;MongoDB;PostgreSQL;Firebase Realtime Database;Redis;SQLite
+1,1,Master,16,Danika.Orelee,Bash/Shell;C#;HTML/CSS;JavaScript;PHP;PowerShell;Rust;SQL;Swift;TypeScript;Docker;npm;Terraform;Angular;Next.js;Node.js;React.js;AWS;DigitalOcean;Firebase;Google Cloud;Managed Hosting;DynamoDB;Elasticsearch;MariaDB;MySQL;Redis;SQLite
+1,1,Undergraduate,17,Leona.Eben,Bash/Shell;C;Dart;HTML/CSS;JavaScript;PHP;PowerShell;Python;Rust;SQL;TypeScript;Ansible;Docker;Homebrew;Kubernetes;npm;ASP.NET;ASP.NET Core ;Flask;Next.js;Node.js;React.js;Vue.js;AWS;DigitalOcean;Google Cloud;MariaDB;Microsoft SQL Server;MySQL;PostgreSQL;Redis;SQLite
+1,1,Undergraduate,15,Pamella.Delila,Bash/Shell;HTML/CSS;JavaScript;PHP;Docker;Homebrew;npm;jQuery;Node.js;Vue.js;AWS;DigitalOcean;Heroku;Managed Hosting;MariaDB;MySQL;PostgreSQL;SQLite
+1,1,Undergraduate,11,Mara.Jena,Clojure;F#;Java;Python;SQL;Docker;Terraform;AWS;PostgreSQL
+0,1,Undergraduate,13,Carmencita.Brady,C++;Unreal Engine;MySQL;PostgreSQL
+0,1,Other,25,Aeriela.Hull,C#;Python;Docker;Kubernetes;ASP.NET;ASP.NET Core ;Blazor;Vue.js;Microsoft Azure;Microsoft SQL Server;Redis
+0,1,PhD,9,Rivalee.Poll,C;Python;Rust;Docker;Homebrew;Kubernetes;Terraform;AWS;DigitalOcean;Elasticsearch;Neo4j;PostgreSQL;Redis;SQLite
+0,1,Undergraduate,12,Kristina.Pacorro,Bash/Shell;C#;HTML/CSS;JavaScript;TypeScript;npm;Terraform;Angular;ASP.NET Core ;AWS;PostgreSQL
+0,1,Undergraduate,10,Mady.Garbe,Bash/Shell;C;C++;Python;Rust;PostgreSQL;SQLite
+1,1,NoHigherEd,11,Kittie.Aida,HTML/CSS;JavaScript;npm;Yarn;React.js;AWS
+0,1,Master,15,Talya.Malina,Bash/Shell;Go;HTML/CSS;JavaScript;SQL;TypeScript;Docker;Homebrew;npm;Terraform;Node.js;React.js;AWS;Elasticsearch;MySQL;Redis
+0,1,Undergraduate,9,Stephanie.Bollay,Java;Kotlin;Python;Ruby;Rust;SQL;TypeScript;Docker;Homebrew;React.js;AWS;DigitalOcean;DynamoDB;Elasticsearch;MySQL;Redis
+1,1,Undergraduate,18,Latisha.Wind,Bash/Shell;HTML/CSS;JavaScript;PHP;Ruby;Rust;SQL;TypeScript;Docker;Terraform;Laravel;Ruby on Rails;Vue.js;AWS;MariaDB;MongoDB;PostgreSQL;Redis
+0,1,Undergraduate,20,Tracey.Halla,Bash/Shell;Kotlin;TypeScript;Kubernetes;npm;Yarn;React.js;AWS;MongoDB;PostgreSQL;Redis
+0,1,Undergraduate,35,Chickie.Baptlsta,Assembly;Bash/Shell;C;HTML/CSS;JavaScript;Lua;Objective-C;Perl;Node.js;AWS;Microsoft Azure;MySQL;Oracle
+0,1,Master,12,Shel.Ranjiv,Python;Rust;Ansible;Django;React.js;AWS;Google Cloud;PostgreSQL
+0,1,Undergraduate,6,Norine.Ummersen,Bash/Shell;Dart;Go;HTML/CSS;JavaScript;Python;SQL;Docker;Homebrew;npm;Angular.js;Express;Next.js;Node.js;React.js;AWS;Firebase;Google Cloud;Heroku;Cloud Firestore;MongoDB;PostgreSQL;Firebase Realtime Database
+0,1,Master,11,Kristan.Merriott,C++;Python;Docker
+0,1,Other,16,Lizzie.Carri,JavaScript;PHP;Python;Pulumi;Next.js;AWS;MySQL;PostgreSQL
+0,1,Undergraduate,13,Kristina.Sharl,Bash/Shell;C#;HTML/CSS;JavaScript;PowerShell;Python;Rust;TypeScript;npm;ASP.NET;React.js;AWS;SQLite
+0,1,Undergraduate,21,Giustina.Carolin,Bash/Shell;Groovy;HTML/CSS;Java;JavaScript;Ruby;SQL;Docker;Kubernetes;npm;Yarn;jQuery;React.js;Ruby on Rails;AWS;Elasticsearch;MySQL;Redis
+1,1,Master,12,Myriam.Cynar,Bash/Shell;C++;Haskell;HTML/CSS;Python;Rust;SQL;Docker;Homebrew;AWS;DigitalOcean;Elasticsearch;MongoDB;PostgreSQL;SQLite
+0,1,Undergraduate,46,Therine.O'Rourke,JavaScript;PHP;jQuery
+0,1,Undergraduate,7,Hollie.Artie,Groovy;HTML/CSS;Java;JavaScript;PowerShell;SQL;Docker;npm;React.js;Google Cloud;PostgreSQL;SQLite
+1,1,Other,14,Beverley.Jerold,Assembly;Bash/Shell;C;C#;C++;HTML/CSS;Java;JavaScript;Lua;PHP;Python;SQL;Ansible;Docker;Kubernetes;npm;Yarn;Vue.js;AWS;Google Cloud;VMware;MariaDB;MongoDB;MySQL;PostgreSQL;Redis;SQLite
+0,1,Undergraduate,10,Chandra.Linehan,Bash/Shell;JavaScript;PHP;TypeScript;Docker;Homebrew;Kubernetes;Next.js;React.js;Vue.js;Heroku
+0,1,Undergraduate,7,Modestia.Wenoa,Bash/Shell;C#;MATLAB;PowerShell;Ansible;Docker;Terraform;AWS;DynamoDB
+1,1,Undergraduate,26,Roz.Myrilla,Assembly;Bash/Shell;C;C++;HTML/CSS;Java;JavaScript;Python;SQL;TypeScript;Docker;npm;Unity 3D;Angular;jQuery;Node.js;React.js;AWS;Microsoft Azure;PostgreSQL;Redis;SQLite
+1,1,Other,25,Raina.Etom,C#;HTML/CSS;JavaScript;SQL;Angular;jQuery;Microsoft Azure;IBM DB2;Microsoft SQL Server
+0,1,Undergraduate,12,Kittie.Odysseus,Java;Ruby;TypeScript;Docker;npm;React.js;Ruby on Rails;AWS
+0,1,Master,7,Ada.Bates,Bash/Shell;C;HTML/CSS;JavaScript;Python;SQL;Django;Flask;Heroku;MariaDB;MongoDB;PostgreSQL;SQLite
+1,1,NoHigherEd,16,Mathilda.Sawtelle,Bash/Shell;C#;Go;JavaScript;Python;Rust;SQL;TypeScript;Ansible;Docker;Homebrew;Kubernetes;npm;Terraform;Yarn;Angular;Express;FastAPI;Flask;Next.js;Node.js;React.js;Vue.js;AWS;Google Cloud;Elasticsearch;MariaDB;PostgreSQL;Redis
+1,1,Undergraduate,14,Gabi.Deny,HTML/CSS;JavaScript;Kotlin;Python;Rust;TypeScript;Flow;Homebrew;npm;Deno;Django;Express;FastAPI;Flask;Node.js;React.js;AWS;DigitalOcean;MongoDB;PostgreSQL
+0,1,Master,22,Celisse.Lilas,Assembly;C++;Python;Ruby;Rust;Ansible;Docker
+1,1,Undergraduate,7,Anthia.Romelda,C#;HTML/CSS;JavaScript;PowerShell;TypeScript;npm;Yarn;ASP.NET;ASP.NET Core ;Node.js;React.js;Microsoft Azure;Microsoft SQL Server;Redis
+0,1,Undergraduate,15,Claudina.Leifeste,Bash/Shell;Go;Java;JavaScript;Kotlin;Python;Rust;Scala;SQL;Ansible;Homebrew;Kubernetes;npm;Flask;AWS;Google Cloud;OpenStack;Cassandra;PostgreSQL;Redis
+0,1,Undergraduate,27,Shaine.Cath,Bash/Shell;HTML/CSS;JavaScript;Python;Ruby;SQL;Docker;Homebrew;npm;React.js;Ruby on Rails;AWS;PostgreSQL
+1,1,Undergraduate,12,Edyth.Minetta,C;C#;Java;JavaScript;Lua;Python;Ruby;Docker;Unity 3D;Google Cloud
+1,1,Undergraduate,11,Paule.Carmena,HTML/CSS;Java;JavaScript;SQL;jQuery;React.js;AWS;Microsoft Azure;VMware;MySQL;Oracle;SQLite
+0,1,Undergraduate,5,Oona.Borrell,HTML/CSS;Java;JavaScript;Ruby;Rust;SQL;TypeScript;npm;React.js;Ruby on Rails;Google Cloud;Cloud Firestore
+0,1,Undergraduate,7,Leontine.Japeth,Java;Kotlin;React.js;AWS;Firebase;Oracle;Firebase Realtime Database
+1,1,Undergraduate,3,Cherilyn.Syd,JavaScript;Ruby;SQL;Docker;Homebrew;Kubernetes;Yarn;React.js;Ruby on Rails;AWS;Firebase;Heroku;PostgreSQL;Redis
+0,1,Undergraduate,18,Kimmy.Atcliffe,Bash/Shell;Groovy;HTML/CSS;Java;Kotlin;Python;SQL;Docker;Homebrew;Terraform;Angular;Node.js;AWS;Google Cloud;Heroku;Linode;MariaDB;Microsoft SQL Server;MySQL;PostgreSQL
+1,1,Other,4,Dacia.Duwalt,C++;Java;Docker;Microsoft Azure;SQLite
+0,1,Other,10,Tabbatha.Joachim,HTML/CSS;Java;JavaScript;SQL;Unreal Engine;Angular;jQuery;Heroku;IBM DB2;MySQL;Oracle
+1,1,Other,12,Helena.Amethist,Bash/Shell;Dart;HTML/CSS;JavaScript;Python;R;Rust;SQL;TypeScript;Docker;Homebrew;Kubernetes;npm;Pulumi;Unity 3D;Unreal Engine;Yarn;Django;Express;Gatsby;Next.js;Node.js;React.js;Ruby on Rails;AWS;DigitalOcean;Google Cloud;Heroku;DynamoDB;Elasticsearch;MariaDB;MySQL;PostgreSQL;Redis
+1,1,NoHigherEd,13,Eve.Marisa,C;C#;C++;Haskell;JavaScript;Python;Rust;SQL;TypeScript;ASP.NET;ASP.NET Core ;Microsoft Azure;Microsoft SQL Server;Redis;SQLite
+0,1,Undergraduate,5,Ebonee.Ajay,JavaScript;Python;SQL;TypeScript;Docker;npm;Yarn;Express;Node.js;AWS;Elasticsearch;MongoDB;Redis
+0,1,Undergraduate,12,Sybille.Eno,HTML/CSS;JavaScript;Python;SQL;TypeScript;Docker;Deno;Django;Node.js;Nuxt.js;Svelte;Vue.js;PostgreSQL;SQLite
+1,1,Undergraduate,24,Tina.Linehan,Bash/Shell;C;C#;Go;JavaScript;PowerShell;Python;Rust;SQL;TypeScript;Docker;Kubernetes;Unreal Engine;Angular;Django;Express;FastAPI;Flask;Node.js;AWS;Cassandra;CouchDB;MariaDB;MongoDB;PostgreSQL;Redis;SQLite
+1,1,Undergraduate,17,Marylou.Vale,Bash/Shell;Go;JavaScript;Ruby;SQL;TypeScript;Docker;npm;Terraform;Ruby on Rails;AWS;MariaDB;Redis
+1,1,Master,14,Lucy.Selway,Bash/Shell;C;C#;C++;HTML/CSS;Java;JavaScript;PowerShell;SQL;Microsoft SQL Server;SQLite
+0,1,Master,6,Vonny.Infield,Go;HTML/CSS;JavaScript;Python;SQL;TypeScript;npm;Terraform;Yarn;Django;Express;Flask;jQuery;Next.js;Node.js;React.js;Ruby on Rails;AWS;Google Cloud;Heroku;Cloud Firestore;MongoDB;PostgreSQL
+0,1,Master,10,Charmaine.Smitt,C#;JavaScript;PowerShell;SQL;TypeScript;Docker;npm;ASP.NET;ASP.NET Core ;Node.js;AWS;Microsoft Azure;DynamoDB;Microsoft SQL Server;MySQL
+0,1,Undergraduate,16,Taffy.McCutcheon,C#;Dart;HTML/CSS;Java;JavaScript;PHP;PowerShell;SQL;TypeScript;Docker;Kubernetes;npm;ASP.NET Core ;Drupal;Next.js;Node.js;React.js;Vue.js;AWS;Google Cloud;IBM Cloud or Watson;CouchDB;Cloud Firestore;Elasticsearch;Microsoft SQL Server;MySQL;PostgreSQL;Firebase Realtime Database;Redis
+0,1,Master,20,Jaime.Stover,JavaScript;Rust;TypeScript;Docker;npm;Node.js;AWS;DynamoDB;MariaDB
+0,1,PhD,25,Sophia.Krystle,Rust;AWS
+1,1,Master,20,Abbie.Shields,C#;Go;HTML/CSS;JavaScript;PowerShell;SQL;Docker;Unity 3D;Angular;ASP.NET;ASP.NET Core ;Blazor;jQuery;Node.js;Vue.js;AWS;DigitalOcean;Microsoft Azure;DynamoDB;Microsoft SQL Server;Oracle;SQLite
+1,1,Other,4,Tierney.Maples,C#;Python;Ruby;Rust;TypeScript;Docker;npm;Yarn;ASP.NET;ASP.NET Core ;Next.js;React.js;Ruby on Rails;AWS;Heroku;Microsoft SQL Server;MongoDB;PostgreSQL;SQLite
+0,1,Other,8,Merry.Rolf,Bash/Shell;Go;JavaScript;OCaml;SQL;TypeScript;Docker;Terraform;Yarn;Deno;Express;Fastify;Gatsby;Node.js;React.js;AWS;Firebase;Google Cloud;MongoDB;MySQL;Neo4j;SQLite
+0,1,PhD,20,Ariela.Xerxes,Bash/Shell;Go;HTML/CSS;JavaScript;LISP;Python;Docker;Flask;React.js;Microsoft Azure;Elasticsearch
+0,1,Master,4,Verla.Brotherson,HTML/CSS;JavaScript;TypeScript;Kubernetes;npm;Terraform;Express;Gatsby;React.js;AWS;Heroku
+0,1,Other,10,Leanna.Prober,Bash/Shell;Java;Rust;SQL;Docker;MariaDB;MySQL;PostgreSQL
+0,1,Undergraduate,16,Melisent.Anis,Kotlin;SQL;Docker;Homebrew;Kubernetes;Terraform;AWS;DynamoDB;Elasticsearch;MySQL;Redis
+0,1,Undergraduate,8,Diena.Erminia,Groovy;Java;JavaScript;Python;Rust;Scala;TypeScript;Ansible;Homebrew;Kubernetes;npm;Terraform;FastAPI;Flask;AWS;DigitalOcean;Cassandra;DynamoDB;Elasticsearch;PostgreSQL
+0,1,Undergraduate,2,Caressa.Carey,Bash/Shell;C;C++;HTML/CSS;JavaScript;Python;R;Flask;AWS;Microsoft SQL Server
+0,1,Master,15,Madelle.Edvard,C#;HTML/CSS;JavaScript;PHP;SQL;jQuery;Laravel;AWS;VMware;MariaDB;MySQL;PostgreSQL
+0,1,Undergraduate,8,Catharine.Kinnard,C#;HTML/CSS;JavaScript;SQL;Docker;npm;ASP.NET Core ;Express;Node.js;React.js;Heroku;Cloud Firestore;Elasticsearch;Microsoft SQL Server;MongoDB
+1,1,Undergraduate,4,Livvyy.Federica,C#;HTML/CSS;JavaScript;PHP;npm;ASP.NET;ASP.NET Core ;Svelte;Microsoft Azure;MariaDB;Microsoft SQL Server;MySQL;Redis;SQLite
+0,1,Master,9,Karena.Heisel,Bash/Shell;C;C++;Go;HTML/CSS;Java;JavaScript;Julia;Kotlin;PowerShell;Python;SQL;Docker;npm;Flask;Vue.js;AWS;Google Cloud;PostgreSQL;Redis;SQLite
+0,1,Undergraduate,10,Kimberley.Dawkins,Assembly;Bash/Shell;C;C++;Python;Rust;Docker;DigitalOcean;Microsoft Azure
+0,1,Undergraduate,6,Shauna.Cyrie,C++;Dart;HTML/CSS;JavaScript;Kotlin;TypeScript;npm;Unity 3D;Yarn;Express;Gatsby;Node.js;React.js;Svelte;AWS;DigitalOcean;Firebase;Heroku;MongoDB;MySQL;PostgreSQL;Firebase Realtime Database
+0,1,Other,3,Penelopa.Ardra,JavaScript;TypeScript;Docker;npm;Express;Node.js;AWS;MongoDB
+0,1,Other,22,Courtnay.Zola,Python;TypeScript;Docker;Homebrew;npm;Terraform;Angular;Node.js;Vue.js;AWS;DynamoDB;Elasticsearch
+1,1,Undergraduate,20,Margalo.Jagir,Assembly;Bash/Shell;C;C++;Groovy;HTML/CSS;Java;JavaScript;Perl;Python;Rust;SQL;npm;Linode;MariaDB;MongoDB;Oracle;PostgreSQL;SQLite
+0,1,Undergraduate,21,Melisent.Merna,Bash/Shell;HTML/CSS;Java;JavaScript;Python;SQL;TypeScript;Ansible;Docker;FastAPI;Flask;React.js;MariaDB;MySQL;PostgreSQL
+0,1,Master,19,Lanna.Cyrie,Dart;HTML/CSS;JavaScript;MATLAB;PHP;Python;R;TypeScript;Docker;Homebrew;npm;Django;Flask;Laravel;Next.js;Node.js;Nuxt.js;Vue.js;AWS;DigitalOcean;Firebase;Heroku;IBM Cloud or Watson;Microsoft Azure;MariaDB;MongoDB;MySQL;PostgreSQL;Redis;SQLite
+0,1,Master,12,Lauryn.Camden,Rust
+0,1,Master,11,Amalie.Mullane,C#;HTML/CSS;Java;JavaScript;SQL;TypeScript;Docker;npm;Unity 3D;Yarn;Angular;ASP.NET Core ;Express;Fastify;Next.js;Node.js;React.js;Firebase;Google Cloud;Microsoft Azure;Elasticsearch;Microsoft SQL Server;PostgreSQL;Redis
+0,1,Undergraduate,17,Randa.Dituri,HTML/CSS;Java;JavaScript;SQL;TypeScript;Docker;Kubernetes;Angular;Express;Node.js;AWS;DynamoDB;Elasticsearch;MySQL;PostgreSQL;Redis;SQLite
+1,1,Undergraduate,7,Sallie.Stav,Go;JavaScript;Python;Rust;TypeScript;npm;Flask;React.js;AWS;Firebase;Heroku;PostgreSQL
+0,1,Undergraduate,12,Doralynne.Krystle,Bash/Shell;HTML/CSS;JavaScript;PHP;Python;Rust;SQL;TypeScript;Docker;Homebrew;Kubernetes;npm;Yarn;Django;Express;Node.js;React.js;AWS;Firebase;Google Cloud;Cloud Firestore;PostgreSQL;SQLite
+1,1,Undergraduate,7,Damaris.Bury,Bash/Shell;Go;Groovy;Java;PowerShell;Rust;SQL;TypeScript;Ansible;Docker;Kubernetes;Terraform;Yarn;React.js;Vue.js;AWS;MongoDB;Redis
+0,1,Undergraduate,7,Agnese.Odysseus,C++;PostgreSQL
+0,1,Undergraduate,8,Margette.Parsaye,Bash/Shell;C;C++;Groovy;HTML/CSS;Java;JavaScript;Kotlin;PHP;Python;Ruby;Scala;SQL;TypeScript;Docker;Kubernetes;npm;Terraform;Yarn;Express;jQuery;Node.js;React.js;Ruby on Rails;AWS;Google Cloud;OpenStack;VMware;Elasticsearch;PostgreSQL
+1,1,Undergraduate,10,Bobbi.Sancho,Elixir;JavaScript;Kotlin;Python;SQL;TypeScript;Docker;Homebrew;Kubernetes;npm;Yarn;Express;Gatsby;Next.js;Node.js;Phoenix;React.js;Google Cloud;Heroku;PostgreSQL;Firebase Realtime Database
+0,1,Master,14,Oona.Maryanne,Bash/Shell;C;C#;C++;HTML/CSS;JavaScript;Lua;PowerShell;Python;Rust;SQL;TypeScript;Docker;Homebrew;npm;Unity 3D;Unreal Engine;Yarn;ASP.NET Core ;Blazor;jQuery;Next.js;Node.js;React.js;AWS;Google Cloud;PostgreSQL
+1,1,Other,2,Claudina.Junie,Elixir;HTML/CSS;Ruby;SQL;Docker;Homebrew;Kubernetes;npm;Yarn;Gatsby;Phoenix;Ruby on Rails;Google Cloud;Microsoft Azure;PostgreSQL
+0,1,Undergraduate,11,Caressa.Khorma,Bash/Shell;HTML/CSS;JavaScript;PHP;Rust;SQL;Ansible;Docker;Yarn;Laravel;Vue.js;AWS;Google Cloud;Linode;Microsoft Azure;MariaDB;MongoDB;MySQL;Neo4j;SQLite
+0,1,Undergraduate,5,Gusella.Rosemary,C#;HTML/CSS;Java;JavaScript;Python;TypeScript;Docker;npm;Terraform;Angular.js;Node.js;React.js;AWS;DynamoDB;Microsoft SQL Server;PostgreSQL
+0,1,Undergraduate,15,Cherrita.Dearborn,C#;Groovy;Java;JavaScript;Kotlin;Python;Rust;SQL;Kubernetes;Terraform;Django;Flask;Node.js;AWS;Google Cloud;Microsoft Azure;MySQL;PostgreSQL;Redis;SQLite
+1,1,Undergraduate,13,Beverley.Rese,HTML/CSS;Java;JavaScript;SQL;TypeScript;jQuery;IBM DB2;MySQL
+0,1,Undergraduate,12,Dacia.Nikaniki,Bash/Shell;C;C++;Python;Rust;Ansible;Docker
+0,1,Undergraduate,9,Lizzie.Dom,Bash/Shell;Go;HTML/CSS;TypeScript;Docker;Kubernetes;Terraform;React.js;AWS;DigitalOcean;Google Cloud;Microsoft Azure;MySQL
+0,1,Undergraduate,19,Ariela.Sasnett,Bash/Shell;HTML/CSS;Java;JavaScript;SQL;TypeScript;Docker;Homebrew;Kubernetes;npm;Yarn;jQuery;React.js;IBM DB2;Microsoft SQL Server;Redis
+0,1,Undergraduate,23,Helsa.Clarissa,TypeScript;Docker;Homebrew;Kubernetes;npm;Express;Node.js;AWS;Google Cloud;DynamoDB;Elasticsearch;MongoDB;Redis
+0,1,Undergraduate,34,Pamella.An,C#;HTML/CSS;Java;JavaScript;Kotlin;PowerShell;SQL;Swift;Docker;ASP.NET;ASP.NET Core ;Node.js;AWS;Elasticsearch;MariaDB;Microsoft SQL Server;MySQL;Redis
+0,1,Undergraduate,5,Myrtice.Cadmar,C#;Delphi;HTML/CSS;Java;JavaScript;TypeScript;React.js
+0,1,Master,10,Jennica.Emerson,F#;JavaScript;Julia;Python;Rust;TypeScript;Docker;Kubernetes;npm;FastAPI;DigitalOcean;MariaDB
+1,1,Undergraduate,18,Mary.Middleton,Assembly;Bash/Shell;C;Go;Groovy;HTML/CSS;Java;JavaScript;Objective-C;Python;Rust;SQL;TypeScript;Ansible;Docker;Kubernetes;AWS;DigitalOcean;Microsoft Azure;VMware;Elasticsearch;MongoDB;PostgreSQL;Redis;SQLite
+0,1,Undergraduate,14,Xylina.Amasa,Assembly;Bash/Shell;C;Python;Rust;Docker;Vue.js;VMware;MariaDB
+1,1,Undergraduate,18,Arlina.Ingra,Bash/Shell;C;C++;JavaScript;Python;npm;Yarn;SQLite
+1,1,Undergraduate,12,Marcelline.Lea,C#;Delphi;HTML/CSS;JavaScript;PHP;Python;SQL;Docker;Laravel;DigitalOcean;MySQL
+1,1,Master,20,Norine.Horan,C#;HTML/CSS;JavaScript;Lua;npm;Angular;Node.js;Microsoft Azure
+0,1,Undergraduate,4,Stephanie.Jarib,Go;HTML/CSS;Java;JavaScript;Kotlin;Python;SQL;TypeScript;Docker;Homebrew;npm;Express;Next.js;Node.js;React.js;AWS;Firebase;Oracle;PostgreSQL;Redis
+0,1,Master,18,Alia.Leifeste,C;C++;HTML/CSS;JavaScript;Python;Unreal Engine;Django;SQLite
+0,1,Master,20,Max.Iiette,C#;C++;HTML/CSS;JavaScript;PHP;Rust;SQL;TypeScript;Docker;Kubernetes;npm;Terraform;jQuery;Laravel;Node.js;React.js;Vue.js;AWS;Google Cloud;OVH;DynamoDB;Elasticsearch;MariaDB;MongoDB;MySQL;PostgreSQL;Redis
+1,1,Master,7,Fanchon.Larochelle,C;C++;Python;Homebrew;Angular.js;React.js;AWS;Google Cloud;Redis
+1,1,Master,8,Dari.Kenwood,Bash/Shell;Elixir;Go;Lua;Docker;Homebrew;Kubernetes;Phoenix;Firebase;Google Cloud;PostgreSQL
+0,1,Undergraduate,9,Kittie.Billye,HTML/CSS;JavaScript;PHP;PowerShell;Ruby;SQL;TypeScript;Docker;npm;Angular;Angular.js;jQuery;Laravel;Node.js;AWS;DigitalOcean;Firebase;Google Cloud;Microsoft Azure;Cloud Firestore;Elasticsearch;MariaDB;Microsoft SQL Server;MySQL;PostgreSQL;Firebase Realtime Database;Redis
+1,1,Undergraduate,15,Willetta.Bultman,Go;HTML/CSS;JavaScript;PHP;Python;Ruby;SQL;TypeScript;Ansible;Docker;Kubernetes;npm;Yarn;Angular.js;Django;Express;Flask;jQuery;Laravel;Next.js;Node.js;Nuxt.js;React.js;Ruby on Rails;Symfony;Vue.js;AWS;DigitalOcean;Google Cloud;Heroku;Linode;Managed Hosting;Elasticsearch;MariaDB;MongoDB;MySQL;PostgreSQL;Redis;SQLite
+0,1,Undergraduate,12,Johna.Boehike,Bash/Shell;Go;Java;JavaScript;Kotlin;PowerShell;Python;Rust;SQL;TypeScript;Docker;Homebrew;npm;Terraform;Yarn;Angular;Express;FastAPI;Next.js;Node.js;React.js;Svelte;Firebase;Google Cloud;Cloud Firestore;Microsoft SQL Server;MongoDB;MySQL;PostgreSQL;Firebase Realtime Database;Redis
+1,1,Other,33,Lorenza.Burnside,C#;HTML/CSS;JavaScript;SQL;npm;Angular;ASP.NET;ASP.NET Core ;Blazor;jQuery;Microsoft SQL Server
+0,1,Other,20,Netty.Mich,C#;Dart;HTML/CSS;JavaScript;SQL;Homebrew;npm;Unity 3D;Angular.js;Vue.js;AWS;Microsoft SQL Server;MySQL
+0,1,Master,21,Kaja.Lutero,Bash/Shell;Java;Python;Rust;Scala;SQL;Docker;Django;Flask;AWS;DigitalOcean;Elasticsearch;MySQL;PostgreSQL;Redis
+0,1,Undergraduate,7,Natka.Bandeen,Bash/Shell;C;C#;Go;HTML/CSS;JavaScript;Python;Rust;SQL;TypeScript;Docker;Kubernetes;npm;Yarn;Angular;ASP.NET Core ;Node.js;React.js;Vue.js;AWS;PostgreSQL;Redis
+0,1,Master,11,Pierette.Plato,Java;JavaScript;SQL;TypeScript;npm;Angular;Angular.js;React.js;AWS;Linode;Microsoft Azure;Oracle Cloud Infrastructure;Oracle
+0,1,Undergraduate,20,Althea.Monk,Bash/Shell;C;C#;C++;Lua;Perl;Python;Rust;Docker;Kubernetes;AWS
+0,1,PhD,11,Nyssa.Kinnard,Bash/Shell;C;C++;Go;Julia;Python;Docker;Django
+1,1,Undergraduate,30,Ileana.Jerold,Bash/Shell;C;C++;Java;Rust;TypeScript;Docker;Homebrew;npm;Angular;AWS;DynamoDB;Redis
+0,1,NoHigherEd,4,Ann-Marie.Belanger,HTML/CSS;Java;JavaScript;SQL;TypeScript;Docker;npm;Yarn;Express;Fastify;jQuery;Next.js;Node.js;Nuxt.js;React.js;Vue.js;AWS;MySQL;PostgreSQL;Redis;SQLite
+1,1,Other,5,Angelique.Charity,Bash/Shell;Haskell;Python;Rust;Chef;Docker;Homebrew;Kubernetes;Terraform;AWS;Google Cloud;Microsoft Azure;Elasticsearch;PostgreSQL
+1,1,Other,15,Sandie.Merna,C#;HTML/CSS;JavaScript;PowerShell;SQL;TypeScript;npm;Angular;Angular.js;ASP.NET;ASP.NET Core ;jQuery;Node.js;AWS;Microsoft Azure;Elasticsearch;Microsoft SQL Server
+1,1,Undergraduate,12,Melina.Ardeha,Elixir;Go;HTML/CSS;JavaScript;Lua;Ruby;SQL;TypeScript;Ansible;Docker;Homebrew;npm;Terraform;Yarn;Node.js;Phoenix;React.js;Ruby on Rails;Svelte;AWS;DigitalOcean;Firebase;Google Cloud;Heroku;Elasticsearch;MongoDB;MySQL;PostgreSQL;Redis
+0,1,Master,8,Caritta.Libna,Bash/Shell;C++;Python;Rust;Ansible;Docker;Google Cloud;MySQL
+0,1,Undergraduate,4,Rhoda.Bultman,HTML/CSS;JavaScript;Julia;MATLAB;Python;TypeScript;Docker;Kubernetes;npm;Yarn;Laravel;Next.js;Node.js;React.js;Firebase;Google Cloud;Heroku;Cloud Firestore;MongoDB;Firebase Realtime Database
+0,1,Undergraduate,14,Alleen.Goldina,C#;HTML/CSS;Java;JavaScript;SQL;ASP.NET;ASP.NET Core ;Microsoft SQL Server;MongoDB
+0,1,Other,14,Blake.Pandolfi,Dart;HTML/CSS;JavaScript;PHP;TypeScript;Docker;Homebrew;npm;Yarn;Angular;Angular.js;Express;jQuery;Node.js;Nuxt.js;React.js;Vue.js;AWS;DigitalOcean;Google Cloud;Microsoft Azure;MongoDB;MySQL
+0,1,Master,30,Cacilie.Connelly,Bash/Shell;Python;SQL;SQLite
+0,1,Undergraduate,10,Katleen.Sancho,C#;C++;Unity 3D;Unreal Engine
+0,1,Undergraduate,23,Thalia.Aloise,Kotlin;SQL;Docker;Terraform;AWS;Elasticsearch;PostgreSQL
+0,1,Undergraduate,16,Ellette.Phyllis,Assembly;Bash/Shell;C;C++;Go;HTML/CSS;JavaScript;OCaml;Python;Rust;TypeScript;Docker;Homebrew;npm;Deno
+0,1,Undergraduate,14,Henriette.Ellord,C#;PowerShell;Python;Docker;Kubernetes;ASP.NET Core ;Blazor;AWS;Microsoft Azure;MongoDB
+1,1,Undergraduate,4,Fina.Merell,C#;HTML/CSS;JavaScript;PowerShell;SQL;TypeScript;npm;Angular;ASP.NET Core ;Node.js;AWS;Heroku;Microsoft Azure;Microsoft SQL Server;PostgreSQL
+0,1,Undergraduate,8,Cindelyn.Byrne,Dart;JavaScript;Objective-C;Swift;Homebrew;Firebase;Firebase Realtime Database;SQLite
+0,1,Undergraduate,7,Barbi.Margret,C#;JavaScript;SQL;TypeScript;npm;Yarn;ASP.NET;React.js;Microsoft Azure;MySQL;SQLite
+0,1,Undergraduate,6,Shauna.Brunell,C;C#;HTML/CSS;Java;Rust;TypeScript;Homebrew;npm;Yarn;ASP.NET;React.js;Vue.js;Microsoft Azure;Cloud Firestore;Firebase Realtime Database
+1,1,Master,3,Beatriz.Lunsford,C;C#;C++;Go;Haskell;HTML/CSS;JavaScript;Objective-C;Python;Rust;Swift;Docker;npm;ASP.NET;ASP.NET Core ;Django;FastAPI;React.js;AWS;Firebase;Microsoft Azure;Cloud Firestore;DynamoDB
+0,1,Master,5,Stephanie.Wareing,JavaScript;Python;Google Cloud;Microsoft SQL Server;MySQL;PostgreSQL;SQLite
+1,1,Undergraduate,25,Tiffie.Bearnard,C++;Kotlin;Docker
+0,1,Undergraduate,8,Britni.Sallyann,C#;Java;JavaScript;Python;TypeScript;Docker;Kubernetes;npm;Yarn;ASP.NET;ASP.NET Core ;Express;FastAPI;Node.js;React.js;AWS;Microsoft Azure;DynamoDB;MySQL;PostgreSQL;Redis
+1,1,Other,12,Goldie.Weitman,Bash/Shell;C#;Erlang;Go;HTML/CSS;Java;JavaScript;Rust;Docker;jQuery;Microsoft SQL Server
+0,1,Undergraduate,30,Lucille.Loring,Bash/Shell;Go;JavaScript;Lua;Perl;Python;Rust;SQL;TypeScript;Docker;npm;Terraform;Angular;Angular.js;Django;Flask;Node.js;React.js;Svelte;AWS;DigitalOcean;Microsoft Azure;DynamoDB;Elasticsearch;Microsoft SQL Server;PostgreSQL;Redis;SQLite
+1,1,Undergraduate,11,Anallese.Constancy,C#;Go;JavaScript;SQL;TypeScript;Docker;Kubernetes;Terraform;ASP.NET Core ;Microsoft Azure;MongoDB;MySQL;Redis
+0,1,Other,15,Silvana.Koehler,Bash/Shell;HTML/CSS;JavaScript;SQL;TypeScript;Docker;Homebrew;npm;Terraform;Angular.js;Express;Fastify;Node.js;React.js;Svelte;AWS;Microsoft SQL Server;MySQL;Redis
+0,1,Undergraduate,10,Meg.Jarib,Delphi;HTML/CSS;Java;SQL;Heroku;Oracle;PostgreSQL
+0,1,NoHigherEd,7,Fawne.Hazlett,Bash/Shell;C;C#;HTML/CSS;Java;JavaScript;Lua;Python;SQL;npm;Unity 3D;Express;jQuery;Node.js;AWS
+0,1,Other,6,Ebonee.Adamsen,Elixir;JavaScript;Solidity;Docker;Homebrew;Kubernetes;Phoenix;DigitalOcean;Google Cloud;PostgreSQL;Redis
+0,1,Undergraduate,10,Di.Carmena,C#;HTML/CSS;JavaScript;PowerShell;SQL;TypeScript;npm;ASP.NET Core ;Blazor;Node.js;React.js;Vue.js;Microsoft Azure;Microsoft SQL Server
+1,1,Undergraduate,10,Clo.Talia,HTML/CSS;JavaScript;PHP;Python;SQL;VBA;Laravel;Microsoft SQL Server
+0,1,Undergraduate,16,Loree.Alexandr,Kotlin;Swift;SQLite
+1,1,Undergraduate,33,Fawne.Huggins,Assembly;Bash/Shell;C;HTML/CSS;JavaScript;Python;Rust;TypeScript;Ansible;Docker;npm;Yarn;Django;Flask;Node.js;React.js;AWS;PostgreSQL;SQLite
+1,1,Other,10,Brianna.Albertine,Bash/Shell;Go;JavaScript;Python;SQL;Docker;Kubernetes;Terraform;Django;React.js;AWS;Elasticsearch;MySQL;Redis
+1,1,Undergraduate,7,Tressa.Burkle,Groovy;Kotlin;SQLite
+1,1,Undergraduate,36,Leontine.Glovsky,Bash/Shell;C;C#;C++;Crystal;Dart;Elixir;Erlang;Go;Groovy;Haskell;HTML/CSS;Java;JavaScript;Kotlin;Lua;OCaml;Perl;PHP;PowerShell;Python;Ruby;Rust;Scala;SQL;TypeScript;VBA;Docker;npm;ASP.NET;Deno;Flask;jQuery;Next.js;Node.js;Nuxt.js;Phoenix;Vue.js;Microsoft Azure;VMware;Oracle;PostgreSQL;SQLite
+1,1,Undergraduate,20,Adore.Shuler,C;C#;C++;HTML/CSS;Java;JavaScript;Lua;Objective-C;PowerShell;Python;Rust;Swift;Docker;Homebrew;Unity 3D;DigitalOcean;SQLite
+0,1,Undergraduate,6,Aili.Lindemann,HTML/CSS;Java;JavaScript;TypeScript;Docker;Kubernetes;npm;Angular;jQuery;React.js;MongoDB;MySQL
+0,1,PhD,10,Miquela.Hedve,Python;Docker;Kubernetes;Terraform;AWS;Google Cloud;MongoDB;PostgreSQL;Redis
+1,1,Undergraduate,7,Marcelline.Gherardo,C#;Clojure;Docker;ASP.NET Core ;AWS;Microsoft Azure;Microsoft SQL Server;PostgreSQL
+0,1,Undergraduate,12,Angelique.Podvin,Bash/Shell;C;C#;C++;JavaScript;MATLAB;Python;SQL;Docker;Unity 3D;Flask;Node.js;React.js;MySQL;SQLite
+0,1,Undergraduate,8,Kalina.Aldric,C#;HTML/CSS;JavaScript;Perl;Python;SQL;Docker;Unity 3D;ASP.NET;ASP.NET Core ;Blazor;jQuery;Microsoft Azure;Microsoft SQL Server;MySQL;SQLite
+0,1,Master,20,Caritta.Shuler,Bash/Shell;JavaScript;LISP;Rust;SQL;TypeScript;Docker;Kubernetes;Yarn;AWS;PostgreSQL
+1,1,Master,7,Tobe.Vernier,Bash/Shell;Python;SQL;Google Cloud;PostgreSQL
+0,1,Undergraduate,11,Joelly.Olin,Bash/Shell;C;C++;Python;Rust;Docker;Homebrew;Kubernetes;Puppet;Terraform;Flask;AWS;DigitalOcean;Microsoft Azure;MySQL
+0,1,Undergraduate,7,Kate.Sisile,C#;JavaScript;TypeScript;Docker;Kubernetes;npm;Yarn;ASP.NET;ASP.NET Core ;Express;Node.js;React.js;AWS;PostgreSQL
+1,1,Undergraduate,7,Mady.Ailyn,C++;Ruby;Docker;Homebrew;Ruby on Rails;Heroku;PostgreSQL
+1,1,Undergraduate,8,Johna.Beebe,C#;JavaScript;PowerShell;Rust;SQL;TypeScript;npm;Yarn;ASP.NET;ASP.NET Core ;React.js;AWS;Microsoft Azure;Microsoft SQL Server;PostgreSQL
+1,1,PhD,16,Stacey.Vale,Bash/Shell;HTML/CSS;JavaScript;Perl;Python;R;SQL;Docker;Homebrew;PostgreSQL;SQLite
+1,1,Undergraduate,8,Steffane.Evangelia,C#;Java;Chef;Docker;Kubernetes;npm;Angular.js;ASP.NET;ASP.NET Core ;Blazor;Deno;Express;Node.js;AWS;PostgreSQL
+0,1,Master,20,Daune.Monk,JavaScript;PHP;SQL;Docker;jQuery;AWS;DigitalOcean;Managed Hosting;Microsoft SQL Server;MySQL
+1,1,Undergraduate,22,Concettina.Rustice,HTML/CSS;Python;Rust;TypeScript;Ansible;Docker;Kubernetes;Terraform;Yarn;Flask;React.js;AWS;VMware;DynamoDB;MongoDB;Redis
+0,1,Undergraduate,13,Elie.Niles,Bash/Shell;HTML/CSS;Python;Rust;Docker;Django;MariaDB;Redis
+0,1,Master,18,Betta.Read,Bash/Shell;Go;JavaScript;Python;Rust;Scala;SQL;TypeScript;Docker;Kubernetes;Terraform;Yarn;Node.js;React.js;AWS;PostgreSQL
+1,1,PhD,18,Marinna.Carmena,Bash/Shell;HTML/CSS;Python;Linode
+0,1,Other,16,Gusty.Herrera,PowerShell;Python;Rust;SQL;Docker;AWS;Microsoft SQL Server;MySQL
+0,1,Undergraduate,13,Kaja.Ax,Go;Java;JavaScript;Python;Scala;TypeScript;Docker;Kubernetes;npm;Angular;ASP.NET Core ;Node.js;React.js;AWS;Google Cloud;OpenStack;DynamoDB;MongoDB;PostgreSQL;Redis
+0,1,PhD,9,Julieta.Prouty,JavaScript;Python;R;Rust;Scala;Docker;Homebrew;Flask;AWS;SQLite
+0,1,Other,14,Krystle.Monaco,JavaScript;Ruby;Rust;TypeScript;npm;Yarn;Express;Ruby on Rails;AWS;DigitalOcean;Google Cloud;MongoDB;MySQL;PostgreSQL;Redis
+1,1,Other,5,Trixi.Elo,C;HTML/CSS;Python;PostgreSQL
+0,1,Undergraduate,8,Laure.Jerold,HTML/CSS;Java;JavaScript;Python;TypeScript;React.js;AWS;DynamoDB
+1,1,Undergraduate,4,Patricia.Tillford,Elixir;HTML/CSS;JavaScript;Rust;TypeScript;Docker;Homebrew;npm;Express;Next.js;Node.js;Phoenix;React.js;Svelte;AWS;DigitalOcean;Heroku;MongoDB;PostgreSQL;Redis
+0,1,Undergraduate,4,Pollyanna.Pascia,Bash/Shell;Go;HTML/CSS;Java;JavaScript;Lua;Objective-C;SQL;TypeScript;Docker;Homebrew;Kubernetes;npm;Terraform;Yarn;Express;Next.js;Node.js;React.js;Svelte;AWS;Google Cloud;PostgreSQL;Redis
+0,1,Other,17,Liana.Milson,Clojure;Java;AWS;Elasticsearch;PostgreSQL
+0,1,Other,18,Britte.Claudine,Bash/Shell;C#;HTML/CSS;Java;JavaScript;Ruby;Solidity;SQL;Swift;TypeScript;Docker;Homebrew;Kubernetes;npm;Yarn;Angular.js;ASP.NET;ASP.NET Core ;Express;Gatsby;jQuery;Next.js;Node.js;React.js;Ruby on Rails;AWS;Google Cloud;Heroku;IBM Cloud or Watson;DynamoDB;Elasticsearch;MariaDB;Microsoft SQL Server;MongoDB;MySQL;PostgreSQL;Redis;SQLite
+0,1,Undergraduate,6,Mariann.Munn,Bash/Shell;Go;Java;JavaScript;Kotlin;PowerShell;Python;Rust;SQL;TypeScript;npm;Unity 3D;Node.js;React.js;AWS
+1,1,Undergraduate,6,Allyce.Henebry,Bash/Shell;Python;Rust;Ansible;Docker;Kubernetes;Terraform;AWS;Google Cloud;Elasticsearch;PostgreSQL;Redis
+0,1,Other,6,Valeda.Prober,C++;HTML/CSS;JavaScript;PHP;SQL;Laravel;Microsoft Azure;VMware;Microsoft SQL Server
+0,1,Master,15,Daryl.Zaslow,Crystal;Kotlin;Ruby;TypeScript;Docker;Homebrew;Terraform;Yarn;Nuxt.js;Ruby on Rails;Vue.js;AWS;DynamoDB;PostgreSQL
+1,1,Undergraduate,14,Estell.Ax,C#;npm;Terraform;ASP.NET;ASP.NET Core ;Node.js;AWS;Microsoft Azure;Microsoft SQL Server;Redis
+0,1,Undergraduate,3,Meriel.Daegal,Dart;Go;JavaScript;Ruby;TypeScript;Homebrew;npm;Yarn;Angular;Deno;React.js;AWS;Google Cloud;Microsoft Azure
+1,1,Undergraduate,6,Elfreda.Zachary,Objective-C;Swift;Homebrew
+0,1,Undergraduate,6,Caryl.Campball,Go;HTML/CSS;JavaScript;PHP;Rust;TypeScript;Docker;Kubernetes;npm;Yarn;Next.js;React.js;AWS;MySQL;PostgreSQL;SQLite
+0,1,Undergraduate,3,Winifred.Madelene,HTML/CSS;Java;JavaScript;Python;TypeScript;Homebrew;npm;Yarn;Django;Express;Gatsby;Node.js;React.js
+0,1,Master,20,Marline.Doig,Go;TypeScript;npm;Terraform;Node.js;React.js;AWS;MongoDB
+1,1,NoHigherEd,15,Edyth.Fiester,Bash/Shell;C;C#;HTML/CSS;JavaScript;Perl;PHP;Python;SQL;Unity 3D;MySQL;SQLite
+0,1,Undergraduate,9,Janis.Tarrant,Bash/Shell;Julia;Python;Docker;AWS;DynamoDB;PostgreSQL
+0,1,Master,15,Sheree.Ummersen,C#;C++;HTML/CSS;JavaScript;Rust;Microsoft Azure
+1,1,Other,15,Olwen.Pip,Bash/Shell;C#;Dart;Go;HTML/CSS;JavaScript;PowerShell;SQL;TypeScript;Docker;Homebrew;Kubernetes;npm;Terraform;Yarn;Angular;ASP.NET Core ;Blazor;Fastify;Next.js;Node.js;React.js;AWS;Firebase;Microsoft Azure;Cloud Firestore;DynamoDB;Microsoft SQL Server;MySQL;PostgreSQL
+0,1,Undergraduate,5,Jan.Konyn,C++;Go;HTML/CSS;JavaScript;Julia;Lua;Python;Rust;SQL;npm;Flask;Node.js;Svelte;Vue.js;DigitalOcean;IBM DB2;Microsoft SQL Server;MySQL;Oracle;PostgreSQL;Redis;SQLite
+0,1,Master,10,Betta.Read,Bash/Shell;JavaScript;Python;Ruby;Rust;SQL;TypeScript;Docker;Homebrew;npm;Terraform;Yarn;ASP.NET Core ;Express;Gatsby;Next.js;Node.js;React.js;Ruby on Rails;AWS;DynamoDB;PostgreSQL;Redis
+0,1,Undergraduate,9,Diena.Woodberry,C;C++;Python;Rust;Docker;DigitalOcean;MongoDB
+0,1,Undergraduate,10,Mariele.Stav,Bash/Shell;C;HTML/CSS;JavaScript;Python;Rust;AWS;MariaDB
+0,1,Master,6,Carolina.Alice,Julia
+0,1,Undergraduate,6,Mamie.Amand,Java;Kotlin;SQLite
+0,1,Master,12,Valera.Codding,Assembly;Bash/Shell;C;C++;Python
+0,1,Master,9,Alisha.Quent,HTML/CSS;JavaScript;Python;SQL;npm;Express;Flask;Node.js;Svelte;AWS;DigitalOcean;Google Cloud;VMware;PostgreSQL
+0,1,Other,24,Maridel.Ardra,Bash/Shell;Clojure;HTML/CSS;Java;JavaScript;SQL;Docker;React.js;AWS;Microsoft Azure;MariaDB;MySQL;PostgreSQL
+0,1,Undergraduate,15,Deloria.Weaks,Bash/Shell;Fortran;Go;JavaScript;Lua;Python;Rust;Swift;TypeScript;Docker;Flow;Yarn;Django;Flask;React.js;AWS;PostgreSQL;Redis;SQLite
+0,1,Undergraduate,20,Corene.Ashely,Bash/Shell;Kotlin;Python;Rust;Docker;Kubernetes;AWS;DynamoDB
+0,1,Undergraduate,7,Corly.Alabaster,LISP;Python;SQL;VBA;VMware;Microsoft SQL Server
+1,1,Undergraduate,31,Maisey.Boehike,Bash/Shell;Groovy;Java;AWS;Google Cloud;Cloud Firestore;DynamoDB;Redis
+0,1,Other,10,Emelina.Gualtiero,Go;JavaScript;Python;Docker;Homebrew;Kubernetes;npm;Yarn;Django;FastAPI;Flask;Next.js;Node.js;React.js;AWS;DigitalOcean;Firebase;Google Cloud;Heroku;DynamoDB;PostgreSQL;SQLite
+0,1,Undergraduate,3,Nita.Ackerley,APL;JavaScript;Docker;Yarn;Express;Node.js;React.js;PostgreSQL
+0,1,Undergraduate,10,Ofilia.Malvino,Bash/Shell;Java;Python;Rust;SQL;Docker;Kubernetes;AWS;Google Cloud
+0,1,Other,2,Queenie.Corabella,Bash/Shell;C#;Java;JavaScript;SQL;Docker;Kubernetes;npm;Terraform;ASP.NET;ASP.NET Core ;Node.js;AWS;MongoDB;PostgreSQL;Redis
+0,1,PhD,17,Sheelagh.Catie,Go;HTML/CSS;Python;Rust;SQL;TypeScript;Docker;Kubernetes;Vue.js;AWS;Elasticsearch;PostgreSQL;Redis
+1,1,Undergraduate,11,Damaris.Syd,Elixir;JavaScript;PHP;Python;Ruby;Rust;TypeScript;Docker;Homebrew;npm;React.js;Ruby on Rails;AWS;MariaDB;PostgreSQL;Redis;SQLite
+0,1,Undergraduate,14,Lorenza.Yuille,JavaScript;Python;TypeScript;Docker;Homebrew;Kubernetes;npm;Terraform;Yarn;Django;FastAPI;Flask;Next.js;React.js;AWS;DigitalOcean;Google Cloud;Linode;MongoDB;MySQL;PostgreSQL;Redis
+0,1,Undergraduate,9,Aigneis.Philipp,Assembly;Bash/Shell;C;C++;HTML/CSS;Java;JavaScript;Lua;PowerShell;Python;Ruby;TypeScript;Docker;Homebrew;npm;Yarn;Express;FastAPI;Flask;jQuery;Node.js;React.js;AWS;DigitalOcean;Google Cloud;OVH;DynamoDB;Elasticsearch
+0,1,Undergraduate,5,Melina.Cornelia,Bash/Shell;C;Go;Java;Python;Rust;SQL;Docker;Homebrew;Kubernetes;AWS;Colocation;PostgreSQL;Redis
+0,1,Undergraduate,5,Korrie.Turne,C#;Java;JavaScript;SQL;npm;ASP.NET;ASP.NET Core ;Node.js;React.js;Microsoft Azure;Microsoft SQL Server
+0,1,Undergraduate,18,Ricky.Cleavland,Bash/Shell;HTML/CSS;JavaScript;PHP;Python;SQL;Docker;npm;Flask;Vue.js;AWS;MariaDB;Microsoft SQL Server;MySQL;PostgreSQL;SQLite
+0,1,Undergraduate,20,Jordan.Riordan,HTML/CSS;JavaScript;PHP;SQL;VBA;AWS;Colocation;Managed Hosting;Microsoft SQL Server;MySQL
+0,1,Undergraduate,5,Theodora.Terrence,HTML/CSS;JavaScript;Python;SQL;TypeScript;npm;Angular.js;Express;Node.js;Firebase;Heroku;MongoDB
+0,1,Undergraduate,6,Kalina.Dom,Python;SQL;Docker;AWS;PostgreSQL
+0,1,Undergraduate,23,Wanda.Hepsibah,C#;HTML/CSS;JavaScript;Angular;Angular.js;ASP.NET;ASP.NET Core ;Blazor;Microsoft Azure;Microsoft SQL Server;Redis
+0,1,Undergraduate,8,Kate.Sophronia,Clojure;Docker;Terraform;AWS;Cassandra;PostgreSQL;Redis
+0,1,Undergraduate,5,Michaelina.Couture,Bash/Shell;C;C++;Go;Java;JavaScript;PHP;Rust;SQL;TypeScript;Docker;Kubernetes;npm;Yarn;Express;Flask;Laravel;Next.js;React.js;Vue.js;DigitalOcean;MariaDB;MySQL;PostgreSQL;Redis
+1,1,Undergraduate,7,Henriette.Auberbach,Bash/Shell;HTML/CSS;Java;JavaScript;PowerShell;Rust;SQL;TypeScript;Docker;npm;Yarn;Express;Next.js;Node.js;React.js;AWS;Google Cloud;Microsoft Azure;DynamoDB;Microsoft SQL Server;MongoDB;MySQL;PostgreSQL
+0,1,Master,18,Ethel.Zitvaa,C#;Groovy;HTML/CSS;Java;JavaScript;SQL;TypeScript;Docker;Kubernetes;npm;Yarn;ASP.NET Core ;Express;Node.js;React.js;MySQL;SQLite
+0,1,Master,6,Fawne.Roumell,HTML/CSS;JavaScript;Julia;MATLAB;Python;R;Flow;FastAPI;Node.js;Google Cloud;VMware;MySQL;Oracle;SQLite
+0,1,Undergraduate,10,Norine.Alice,HTML/CSS;JavaScript;PHP;Python;SQL;Docker;Puppet;jQuery;Node.js;Vue.js;Oracle;Redis
+1,1,Undergraduate,5,Constance.Sheng,Bash/Shell;Go;JavaScript;Solidity;SQL;TypeScript;Docker;Angular;Express;Next.js;Node.js;React.js;AWS;Google Cloud;Heroku;MongoDB;PostgreSQL
+0,1,Undergraduate,9,Shandie.Catie,Assembly;Bash/Shell;C;C#;C++;Dart;Go;HTML/CSS;Java;JavaScript;PHP;PowerShell;Python;Rust;Solidity;SQL;TypeScript;Unity 3D
+0,1,Master,5,Mireielle.Kinnard,JavaScript;SQL;TypeScript;Express;Node.js;React.js;AWS;Firebase;Heroku;MongoDB;MySQL;PostgreSQL;Redis
+0,1,Other,13,Dale.Magnolia,Bash/Shell;C#;HTML/CSS;Java;JavaScript;PowerShell;VBA;jQuery
+0,1,Master,27,Vita.Arathorn,C;C++;Python;SQL;Ansible;Docker;Kubernetes;Django;Flask;AWS;Google Cloud;Heroku;OpenStack;Cassandra;MySQL;PostgreSQL;SQLite
+1,1,PhD,23,Averyl.Diogenes,Go;HTML/CSS;SQL;Docker;Kubernetes;Google Cloud;MySQL;PostgreSQL
+0,1,NoHigherEd,5,Alejandra.Rustice,C#;C++;F#;Java;PowerShell;Python;Docker;npm;Yarn;ASP.NET Core ;PostgreSQL;SQLite
+1,1,Undergraduate,45,Ketti.Kazimir,Assembly;C;C++;Clojure;Dart;Elixir;HTML/CSS;Java;JavaScript;LISP;Python;Ruby;Docker;Homebrew;Kubernetes;npm;Yarn;Express;Gatsby;jQuery;Node.js;Phoenix;React.js;Ruby on Rails;AWS;Firebase;MongoDB;PostgreSQL;Firebase Realtime Database;Redis;SQLite
+1,1,Undergraduate,5,Yolane.Belanger,HTML/CSS;JavaScript;PHP;SQL;TypeScript;Docker;Kubernetes;npm;Express;Laravel;Node.js;Vue.js;AWS;Firebase;Heroku;OVH;Cloud Firestore;MariaDB;MongoDB;MySQL;PostgreSQL;Firebase Realtime Database;Redis;SQLite
+0,1,Master,9,Angela.Candy,C#;HTML/CSS;Java;PHP;Python;SQL;npm;Flask;AWS;Google Cloud;VMware;Elasticsearch;Microsoft SQL Server;MySQL;Neo4j;SQLite
+0,1,Undergraduate,10,Robinia.Papageno,HTML/CSS;JavaScript;PHP;Python;Angular;Django;jQuery;Microsoft Azure;MySQL
+1,1,Master,15,Julieta.Japeth,Bash/Shell;HTML/CSS;Java;JavaScript;PHP;SQL;TypeScript;Docker;npm;Angular;jQuery;VMware;MariaDB;MongoDB;MySQL;Oracle;PostgreSQL
+0,1,Undergraduate,4,Kial.Thunell,Bash/Shell;Python;R;SQL;Docker;Homebrew;Django;FastAPI;Flask;Gatsby;Next.js;AWS;DigitalOcean;Firebase;Google Cloud;Microsoft Azure;Cloud Firestore;MongoDB;MySQL;PostgreSQL;Firebase Realtime Database;SQLite
+0,1,Undergraduate,7,Giustina.Stoller,Bash/Shell;Go;PowerShell;Python;Docker;Terraform;Django;AWS;Google Cloud;Microsoft Azure;DynamoDB;Microsoft SQL Server;MySQL;PostgreSQL;SQLite
+0,1,Undergraduate,15,Dorthy.Phaidra,Java;SQL;Docker;Kubernetes;AWS;Microsoft Azure;Couchbase;CouchDB;Elasticsearch;MariaDB;MySQL;PostgreSQL
+0,1,Master,12,Fayre.Carbo,C++;Python;Unity 3D;FastAPI;Flask;Heroku;Managed Hosting
+0,1,Master,9,Zia.Kimmie,Java;JavaScript;TypeScript;Docker;Terraform;React.js;AWS;Google Cloud;Cassandra;PostgreSQL;Redis
+0,1,Undergraduate,20,Ericka.Radu,Bash/Shell;C#;JavaScript;LISP;Lua;Rust;SQL;TypeScript;npm;ASP.NET Core ;React.js;AWS;Microsoft Azure;IBM DB2;Microsoft SQL Server;MongoDB;SQLite
+0,1,Undergraduate,6,Phylis.Rosalba,JavaScript;PHP;SQL;npm;Yarn;Express;Laravel;Node.js;Vue.js;AWS;MySQL
+0,1,Undergraduate,7,Latisha.Cimbura,HTML/CSS;JavaScript;TypeScript;npm;Angular;Node.js;Microsoft Azure;MySQL
+0,1,Master,35,Ana.Wattenberg,C#;C++;F#;HTML/CSS;JavaScript;Rust;SQL;TypeScript;Docker;Kubernetes;npm;Terraform;Express;Next.js;Node.js;React.js;Svelte;Firebase;Microsoft Azure;Microsoft SQL Server;Firebase Realtime Database;SQLite
+0,1,NoHigherEd,1,Corry.Durware,HTML/CSS;JavaScript;Ruby;Yarn;Ruby on Rails;Vue.js;PostgreSQL
+0,1,Undergraduate,10,Raina.Janene,SQL;VBA;Microsoft Azure;Microsoft SQL Server
+0,1,Undergraduate,14,Cherrita.Fiann,Bash/Shell;HTML/CSS;JavaScript;PHP;Rust;SQL;TypeScript;Docker;Homebrew;npm;Angular;Express;Node.js;React.js;AWS;DigitalOcean;Microsoft Azure;MongoDB;MySQL;PostgreSQL
+1,1,Other,14,Marjie.Tybald,Bash/Shell;C#;Go;HTML/CSS;JavaScript;PHP;Python;SQL;Docker;Kubernetes;npm;Unity 3D;Yarn;jQuery;Laravel;Next.js;React.js;Vue.js;AWS;DigitalOcean;MariaDB;MySQL;Redis
+0,1,Other,12,Tracey.Eachern,Bash/Shell;HTML/CSS;JavaScript;PHP;Python;SQL;TypeScript;Docker;npm;Angular;Django;Flask;Laravel;Node.js;React.js;Vue.js;AWS;DigitalOcean;PostgreSQL
+1,1,Undergraduate,12,Gloria.Couture,C#;HTML/CSS;PowerShell;TypeScript;Docker;Kubernetes;Angular;AWS;Microsoft Azure;DynamoDB;Microsoft SQL Server;Oracle
+0,1,Other,27,Hallie.Jaylene,HTML/CSS;Java;JavaScript;TypeScript;Docker;Kubernetes;npm;Angular;Express;Node.js;React.js;AWS;Microsoft Azure;DynamoDB;Oracle
+0,1,Undergraduate,5,Reeba.Sheedy,Go;JavaScript;Rust;Solidity;TypeScript;Docker;Kubernetes;npm;Terraform;Express;Node.js;React.js;Vue.js;AWS;DigitalOcean;Google Cloud;Cassandra;Redis
+0,1,Undergraduate,8,Jillayne.Junie,C;C#;C++;Java;Kotlin;Lua;MATLAB;Firebase;MySQL;Oracle;SQLite
+0,1,Master,22,Clary.Hurley,Go;HTML/CSS;Java;JavaScript;Kotlin;PowerShell;Python;Rust;SQL;Ansible;Docker;Yarn;FastAPI;Fastify;Flask;React.js;Vue.js;AWS;Microsoft Azure;OVH;Elasticsearch;MySQL;PostgreSQL;SQLite
+0,1,Master,7,Winny.Remmer,HTML/CSS;JavaScript;PHP;Ruby;Solidity;SQL;TypeScript;Docker;Homebrew;npm;Yarn;Angular;Express;Gatsby;jQuery;Laravel;Next.js;Node.js;React.js;Ruby on Rails;Vue.js;AWS;Firebase;Google Cloud;Heroku;Microsoft Azure;Cloud Firestore;Elasticsearch;MongoDB;MySQL;PostgreSQL;Redis;SQLite
+0,1,Undergraduate,7,Elvira.Voletta,HTML/CSS;JavaScript;PHP;Homebrew;npm;Yarn;Angular;Express;Next.js;Node.js;Nuxt.js;React.js;Vue.js;AWS;DigitalOcean;Firebase;MongoDB;PostgreSQL;Firebase Realtime Database
+1,1,Undergraduate,22,Neila.Laurianne,C++;Java;PowerShell;SQL;Microsoft SQL Server;Oracle
+0,1,Undergraduate,10,Ermengarde.Ioab,HTML/CSS;JavaScript;SQL;Docker;Homebrew;npm;Angular.js;Express;jQuery;Node.js;React.js;Vue.js;AWS;MariaDB;MySQL;Redis
+0,1,Undergraduate,7,Shauna.Graig,Haskell;JavaScript;Python;TypeScript;npm;Express;jQuery;Node.js;React.js;Svelte;Vue.js
+0,1,Undergraduate,14,Korrie.Boycey,Bash/Shell;HTML/CSS;Java;JavaScript;Kotlin;Python;SQL;TypeScript;npm;Yarn;Flask;Node.js;React.js;AWS;PostgreSQL;SQLite
+0,1,Master,10,Tiffie.Reinke,Bash/Shell;Groovy;HTML/CSS;Java;JavaScript;Kotlin;Python;Rust;Ansible;Docker;npm;Node.js;AWS;MongoDB;Redis
+0,1,Undergraduate,6,Mahalia.Lutero,Bash/Shell;C;C#;C++;Python;SQL;Docker;Yarn;Django;Express;FastAPI;Flask;Gatsby;Node.js;Ruby on Rails;AWS;DigitalOcean;Firebase;Google Cloud;Heroku;MongoDB;MySQL;PostgreSQL;Firebase Realtime Database;Redis;SQLite
+0,1,Other,3,Annice.Rudolph,C#;HTML/CSS;JavaScript;SQL;Docker;npm;Angular;ASP.NET Core ;Blazor;jQuery;PostgreSQL
+1,1,Undergraduate,5,Leia.Ciro,C;C#;Dart;HTML/CSS;Java;JavaScript;PHP;Python;Solidity;SQL;TypeScript;Docker;npm;Unity 3D;Yarn;ASP.NET;ASP.NET Core ;Blazor;Express;jQuery;Laravel;Next.js;Node.js;React.js;Vue.js;AWS;Firebase;Google Cloud;Microsoft Azure;Cloud Firestore;Microsoft SQL Server;MongoDB;MySQL;Firebase Realtime Database;Redis
+0,1,Undergraduate,12,Claudina.Zeeba,Bash/Shell;C++;Java;PHP;PowerShell;Python;TypeScript;Angular;Flask;AWS;MySQL;SQLite
+1,1,Master,7,Trixi.Sammons,Bash/Shell;C++;Go;Python;SQL;Docker;DigitalOcean;Microsoft Azure;SQLite
+0,1,Undergraduate,5,Desirae.Andrel,Java;Kotlin
+0,1,Undergraduate,12,Millie.Clarissa,C#;C++;Dart;Java;JavaScript;Kotlin;PowerShell;Ruby;Rust;SQL;Swift;TypeScript;Docker;Kubernetes;npm;Angular;ASP.NET Core ;Vue.js;AWS;Firebase;Google Cloud;Linode;Microsoft Azure;Microsoft SQL Server;MySQL;PostgreSQL
+0,1,Undergraduate,16,Ariela.Euridice,C;C#;Go;Java;JavaScript;PowerShell;Python;TypeScript;Docker;Kubernetes;npm;Terraform;Angular;Angular.js;ASP.NET Core ;Node.js;Vue.js;AWS;Firebase;Microsoft Azure;Microsoft SQL Server;MongoDB;Firebase Realtime Database
+0,1,Undergraduate,22,Nelle.Jess,Bash/Shell;C;C++;Python;Ansible;Docker;Homebrew;SQLite
+0,1,Master,14,Adore.Gombach,Bash/Shell;C;C++;Go;HTML/CSS;Java;JavaScript;Kotlin;Lua;Objective-C;Perl;PHP;PowerShell;Python;R;Ruby;Rust;SQL;Swift;TypeScript;Flow;Homebrew;npm;Yarn;Django;Gatsby;jQuery;Next.js;Node.js;React.js;Ruby on Rails;Vue.js;AWS;DigitalOcean;Google Cloud;Heroku;Oracle Cloud Infrastructure;VMware;Elasticsearch;MariaDB;MongoDB;MySQL
+0,1,Master,27,Aurelie.Woodberry,HTML/CSS;JavaScript;PHP;PowerShell;Python;SQL;npm;Node.js;MariaDB;Microsoft SQL Server;MySQL;SQLite
+0,1,Undergraduate,6,Delilah.Aldric,C;C++;Go;HTML/CSS;Java;JavaScript;Kotlin;PHP;Python;Rust;npm;Yarn;jQuery;Node.js;React.js;Firebase;Google Cloud;Heroku;Cloud Firestore;MariaDB;MySQL;Firebase Realtime Database;SQLite
+0,1,Other,19,Peri.Capello,C#;Java;JavaScript;SQL;TypeScript;npm;ASP.NET Core ;jQuery;Node.js;React.js;Microsoft SQL Server
+1,1,Undergraduate,15,Deane.Riva,Bash/Shell;Clojure;Go;Java;JavaScript;Python;Ruby;Rust;SQL;TypeScript;Ansible;Chef;Docker;Homebrew;Kubernetes;Terraform;Yarn;Angular;Django;Express;FastAPI;Fastify;Flask;Next.js;Node.js;React.js;Ruby on Rails;AWS;DigitalOcean;Google Cloud;Heroku;Linode;Microsoft Azure;Cassandra;Couchbase;DynamoDB;Elasticsearch;MongoDB;MySQL;PostgreSQL;Redis;SQLite
+0,1,Master,22,Elka.Phi,Go;JavaScript;SQL;TypeScript;Angular;Angular.js;React.js;OpenStack;PostgreSQL;Redis
+0,1,Master,15,Gilda.Firmin,Java;SQL;Docker;Homebrew;npm;Yarn;React.js;Oracle;PostgreSQL
+0,1,Undergraduate,20,Siana.Martsen,Bash/Shell;C#;C++;HTML/CSS;JavaScript;PHP;PowerShell;Python;SQL;TypeScript;npm;ASP.NET;ASP.NET Core ;Blazor;Flask;jQuery;React.js;Vue.js;Heroku;Managed Hosting;MySQL;Oracle
+0,1,Undergraduate,41,Calla.Travax,Bash/Shell;C;C++;JavaScript;Python;Docker;MySQL
+0,1,Undergraduate,6,Modestia.Adamsen,C;Dart;Java;Kotlin;Python;AWS;DigitalOcean;Firebase;Google Cloud;MySQL;PostgreSQL;Firebase Realtime Database;SQLite
+0,1,Master,30,Kenna.Ajay,C#;C++;Perl;PowerShell;Python;R;SQL;Docker;Microsoft Azure;Microsoft SQL Server
+0,1,Master,31,Donnie.Leffen,Bash/Shell;Go;Java;Ansible;Docker;Terraform;Microsoft Azure;PostgreSQL
+0,1,Other,27,Selma.Raffo,Bash/Shell;HTML/CSS;JavaScript;Python;VBA;Docker;Homebrew;Microsoft SQL Server;PostgreSQL
+1,1,Undergraduate,23,Marleah.Tippets,C#;Delphi;JavaScript;Objective-C;SQL;Swift;VBA;Docker;Angular;ASP.NET;ASP.NET Core ;Blazor;Managed Hosting;Microsoft Azure;Microsoft SQL Server;MySQL;PostgreSQL
+0,1,Undergraduate,16,Arlena.Hourigan,Java;SQL;Docker;npm;AWS;MariaDB;Oracle
+0,1,Undergraduate,18,Norine.My,HTML/CSS;Ruby;Rust
+0,1,Undergraduate,11,Desirae.Behre,Dart;JavaScript;Python;TypeScript;Docker;Homebrew;npm;Django;AWS;Firebase;DynamoDB;Elasticsearch;MongoDB;MySQL;PostgreSQL
+0,1,Master,3,Kellen.August,Dart;JavaScript;Python;TypeScript;Docker;Kubernetes;npm;Node.js;React.js;Firebase;Microsoft Azure;Cloud Firestore;MySQL;PostgreSQL;Firebase Realtime Database;SQLite
+0,1,Master,20,Joelly.Tremayne,Go;HTML/CSS;JavaScript;Python;Rust;TypeScript;Docker;npm;Angular;Express;Node.js;Svelte;AWS;Google Cloud;PostgreSQL;Redis
+0,1,Undergraduate,11,Verla.Ambrosia,C#;C++;Java;Perl;Python;Docker;ASP.NET Core ;Microsoft SQL Server;Oracle;PostgreSQL
+1,1,NoHigherEd,8,Annabela.Pearse,C++;Lua;Python;TypeScript;npm;Unity 3D;Unreal Engine;Node.js;React.js
+1,1,Other,6,Annabela.Israeli,C;C++;Elixir;Go;Java;JavaScript;Python;SQL;TypeScript;Docker;Kubernetes;Flask;Node.js;React.js;Vue.js;AWS;DigitalOcean;Google Cloud;Cassandra;Elasticsearch;MariaDB;MySQL;PostgreSQL
+0,1,Other,42,Gwyneth.Decato,Bash/Shell;C;C#;C++;HTML/CSS;JavaScript;Kotlin;Docker;npm;Unity 3D;jQuery;Node.js;React.js;DigitalOcean;MongoDB
+0,1,Undergraduate,10,Beverley.Corabella,Java;Kotlin;AWS;DigitalOcean;Firebase;MongoDB;SQLite
+0,1,Undergraduate,26,Tersina.Vary,Bash/Shell;C#;C++;HTML/CSS;Java;Kotlin;Objective-C;Python;TypeScript;Ansible;Homebrew;Unreal Engine;Angular;Flask;jQuery;React.js;AWS;Firebase;Google Cloud;Heroku;SQLite
+0,1,Master,15,Atlanta.Gabrielli,HTML/CSS;Java;JavaScript;PHP;SQL;Docker;npm;Terraform;Yarn;Angular;Angular.js;jQuery;React.js;MySQL
+0,1,Undergraduate,6,Mildrid.Erb,Java;Docker;Kubernetes;Angular;jQuery;Microsoft SQL Server
+0,1,Undergraduate,17,Deane.Heidt,C#;HTML/CSS;JavaScript;SQL;TypeScript;Docker;Kubernetes;npm;Terraform;Angular;Next.js;React.js;Microsoft Azure;Microsoft SQL Server;Redis
+0,1,Undergraduate,6,Netty.Delila,Elixir;SQL;Docker;Phoenix;PostgreSQL
+0,1,Other,38,Elyssa.Macey,C#;JavaScript;Docker;npm;ASP.NET Core ;Node.js;Vue.js;AWS;Microsoft Azure;DynamoDB;Elasticsearch;Microsoft SQL Server
+0,1,Undergraduate,10,Kellen.Sherfield,Java;JavaScript;npm;Angular;React.js;AWS
+0,1,Undergraduate,12,Norine.Atonsah,C++;Rust;Docker;AWS;DynamoDB
+0,1,Undergraduate,7,Dyann.Wadell,HTML/CSS;JavaScript;PHP;SQL;TypeScript;npm;Yarn;Express;Laravel;Next.js;Node.js;React.js;Vue.js;MongoDB;MySQL
+0,1,Other,5,Wynne.Emmaline,Bash/Shell;HTML/CSS;JavaScript;Perl;Python;Ruby;SQL;Docker;npm;Express;Gatsby;jQuery;Next.js;Node.js;React.js;Svelte;Firebase;Google Cloud;Heroku;Linode;Cloud Firestore;Elasticsearch;MongoDB;MySQL;PostgreSQL;Firebase Realtime Database
+0,1,Undergraduate,15,Ezmeralda.Wilkinson,C;C++;Java;JavaScript;Objective-C;Ruby;Swift;Unity 3D;Angular;Angular.js;jQuery;Node.js;React.js;Ruby on Rails;AWS;Firebase;Google Cloud;VMware;Microsoft SQL Server;MySQL;Oracle;SQLite
+0,1,Master,10,Gabi.Roche,HTML/CSS;JavaScript;PHP;SQL;Docker;npm;jQuery;Laravel;Vue.js;AWS;DigitalOcean;Linode;MariaDB
+0,1,Undergraduate,10,Linzy.Zetta,C;Python;Microsoft Azure;SQLite
+0,1,Undergraduate,24,Ermengarde.Sherrie,C#;HTML/CSS;PHP;PowerShell;SQL;Microsoft SQL Server
+0,1,Undergraduate,9,Clary.Gaal,Bash/Shell;C;Dart;Elixir;Go;HTML/CSS;Java;JavaScript;Kotlin;Python;SQL;Ansible;Docker;Homebrew;Kubernetes;npm;Terraform;Yarn;Angular;Express;FastAPI;Gatsby;jQuery;Laravel;Node.js;Nuxt.js;React.js;Vue.js;AWS;Firebase;Google Cloud;Heroku;Microsoft Azure;OpenStack;VMware;MariaDB;MySQL;PostgreSQL;Firebase Realtime Database;Redis;SQLite
+0,1,Undergraduate,9,Cyndie.Crudden,C;C#;C++;HTML/CSS;Java;JavaScript;PHP;PowerShell;SQL;TypeScript;VBA;npm;Angular;ASP.NET;ASP.NET Core ;jQuery;Node.js;Cassandra;Microsoft SQL Server;MySQL
+0,1,Master,17,Teddie.Center,Kotlin;SQL;Swift;Homebrew;AWS;Firebase;Google Cloud;MySQL;SQLite
+0,1,Master,28,Petronia.Mozelle,HTML/CSS;JavaScript;Objective-C;Python;Swift;Homebrew;Node.js;Firebase;Google Cloud;Cloud Firestore;Firebase Realtime Database
+0,1,Undergraduate,7,Gerianna.Judye,C#;Angular;ASP.NET;ASP.NET Core ;Microsoft SQL Server
+0,1,Master,10,Gerrie.Alice,Bash/Shell;Java;Kotlin;Homebrew;Firebase;SQLite
+0,1,Undergraduate,12,Verla.Killigrew,Go;Groovy;HTML/CSS;Java;JavaScript;Kotlin;Perl;Python;Ruby;Rust;SQL;Chef;Docker;Homebrew;Kubernetes;npm;Yarn;Node.js;AWS;Google Cloud;VMware;MariaDB;MongoDB;PostgreSQL;Redis;SQLite
+0,1,Other,20,Joceline.Carmena,C#;HTML/CSS;JavaScript;PowerShell;VMware;Microsoft SQL Server;MongoDB
+0,1,Master,7,Kerrin.Tomasina,Go;Java;JavaScript;Docker;Homebrew;Kubernetes;npm;Yarn;Angular;Express;Fastify;Node.js;React.js;AWS;DigitalOcean;Heroku;Linode;Cassandra;Elasticsearch;MongoDB;MySQL
+1,1,Undergraduate,4,Riannon.Orelee,Bash/Shell;C;Python;Rust;Ansible;Docker;Homebrew
+0,1,Undergraduate,3,Christy.Brandice,C;MATLAB;Python
+0,1,Undergraduate,6,Anestassia.Montgomery,HTML/CSS;JavaScript;TypeScript;npm;Yarn;Next.js;Node.js;React.js;AWS;MongoDB;Firebase Realtime Database;Redis
+1,1,Undergraduate,2,Atlanta.Stilwell,Go;JavaScript;Python;R;SQL;Docker;Homebrew;npm;Yarn;Flask;React.js;AWS;PostgreSQL;SQLite
+0,1,Undergraduate,20,Sue.Pulsifer,Bash/Shell;C;Go;HTML/CSS;JavaScript;Python;SQL;Docker;Homebrew;npm;Yarn;Django;jQuery;React.js;PostgreSQL;SQLite
+0,1,Master,15,Devina.Huggins,Java;PHP;Docker;Homebrew;Kubernetes;Microsoft Azure;PostgreSQL;Redis
+0,1,Undergraduate,6,Rori.Byrne,Bash/Shell;HTML/CSS;Java;JavaScript;Kotlin;SQL;TypeScript;Docker;Homebrew;npm;Express;Node.js;React.js;AWS;DigitalOcean;PostgreSQL
+0,1,Undergraduate,50,Andeee.Ade,Bash/Shell;HTML/CSS;Python;SQL;Flask;SQLite
+0,1,Undergraduate,5,Tina.Isidore,Bash/Shell;Go;HTML/CSS;Python;SQL;Docker;Homebrew;Kubernetes;Pulumi;React.js;AWS;DigitalOcean;Heroku;MongoDB;PostgreSQL;SQLite
+0,1,Master,10,Katuscha.Maisey,HTML/CSS;JavaScript;PHP;TypeScript;npm;Angular;Angular.js;jQuery;Firebase;Google Cloud;MongoDB;MySQL
+1,1,Undergraduate,36,Stacey.Kannry,C#;C++;HTML/CSS;JavaScript;SQL;TypeScript;ASP.NET Core ;jQuery;Microsoft SQL Server;MySQL;PostgreSQL;SQLite
+0,1,PhD,10,Aeriela.Lytton,HTML/CSS;Python;R;SAS;SQL;Oracle
+1,1,Other,10,Elvira.Romelda,C;C#;C++;Java;Rust;Unreal Engine;AWS;MySQL;PostgreSQL
+0,1,Master,10,Elbertina.Egbert,HTML/CSS;Java;JavaScript;Objective-C;PowerShell;Swift;TypeScript;npm;React.js;Firebase;PostgreSQL
+0,1,Master,15,Jacquetta.Libna,Bash/Shell;C;C++;Haskell;Java;Julia;Kotlin;LISP;OCaml;Perl;Ruby;Rust;Scala;TypeScript;Ansible;Docker;npm;Yarn;Django;Flask;jQuery;Node.js;Ruby on Rails;AWS;VMware;Neo4j;PostgreSQL;SQLite
+0,1,Undergraduate,16,Goldie.Ulphia,Bash/Shell;C#;HTML/CSS;JavaScript;PowerShell;Rust;SQL;Docker;Kubernetes;npm;Terraform;Yarn;Angular.js;ASP.NET;ASP.NET Core ;Express;Node.js;React.js;Colocation;Microsoft Azure;VMware;Microsoft SQL Server;MongoDB;Redis
+0,1,Master,18,Jan.Kat,C;C++;Rust;Homebrew;Terraform;AWS;SQLite
+0,1,Undergraduate,10,Viki.Kimmie,C++;Dart;HTML/CSS;Java;JavaScript;Kotlin;Objective-C;Python;Swift;TypeScript;Flow;Homebrew;Kubernetes;npm;FastAPI;Flask;Node.js;AWS;Firebase;IBM Cloud or Watson;Firebase Realtime Database;SQLite
+0,1,Master,18,Esmeralda.Pyle,C#;HTML/CSS;JavaScript;SQL;TypeScript;npm;Angular;ASP.NET;ASP.NET Core ;AWS;Elasticsearch;Microsoft SQL Server;MongoDB;Oracle
+0,1,Undergraduate,20,Christian.Lumbard,HTML/CSS;JavaScript;npm;Yarn;React.js
+0,1,Undergraduate,3,Ninnetta.Wenoa,C#;HTML/CSS;Java;JavaScript;PowerShell;SQL;TypeScript;Docker;npm;Express;Node.js;React.js;AWS;DynamoDB;MySQL;PostgreSQL
+0,1,Master,5,Sindee.Kimmie,Bash/Shell;Java;Kotlin;Objective-C;Python;SQL;Swift;Docker;Homebrew;Flask;Elasticsearch;MySQL;Redis;SQLite
+0,1,Master,25,Philis.Kronfeld,Bash/Shell;Groovy;HTML/CSS;Java;JavaScript;Python;SQL;Docker;Homebrew;Kubernetes;npm;Express;Next.js;Node.js;React.js;Vue.js;AWS;Heroku;DynamoDB;Elasticsearch;Microsoft SQL Server;Oracle;PostgreSQL
+1,1,Master,11,Jacenta.Noman,C++;Python;AWS;Microsoft Azure;VMware
+0,1,Undergraduate,4,Kate.Gale,Python;Docker;npm;Express;Node.js;React.js;AWS;Couchbase;PostgreSQL;Redis
+0,1,Undergraduate,2,Mariele.Ortrude,JavaScript;TypeScript;Docker;Kubernetes;npm;Yarn;Next.js;Node.js;React.js;AWS;PostgreSQL
+0,1,Undergraduate,11,Starla.Seumas,C;C++;HTML/CSS;Java;JavaScript;Kotlin;Perl;PHP;Python;Ruby;Scala;SQL;Docker;Homebrew;Kubernetes;npm;Yarn;Django;Express;jQuery;Node.js;React.js;AWS;DynamoDB;Elasticsearch;Microsoft SQL Server;MongoDB;MySQL;Neo4j;Oracle;PostgreSQL;Redis;SQLite
+0,1,Undergraduate,31,Debee.Andrel,Bash/Shell;HTML/CSS;PowerShell;SQL;AWS;Oracle Cloud Infrastructure;VMware;Oracle;PostgreSQL
+0,1,Undergraduate,7,Gratia.Luhe,C;Go;HTML/CSS;Java;JavaScript;Python;Scala;TypeScript;Homebrew;npm;Yarn;Svelte;Vue.js;Firebase;Cloud Firestore;Firebase Realtime Database
+0,1,Master,14,Hollie.Lowry,Bash/Shell;Java;JavaScript;PHP;Python;SQL;jQuery;Node.js;MySQL;Oracle;PostgreSQL
+1,1,Undergraduate,5,Cassondra.Monk,HTML/CSS;JavaScript;TypeScript;npm;Yarn;Next.js;Node.js;React.js;MongoDB;MySQL
+0,1,PhD,29,Andeee.Pulsifer,Bash/Shell;JavaScript;Python;TypeScript;Docker;Node.js
+0,1,Master,10,Antonietta.Wandie,Go;Python;Scala;SQL;Kubernetes;AWS;Elasticsearch;MongoDB;PostgreSQL
+1,1,Undergraduate,5,Dotty.Sammons,C;C++;Java;Objective-C;Python;SQL;Docker;Homebrew;Kubernetes;Flask;jQuery;Node.js;Microsoft Azure;Cassandra;MongoDB;MySQL
+1,1,Master,18,Elise.Constancy,HTML/CSS;Java;JavaScript;Objective-C;SQL;Swift;TypeScript;npm;Yarn;Express;Node.js;React.js;Firebase;Google Cloud;Heroku;MongoDB;MySQL;Firebase Realtime Database
+0,1,PhD,18,Cecile.Dimitris,C++;Java;Kotlin;Python;Ansible;Docker;Kubernetes;Terraform;Google Cloud
+0,1,NoHigherEd,10,Nataline.Ader,Assembly;Bash/Shell;C;C#;C++;Delphi;Go;HTML/CSS;Java;JavaScript;Lua;Perl;PHP;Python;Ruby;SQL;TypeScript;Ansible;Docker;npm;Blazor;Drupal;Node.js;React.js;Vue.js;AWS;Managed Hosting;Oracle Cloud Infrastructure;MariaDB;Microsoft SQL Server;MongoDB;MySQL;Oracle;PostgreSQL;Redis;SQLite
+0,1,Undergraduate,3,Frank.Billye,HTML/CSS;JavaScript;Ruby;TypeScript;Homebrew;Yarn;React.js;Ruby on Rails;AWS;DigitalOcean;Heroku;Elasticsearch;MySQL;PostgreSQL;Redis
+0,1,Other,5,Chastity.Corilla,C#;HTML/CSS;JavaScript;PHP;TypeScript;Unity 3D;ASP.NET;ASP.NET Core ;Blazor;jQuery;Microsoft Azure;Microsoft SQL Server;MySQL
+0,1,Undergraduate,6,Nannie.Goerke,Haskell;Docker;PostgreSQL
+0,1,Undergraduate,5,Allyce.Yerkovich,JavaScript;TypeScript;Docker;npm;Express;Node.js;Firebase;Heroku;Elasticsearch;MongoDB;PostgreSQL;Firebase Realtime Database;Redis
+0,1,Master,11,Ermengarde.Nikaniki,C;C#;C++;HTML/CSS;JavaScript;SQL;Angular.js;ASP.NET;ASP.NET Core ;jQuery;Managed Hosting;VMware;Microsoft SQL Server;Oracle;SQLite
+0,1,Master,10,Nessie.Ophelia,JavaScript;Kotlin;PHP;Python;Ruby;SQL;Ansible;Docker;Homebrew;Kubernetes;npm;Terraform;Yarn;FastAPI;Laravel;Next.js;React.js;Ruby on Rails;AWS;DigitalOcean;Firebase;Google Cloud;Microsoft Azure;Elasticsearch;MongoDB;MySQL;PostgreSQL;Redis
+0,1,Master,15,Orsola.Crudden,HTML/CSS;JavaScript;PHP;Python;R;SQL;Docker;npm;Terraform;Express;FastAPI;Nuxt.js;Vue.js;Google Cloud;Cloud Firestore;MongoDB;MySQL;Redis
+0,1,Master,5,Sherrie.Albertine,C++;Dart;Python;Docker;Firebase;Cloud Firestore
+1,1,Undergraduate,7,Larine.Thornburg,Clojure;Go;HTML/CSS;Java;JavaScript;Ruby;SQL;TypeScript;Chef;Kubernetes;npm;Yarn;Express;Next.js;Node.js;React.js;AWS;MongoDB;PostgreSQL
+0,1,Undergraduate,10,Lenna.Grosz,Bash/Shell;Go;HTML/CSS;JavaScript;Python;SQL;TypeScript;Docker;Homebrew;Kubernetes;npm;Django;FastAPI;Flask;Node.js;React.js;Vue.js;AWS;Google Cloud;PostgreSQL;Redis;SQLite
+0,1,Master,14,Sindee.Erskine,Haskell;HTML/CSS;JavaScript;Python;SQL;TypeScript;Docker;Homebrew;npm;Terraform;Yarn;Deno;Drupal;Express;FastAPI;Next.js;Node.js;React.js;AWS;DigitalOcean;Firebase;Google Cloud;PostgreSQL
+0,1,Undergraduate,9,Sam.Infield,C++;Java;JavaScript;Docker;Kubernetes;npm;Express;Node.js;React.js;AWS;MongoDB
+0,1,Master,3,Ronna.Konyn,C++;Objective-C;SQL;Swift;AWS;Firebase;Google Cloud;Couchbase;MySQL;Firebase Realtime Database;SQLite
+0,1,Undergraduate,16,Dolli.Nickola,Bash/Shell;C#;HTML/CSS;JavaScript;Rust;SQL;TypeScript;Docker;Kubernetes;npm;Pulumi;Terraform;Yarn;Angular;ASP.NET;ASP.NET Core ;Blazor;jQuery;DigitalOcean;Microsoft Azure;Couchbase;Elasticsearch;Microsoft SQL Server;PostgreSQL;Redis
+0,1,Master,12,Meghann.Lymann,C#;HTML/CSS;JavaScript;SQL;TypeScript;Docker;Kubernetes;npm;Yarn;ASP.NET Core ;Blazor;Vue.js;AWS;DigitalOcean;Microsoft Azure;Microsoft SQL Server;MySQL;Redis
+1,1,Other,3,Jennica.Magdalen,Go;Java;JavaScript;Kotlin;Objective-C;Swift;TypeScript;Docker;Homebrew;npm;Unity 3D;Yarn;Express;Node.js;React.js;Microsoft Azure;Elasticsearch;MongoDB;PostgreSQL;Redis;SQLite
+0,1,Undergraduate,30,Corene.Mayeda,C#;HTML/CSS;JavaScript;SQL;npm;ASP.NET;ASP.NET Core ;jQuery;React.js;Microsoft Azure;Microsoft SQL Server;MySQL;Oracle;SQLite
+0,1,Undergraduate,6,Celisse.Mallon,C#;C++;Python;AWS;Microsoft Azure;Microsoft SQL Server;MongoDB
+0,1,PhD,15,Cathie.Buckler,C;C++;Python;Ruby;Rust;Homebrew;Puppet;MariaDB;SQLite
+0,1,Undergraduate,15,Hyacinthe.Loring,HTML/CSS;JavaScript;Python;TypeScript;Docker;Homebrew;npm;Terraform;Yarn;Django;Express;Next.js;AWS;Google Cloud;PostgreSQL
+0,1,NoHigherEd,15,Jordan.Matthew,C#;Go;JavaScript;Rust;SQL;TypeScript;Docker;Homebrew;Angular;ASP.NET Core ;Microsoft Azure;Microsoft SQL Server;PostgreSQL;SQLite
+0,1,NoHigherEd,27,Jasmina.Phyllis,Bash/Shell;Go;HTML/CSS;JavaScript;Perl;Python;SQL;Ansible;Docker;Homebrew;Puppet;Flask;DigitalOcean;VMware;IBM DB2;MySQL;PostgreSQL
+0,1,Master,7,Kellen.Rosette,C++;Lua;Python;SQL;Docker;Kubernetes;Terraform;FastAPI;Flask;Next.js;Node.js;React.js;AWS;DigitalOcean;IBM Cloud or Watson;Microsoft Azure;Elasticsearch;MongoDB;Neo4j;PostgreSQL;Redis;SQLite
+1,1,Undergraduate,5,Averyl.Boycey,C#;HTML/CSS;JavaScript;Python;SQL;TypeScript;Docker;npm;ASP.NET Core ;Express;Node.js;React.js;AWS;Elasticsearch;Microsoft SQL Server;MySQL;PostgreSQL;Redis
+0,1,Undergraduate,13,Janeczka.Oscar,Java;Docker;npm;AWS
+1,1,Master,4,Marline.Fontana,C#;HTML/CSS;Java;JavaScript;PHP;SQL;npm;ASP.NET;jQuery;Firebase;Google Cloud;Heroku;VMware;Microsoft SQL Server;MySQL;SQLite
+1,1,Other,28,Mariann.Wu,Assembly;C#;Delphi;HTML/CSS;JavaScript;Perl;PHP;PowerShell;SQL;TypeScript;VBA;Homebrew;npm;Angular;ASP.NET;ASP.NET Core ;Drupal;Node.js;Ruby on Rails;AWS;Microsoft Azure;IBM DB2;Microsoft SQL Server;MongoDB;MySQL
+0,1,Master,20,Talya.Ludewig,HTML/CSS;PHP;Python;SQL;React.js;Vue.js;Microsoft SQL Server;MySQL;PostgreSQL
+0,1,Undergraduate,3,Renae.Emmaline,VMware
+1,1,PhD,30,Margarette.Phi,Bash/Shell;Java;JavaScript;Python;Docker;Homebrew;Kubernetes;npm;Terraform;React.js;AWS;Google Cloud;Cassandra;DynamoDB;MongoDB
+0,1,Master,10,Robinia.Truc,C++;HTML/CSS;JavaScript;TypeScript;jQuery;Node.js
+0,1,Undergraduate,8,Vita.Stuart,HTML/CSS;React.js;Firebase;MySQL
+0,1,Master,9,Melodie.Terrence,C#;JavaScript;Python;Django;jQuery;React.js;Microsoft SQL Server;PostgreSQL
+0,1,Master,5,Helena.Lattie,Bash/Shell;C#;Haskell;JavaScript;Rust;SQL;Docker;Kubernetes;Terraform;Angular;ASP.NET;ASP.NET Core ;AWS;Microsoft Azure;Elasticsearch;Microsoft SQL Server;MySQL;Redis
+0,1,Master,14,Ivett.Alexandr,C;C++;Go;Python;R;SQL;Ansible;Docker;npm;Flask;AWS;DynamoDB;MongoDB;SQLite
+0,1,Master,12,Flo.Klotz,Haskell;JavaScript;PHP;Ruby;SQL;TypeScript;Docker;npm;Yarn;Express;jQuery;Node.js;React.js;Ruby on Rails;Symfony;Vue.js;Google Cloud;Microsoft Azure;MariaDB;MySQL;PostgreSQL;Redis
+0,1,Master,16,Catharine.Saunderson,HTML/CSS;JavaScript;TypeScript;npm;Angular.js;jQuery;Node.js;React.js;AWS
+0,1,Master,9,Juliane.Zitvaa,Dart;HTML/CSS;JavaScript;Swift;TypeScript;Docker;npm;Yarn;Gatsby;Next.js;React.js;Symfony;AWS;Firebase;Google Cloud
+0,1,Master,10,Edith.Smitt,Go;Java;JavaScript;Docker;Kubernetes;Yarn;Angular;jQuery;Vue.js;AWS;Heroku;MongoDB;PostgreSQL;Redis
+0,1,Undergraduate,5,Hope.Hirsch,C;Dart;Java;Kotlin;PHP;SQL;npm;Django;Next.js;React.js;AWS;DigitalOcean;Firebase;Google Cloud;Heroku;Cloud Firestore;MongoDB;MySQL;Firebase Realtime Database;SQLite
+0,1,Undergraduate,10,Angelique.Marisa,C#;HTML/CSS;JavaScript;TypeScript;npm;Yarn;Angular;ASP.NET Core ;Express;Node.js;DigitalOcean;Microsoft SQL Server;PostgreSQL
+0,1,Master,20,Nonnah.Jerald,C#;C++;HTML/CSS;JavaScript;PHP;SQL;Laravel;DigitalOcean;MySQL
+0,1,Other,7,Ardenia.Myrilla,Bash/Shell;C;Clojure;HTML/CSS;Java;LISP;TypeScript;Homebrew;npm;Yarn;Express;Node.js;React.js;Firebase;PostgreSQL
+0,1,Other,14,Odessa.Jerold,C#;HTML/CSS;JavaScript;SQL;TypeScript;Docker;npm;Angular;ASP.NET Core ;Next.js;Node.js;React.js;AWS;Google Cloud;MySQL;PostgreSQL
+0,1,Master,14,Jackie.Ietta,C#;HTML/CSS;Java;JavaScript;Python;SQL;TypeScript;Docker;Kubernetes;npm;Terraform;Yarn;ASP.NET;jQuery;Node.js;React.js;AWS;Microsoft Azure;Elasticsearch;Microsoft SQL Server;MongoDB;Neo4j;Redis
+1,1,NoHigherEd,9,Leeanne.Harday,C#;HTML/CSS;Java;JavaScript;Lua;PHP;PowerShell;Python;SQL;TypeScript;VBA;npm;Unity 3D;Yarn;jQuery;Node.js;AWS;Microsoft Azure;Microsoft SQL Server;MySQL;SQLite
+0,1,Master,15,Paule.Schonfeld,C++;Python;Ansible;Docker;Unreal Engine;Django;Flask;Microsoft Azure;PostgreSQL;Redis
+0,1,Master,10,Natka.Ricarda,C#;HTML/CSS;JavaScript;SQL;TypeScript;ASP.NET Core ;jQuery;Microsoft Azure;Microsoft SQL Server
+0,1,Master,33,Annora.Gino,Assembly;Bash/Shell;C;C++;MATLAB;Python;R;Docker;MySQL
+0,1,Undergraduate,5,Antonietta.Mauer,Bash/Shell;C#;HTML/CSS;Java;JavaScript;Rust;SQL;TypeScript;npm;Yarn;ASP.NET Core ;Django;Node.js;React.js;Vue.js;AWS;VMware;MariaDB;Microsoft SQL Server;MySQL;PostgreSQL
+0,1,Undergraduate,11,Bernardine.Blisse,C#;PowerShell;Docker;ASP.NET Core ;Blazor;Elasticsearch;MongoDB;Redis
+0,1,NoHigherEd,11,Xylina.Celestine,Bash/Shell;C#;HTML/CSS;Java;JavaScript;PHP;SQL;TypeScript;Docker;Homebrew;npm;Yarn;Drupal;Express;jQuery;Laravel;Node.js;Nuxt.js;Vue.js;DigitalOcean;MySQL;Oracle;Redis
+1,1,Master,25,Brianna.Amand,C#;Groovy;HTML/CSS;JavaScript;PowerShell;Docker;npm;ASP.NET Core ;Blazor;React.js;AWS;Microsoft SQL Server
+0,1,Undergraduate,30,Odessa.Alejoa,Bash/Shell;C;C#;C++;HTML/CSS;JavaScript;Lua;Python;Docker;Kubernetes
+0,1,Undergraduate,11,Myrtice.Doig,HTML/CSS;Java;JavaScript;Python;SQL;Docker;AWS;VMware;MySQL;Oracle;PostgreSQL
+0,1,PhD,6,Elyssa.Barbey,Bash/Shell;LISP;Python;R;Homebrew;Oracle Cloud Infrastructure;MySQL
+0,1,Undergraduate,6,Clementine.Aprile,Bash/Shell;C#;HTML/CSS;JavaScript;PowerShell;Python;SQL;TypeScript;Docker;npm;Unity 3D;Yarn;ASP.NET Core ;Express;jQuery;Node.js;React.js;Vue.js;Google Cloud;Microsoft Azure;Cloud Firestore;MySQL;Redis;SQLite
+0,1,Master,10,Alleen.Ilka,HTML/CSS;JavaScript;PHP;SQL;npm;jQuery;AWS;Firebase;MariaDB;MySQL;PostgreSQL;SQLite
+0,1,Undergraduate,7,Kary.Kamaria,Bash/Shell;Go;JavaScript;Python;Scala;SQL;Docker;Kubernetes;npm;Yarn;Django;Express;Flask;Node.js;React.js;Svelte;Vue.js;AWS;Heroku;Elasticsearch;MongoDB;MySQL;PostgreSQL;Redis
+0,1,Undergraduate,19,Silvana.Thad,Go;HTML/CSS;JavaScript;PHP;Docker;npm;Node.js;Symfony;Elasticsearch;MariaDB;Redis
+0,1,Other,2,Ricky.Brandice,HTML/CSS;JavaScript;Python;Docker;Homebrew;npm;Yarn;Deno;Express;Next.js;Node.js;React.js;AWS;DigitalOcean;DynamoDB
+1,1,Undergraduate,8,Sam.Merriott,Bash/Shell;C++;Go;HTML/CSS;Java;JavaScript;MATLAB;PowerShell;Python;Docker;Kubernetes;jQuery;AWS;Cassandra;PostgreSQL;Redis
+0,1,Undergraduate,12,Nessie.Vale,Java;JavaScript;Python;TypeScript;Docker;Angular;Node.js;AWS;MySQL;Oracle;PostgreSQL
+0,1,Other,36,Chrystel.Stefa,Delphi;SQL;Microsoft SQL Server;PostgreSQL
+0,1,Other,6,Olivette.Donell,Bash/Shell;C;C++;Dart;HTML/CSS;Java;JavaScript;Kotlin;MATLAB;Objective-C;Perl;PHP;PowerShell;Python;R;Ruby;Rust;SAS;SQL;npm;Unreal Engine;Yarn;FastAPI;jQuery;Next.js;Node.js;React.js;AWS;Google Cloud;Heroku;Microsoft SQL Server;MongoDB;MySQL;Oracle;PostgreSQL;Firebase Realtime Database;Redis;SQLite
+0,1,Undergraduate,41,Tersina.Goddard,Bash/Shell;C++;HTML/CSS;Java;JavaScript;Python;TypeScript;Docker;npm;Yarn;Express;Node.js;DigitalOcean;Heroku
+0,1,Undergraduate,27,Marylou.Hessler,Bash/Shell;C#;HTML/CSS;Java;JavaScript;Kotlin;Ruby;SQL;TypeScript;Docker;Homebrew;Kubernetes;npm;Terraform;Yarn;ASP.NET Core ;Express;React.js;Ruby on Rails;AWS;DynamoDB;Elasticsearch;Microsoft SQL Server;PostgreSQL
+0,1,NoHigherEd,25,Jsandye.Aloise,Bash/Shell;C#;Dart;Go;HTML/CSS;Java;JavaScript;Kotlin;Python;Rust;Solidity;SQL;Swift;TypeScript;Ansible;Docker;Homebrew;Kubernetes;npm;Terraform;Yarn;Express;Fastify;Next.js;Node.js;React.js;Svelte;Vue.js;AWS;DigitalOcean;Firebase;Google Cloud;Heroku;OpenStack;CouchDB;MariaDB;MongoDB;MySQL;PostgreSQL;Firebase Realtime Database;Redis;SQLite
+0,1,Undergraduate,7,Janis.Dyche,C;C#;C++;Go;HTML/CSS;Java;JavaScript;PHP;PowerShell;Python;SQL;npm;Terraform;Unity 3D;Express;jQuery;Node.js;React.js;AWS;Heroku;Microsoft Azure;DynamoDB;MariaDB;MongoDB;MySQL;Oracle;SQLite
+0,1,Master,3,Gwenneth.Serilda,Java;SQL;Docker;Kubernetes;Elasticsearch;Oracle;PostgreSQL
+0,1,Master,7,Joane.Lamoree,Bash/Shell;C;C++;Clojure;JavaScript;Python;Rust;SQL;Docker;Homebrew;npm;Yarn;FastAPI;Node.js;React.js;Heroku;VMware;PostgreSQL;Redis;SQLite
+0,1,Master,13,Dale.Chesna,Bash/Shell;C;C++;Dart;Groovy;HTML/CSS;Java;JavaScript;Kotlin;PHP;Ruby;Rust;Docker;Homebrew;npm;Ruby on Rails;Vue.js;MariaDB
+1,1,Other,12,Edyth.Philipp,HTML/CSS;JavaScript;PHP;SQL;TypeScript;Homebrew;npm;Angular;jQuery;Laravel;Microsoft Azure;Microsoft SQL Server;MySQL;Oracle
+0,1,Undergraduate,3,Sheree.Old,Bash/Shell;HTML/CSS;JavaScript;PowerShell;Python;SQL;TypeScript;Express;Next.js;Node.js;Nuxt.js;React.js;Vue.js;DigitalOcean;Firebase;Heroku;Oracle Cloud Infrastructure;MariaDB;MongoDB;MySQL
+0,1,Undergraduate,20,Gerianna.Goth,Bash/Shell;Groovy;Java;Python;SQL;Ansible;Docker;Terraform;AWS;DynamoDB;Oracle
+0,1,Undergraduate,5,Clarice.Kinnard,Bash/Shell;Java;JavaScript;Kotlin;Python;Ruby;SQL;TypeScript;Docker;Homebrew;npm;Yarn;Django;Express;jQuery;Node.js;React.js;Ruby on Rails;Vue.js;AWS;DigitalOcean;Firebase;MongoDB;MySQL;PostgreSQL;Redis;SQLite
+0,1,Master,10,Philis.Jorgan,Bash/Shell;C;C++;HTML/CSS;Java;JavaScript;Objective-C;Python;SQL;Swift;Docker;Homebrew;MySQL;SQLite
+0,1,Master,13,Arlina.Atonsah,C#;HTML/CSS;Java;JavaScript;PHP;Python;R;SQL;TypeScript;Docker;Homebrew;Yarn;Angular;ASP.NET Core ;jQuery;Laravel;Node.js;MariaDB;Microsoft SQL Server;MySQL;Oracle;PostgreSQL;SQLite
+1,1,Undergraduate,5,Elyssa.Blase,Bash/Shell;HTML/CSS;JavaScript;Python;SQL;TypeScript;Docker;Homebrew;npm;Express;Flask;jQuery;Node.js;React.js;AWS;DynamoDB;PostgreSQL;Redis
+0,1,Undergraduate,14,Ursulina.Woodberry,Bash/Shell;C#;JavaScript;Python;SQL;Docker;npm;Unity 3D;Yarn;ASP.NET;ASP.NET Core ;Django;Vue.js;Heroku;Microsoft SQL Server;PostgreSQL;Redis;SQLite
+0,1,Undergraduate,16,Justinn.Alabaster,C;C++
+1,1,NoHigherEd,7,Dulcinea.Camden,Bash/Shell;HTML/CSS;Python;Rust;SQL;Docker;npm;Yarn;PostgreSQL
+0,1,Undergraduate,22,Marsiella.Blake,C#;Elixir;Go;Rust;npm;Angular;ASP.NET Core ;Phoenix;DigitalOcean;Microsoft Azure;Microsoft SQL Server;PostgreSQL
+0,1,Undergraduate,8,Ardeen.Westphal,Python;TypeScript;Docker;Flask;React.js;AWS;PostgreSQL
+1,1,Undergraduate,10,Kittie.Odysseus,C#;HTML/CSS;Java;JavaScript;PHP;Python;Rust;TypeScript;Docker;npm;Unity 3D;Django;FastAPI;Node.js;React.js;Vue.js;DigitalOcean;OVH;MongoDB;PostgreSQL;Redis;SQLite
+0,1,Master,11,Dyann.Harned,Java;Python;SQL;Docker;Kubernetes;Django;Flask;Managed Hosting;Microsoft Azure;MongoDB;Oracle;PostgreSQL
+0,1,Undergraduate,6,Antonietta.Bord,C++;JavaScript;TypeScript;Homebrew;npm;Angular;Node.js;AWS;Heroku
+0,1,Master,7,Kelly.Kesley,C;C#;C++;PowerShell;SQL;Microsoft Azure;VMware;MySQL;SQLite
+1,1,Undergraduate,10,Flory.Alfons,Bash/Shell;C;C++;Java;Lua;Python;SQL
+1,1,Master,14,Danny.Bethany,Java;Kotlin;TypeScript;Docker;Homebrew;npm;AWS;Google Cloud
+1,1,Undergraduate,11,Hayley.Alice,HTML/CSS;JavaScript;TypeScript;React.js
+0,1,Master,18,Ulrike.Concha,Python;Ansible;Docker;Django;FastAPI;Flask;AWS;PostgreSQL;SQLite
+0,1,Undergraduate,15,Donetta.Bettine,PHP;SQL;Microsoft Azure;Microsoft SQL Server;Neo4j;PostgreSQL
+1,1,Undergraduate,10,Daune.Presber,Java;SQL;Oracle Cloud Infrastructure;MySQL;Oracle
+0,1,Master,18,Shel.Noam,C++;Python
+0,1,Undergraduate,6,Ira.Ramona,C;C#;C++;Dart;HTML/CSS;JavaScript;SQL;npm;ASP.NET;ASP.NET Core ;jQuery;Microsoft SQL Server;SQLite
+1,1,Master,6,Loree.Tyson,Bash/Shell;C++;HTML/CSS;Java;Python;SQL;Docker;Unity 3D;MySQL;SQLite
+0,1,Undergraduate,19,Calla.Alcott,Bash/Shell;HTML/CSS;JavaScript;Python;SQL;Django;jQuery;AWS;OVH;PostgreSQL;Redis
+0,1,Undergraduate,25,Carmencita.Wittie,JavaScript;TypeScript;Docker;Kubernetes;npm;Terraform;Angular;Node.js;React.js;AWS;Firebase;Google Cloud;Cloud Firestore;PostgreSQL;Firebase Realtime Database
+0,1,Master,20,Tera.Raseda,Bash/Shell;C#;PowerShell;Docker;Kubernetes;ASP.NET Core ;Microsoft Azure
+0,1,Other,3,Lisette.Marcellus,JavaScript;PHP;Python;Solidity;npm;Yarn;Django;React.js;AWS;Heroku
+0,1,Undergraduate,5,Alia.Clara,Go;Python;Docker;Terraform;Django;Flask;React.js;AWS;PostgreSQL;SQLite
+1,1,Undergraduate,8,Miquela.Weinreb,C#;HTML/CSS;PHP;PowerShell;Python;SQL;Docker;Yarn;Angular;ASP.NET Core ;Laravel;Vue.js;AWS;Couchbase;MariaDB;MySQL;Neo4j;PostgreSQL
+0,1,Undergraduate,27,Julieta.Merat,C#;Dart;HTML/CSS;JavaScript;SQL;TypeScript;npm;Angular;ASP.NET;ASP.NET Core ;Elasticsearch;Microsoft SQL Server;Redis;SQLite
+0,1,Master,19,Basia.Tound,C#;Java;JavaScript;TypeScript;Docker;Angular;ASP.NET Core ;React.js;AWS;PostgreSQL;Redis
+1,1,NoHigherEd,8,Anica.Hebner,Bash/Shell;HTML/CSS;JavaScript;Python;SQL;TypeScript;Docker;npm;Yarn;Django;Express;Next.js;Node.js;React.js;Heroku;Microsoft Azure;Microsoft SQL Server;MongoDB;PostgreSQL;Firebase Realtime Database;SQLite
+0,1,Master,8,Arlena.Geffner,JavaScript;PHP;npm;Express;jQuery;Laravel;Node.js;Nuxt.js;Vue.js;MariaDB;MongoDB;MySQL
+0,1,Undergraduate,6,Rubie.Ledah,Java;AWS;DynamoDB;PostgreSQL;Redis
+0,1,Other,14,Chloris.Rozanna,JavaScript;PHP;Docker;Homebrew;npm;Vue.js;AWS;MariaDB;MySQL;PostgreSQL
+0,1,Undergraduate,20,Kenna.Couture,C#;HTML/CSS;Java;JavaScript;Perl;PHP;Python;Ruby;SQL;VBA;Docker;Kubernetes;npm;Yarn;Angular;ASP.NET;Django;Express;FastAPI;jQuery;Next.js;Node.js;React.js;Vue.js;AWS;DigitalOcean;Firebase;Google Cloud;Heroku;Couchbase;CouchDB;Elasticsearch;MongoDB;MySQL;Oracle;PostgreSQL;Redis
+0,1,PhD,20,Lelah.Sacken,C#;HTML/CSS;JavaScript;PHP;Python;SQL;TypeScript;Docker;npm;Yarn;ASP.NET;Drupal;Express;jQuery;Laravel;Node.js;React.js;Symfony;AWS;Elasticsearch;MariaDB;Microsoft SQL Server;MongoDB;MySQL;PostgreSQL;Redis
+0,1,Undergraduate,20,Lusa.Stilwell,Bash/Shell;HTML/CSS;JavaScript;Python;Django;jQuery;SQLite
+0,1,Other,2,Konstance.Brandice,Bash/Shell;HTML/CSS;JavaScript;Python;SQL;TypeScript;Docker;npm;Yarn;Express;React.js;AWS;Firebase;Heroku;MySQL;PostgreSQL;Redis;SQLite
+0,1,Undergraduate,5,Kittie.Kellby,Java;Kotlin;Swift;Homebrew;Kubernetes;npm;Firebase;Google Cloud
+0,1,Master,20,Cathyleen.Christine,Python;R;Docker;AWS;PostgreSQL
+0,1,Master,30,Alyda.Cordi,C#;HTML/CSS;JavaScript;TypeScript;npm;Angular;ASP.NET Core ;Microsoft Azure;MongoDB
+0,1,Undergraduate,12,Adele.Nickola,Java;Docker;Angular;Oracle
+0,1,Undergraduate,8,Annora.Hortensia,Java;JavaScript;PHP;SQL;jQuery;Laravel;MySQL
+0,1,Other,5,Kelly.Yerkovich,HTML/CSS;JavaScript;PHP;SQL;TypeScript;Docker;Homebrew;npm;Yarn;Express;Fastify;jQuery;Laravel;Next.js;Node.js;React.js;AWS;DigitalOcean;Firebase;Heroku;Linode;Managed Hosting;Microsoft Azure;Oracle Cloud Infrastructure;MariaDB;MongoDB;MySQL;Oracle;PostgreSQL;Redis;SQLite
+0,1,Undergraduate,35,Atlanta.Minetta,C#;Java;AWS
+0,1,PhD,5,Flory.Bryna,C++;Java;JavaScript;Microsoft SQL Server;PostgreSQL
+0,1,Undergraduate,6,Jenilee.Estella,C#;HTML/CSS;JavaScript;Python;SQL;npm;Angular.js;ASP.NET;jQuery;React.js;MongoDB;MySQL;PostgreSQL
+1,1,Undergraduate,6,Hallie.Alcott,Clojure;AWS;PostgreSQL;Redis
+0,1,NoHigherEd,26,Suzette.Ludewig,Bash/Shell;JavaScript;TypeScript;Docker;npm;Deno;Express;Node.js;React.js;Vue.js;AWS;Linode;PostgreSQL
+0,1,Undergraduate,25,Giustina.Schalles,C++;HTML/CSS;JavaScript;PHP;SQL;VBA;jQuery;MySQL;PostgreSQL;SQLite
+0,1,PhD,25,Sandie.Fosque,Bash/Shell;C;C++;Fortran;Julia;MATLAB;Python;Homebrew
+0,1,Undergraduate,7,Helena.Rubie,HTML/CSS;Java;JavaScript;Kotlin;Objective-C;PHP;SQL;Swift;TypeScript;Docker;Homebrew;npm;Yarn;Deno;Next.js;Node.js;React.js;Firebase;MariaDB;MySQL;PostgreSQL;SQLite
+0,1,Master,2,Kore.Tjon,Bash/Shell;Go;HTML/CSS;JavaScript;Lua;Rust;SQL;TypeScript;Docker;Homebrew;npm;Next.js;Node.js;React.js;AWS;MongoDB
+0,1,Undergraduate,11,Norine.Dosia,C#;C++;PowerShell;Rust;TypeScript;Docker;Microsoft Azure;SQLite
+0,1,Undergraduate,7,Roxane.McAdams,HTML/CSS;Java;JavaScript;TypeScript;Docker;Kubernetes;npm;Angular;AWS;PostgreSQL
+0,1,Master,20,Sherrie.Behre,Bash/Shell;Go;Kotlin;Python;Ansible;Docker;Django;AWS;DynamoDB;Elasticsearch;PostgreSQL
+1,1,Other,4,Cathie.Donell,Java;JavaScript;PHP;Python;Docker;npm;Express;FastAPI;Flask;jQuery;Laravel;Node.js;React.js;MySQL;SQLite
+0,1,Other,2,Rosabelle.Rooney,Bash/Shell;HTML/CSS;Python;Ansible;Docker;Puppet;Terraform;AWS;Microsoft Azure;VMware;MariaDB;MySQL
+0,1,Other,8,Nannie.Beebe,Bash/Shell;C#;HTML/CSS;JavaScript;Rust;SQL;TypeScript;Docker;npm;Terraform;Yarn;Angular;ASP.NET Core ;Next.js;Node.js;React.js;Svelte;DigitalOcean;Firebase;Microsoft Azure;Microsoft SQL Server;MySQL;PostgreSQL;Firebase Realtime Database;Redis
+0,1,Master,15,Ronna.Stevy,C#;HTML/CSS;JavaScript;Python;SQL;Ansible;Docker;Express;Node.js;React.js;Microsoft Azure;Microsoft SQL Server;MongoDB
+0,1,Undergraduate,12,Mathilda.Wilkinson,HTML/CSS;JavaScript;PHP;TypeScript;Docker;Kubernetes;Unity 3D;Angular;Angular.js;Next.js;Node.js;React.js;AWS;Firebase;Google Cloud;CouchDB;DynamoDB;Elasticsearch;MongoDB;MySQL;PostgreSQL;Firebase Realtime Database;Redis
+1,1,Undergraduate,20,Elie.Grimbly,C#;HTML/CSS;Java;JavaScript;PowerShell;SQL;TypeScript;Angular;Angular.js;jQuery;IBM DB2;MariaDB;Microsoft SQL Server;Oracle
+0,1,Master,4,Daphne.Socha,HTML/CSS;Python;SQL;Docker;Django;FastAPI;jQuery;VMware;MariaDB;SQLite
+1,1,Undergraduate,14,Cathie.Winnick,Bash/Shell;C;C#;C++;Go;HTML/CSS;Java;JavaScript;Objective-C;Python;Rust;TypeScript;VBA;Docker;Homebrew;npm;Node.js;Vue.js;AWS;Firebase;Google Cloud;Elasticsearch;Firebase Realtime Database
+0,1,NoHigherEd,13,Lacie.Mintz,C#;PowerShell;Python;SQL;Oracle
+0,1,Undergraduate,38,Maye.Ahab,C#;HTML/CSS;JavaScript;SQL;TypeScript;Docker;npm;ASP.NET;ASP.NET Core ;React.js;AWS;Firebase;Microsoft Azure;Microsoft SQL Server;PostgreSQL;SQLite
+0,1,Undergraduate,11,Clementine.Oster,HTML/CSS;Java;JavaScript;SQL;TypeScript;Angular;Angular.js;MySQL;Oracle;PostgreSQL
+1,1,Undergraduate,9,Annabela.Seligman,Bash/Shell;C#;HTML/CSS;JavaScript;PHP;Python;SQL;Docker;npm;ASP.NET Core ;Express;Node.js;Vue.js;Firebase;Google Cloud;Cloud Firestore;MariaDB;Microsoft SQL Server;MongoDB;MySQL;PostgreSQL;Redis
+1,1,Other,12,Marita.Alice,C#;JavaScript;PHP;Python;SQL;TypeScript;Docker;Homebrew;npm;Unreal Engine;Yarn;Express;Next.js;Node.js;React.js;AWS;Firebase;Google Cloud;Linode;Cloud Firestore;DynamoDB;MariaDB;MongoDB;MySQL;PostgreSQL;Firebase Realtime Database;Redis
+1,1,Undergraduate,27,Tonia.August,HTML/CSS;JavaScript;PHP;Python;SQL;npm;Drupal;Gatsby;jQuery;Node.js;MySQL
+0,1,Master,38,Angela.Boehike,C#;C++;Crystal;Delphi;JavaScript;PHP;SQL;TypeScript;npm;Angular;Angular.js;ASP.NET;ASP.NET Core ;jQuery;Managed Hosting;Microsoft Azure;Microsoft SQL Server;Oracle;SQLite
+0,1,Undergraduate,14,Bernie.Infield,HTML/CSS;JavaScript;Ruby;SQL;Ansible;Yarn;jQuery;React.js;Ruby on Rails;Svelte;AWS;MariaDB;MySQL;PostgreSQL
+0,1,Undergraduate,8,Elyssa.Sandye,C#;Python;Kubernetes;Django;AWS;Google Cloud;Microsoft Azure;PostgreSQL
+0,1,Undergraduate,25,Sandie.Lunsford,Python;PostgreSQL
+1,1,Undergraduate,11,Talya.Edee,HTML/CSS;JavaScript;PHP;TypeScript;Chef;Homebrew;npm;Angular;Express;Gatsby;Node.js;AWS;Firebase;DynamoDB;Elasticsearch;MongoDB;Firebase Realtime Database
+0,1,Undergraduate,2,Meghann.Quinn,Python;SQL;Google Cloud;Microsoft Azure
+0,1,Master,25,Jackie.Tippets,HTML/CSS;JavaScript;PHP;VBA;Docker;Kubernetes;npm;Express;jQuery;Laravel;Nuxt.js;Vue.js;AWS;Firebase;Heroku;Microsoft Azure;MariaDB;MongoDB;MySQL;PostgreSQL;Redis
+0,1,Undergraduate,3,Arabel.Teddman,C++;Dart;Java;Firebase Realtime Database;SQLite
+0,1,Undergraduate,5,Jasmina.My,C;C++;Java;Kotlin;Python;SQL;Docker;MySQL;Oracle
+0,1,Other,4,Jordan.Konyn,
+0,1,Master,6,Mellicent.Chapland,Python;R;TypeScript;Docker;npm;Angular;FastAPI;AWS;Microsoft SQL Server;Oracle;PostgreSQL;SQLite
+0,1,Undergraduate,16,Eadie.Cohdwell,C#;PowerShell;Docker;npm;Terraform;Gatsby;React.js;Microsoft Azure;Microsoft SQL Server
+0,1,PhD,10,Tamqrah.Lesley,C;C++;HTML/CSS;Java;OCaml;Perl;Python
+1,1,Other,37,Sara-Ann.Maurine,Bash/Shell;C;C++;Python;Docker
+1,1,Other,12,Cissiee.Tice,Bash/Shell;C;C#;HTML/CSS;Java;JavaScript;PowerShell;Python;Homebrew;ASP.NET;Express;jQuery;Node.js;DigitalOcean;Google Cloud;OVH;MongoDB;Redis
+0,1,Undergraduate,2,Carlie.Phaidra,Bash/Shell;Dart;Go;HTML/CSS;JavaScript;MATLAB;PHP;Python;Solidity;SQL;TypeScript;npm;Unity 3D;Angular;Express;Node.js;Firebase;Google Cloud;Heroku;Cloud Firestore;MySQL;Oracle;SQLite
+0,1,Undergraduate,5,Ketti.Gerge,Java;JavaScript;Express;Next.js;React.js;Colocation;DigitalOcean;Firebase;Heroku
+0,1,Master,6,Priscilla.Janith,C;JavaScript;Python;Rust;TypeScript;Docker;Homebrew;Kubernetes;npm;Express;FastAPI;Fastify;Node.js;Microsoft Azure;MongoDB;Redis
+0,1,Master,25,Andeee.Khorma,Bash/Shell;C#;JavaScript;Python;SQL;TypeScript;Docker;Homebrew;npm;Yarn;Angular;ASP.NET;ASP.NET Core ;Express;FastAPI;Flask;jQuery;Node.js;React.js;DigitalOcean;Google Cloud;Microsoft Azure;Elasticsearch;Microsoft SQL Server;MongoDB;Redis
+0,1,Other,7,Hyacinthe.Johanna,Bash/Shell;C#;HTML/CSS;Java;JavaScript;PowerShell;Python;SQL;TypeScript;Docker;npm;Terraform;Angular.js;ASP.NET Core ;AWS;Firebase;Microsoft Azure;Microsoft SQL Server;Oracle;PostgreSQL
+0,1,Master,15,Ruthe.Arquit,Groovy;HTML/CSS;Java;JavaScript;MATLAB;Python;TypeScript;npm;Node.js;React.js
+0,1,Other,10,Lilith.Jary,HTML/CSS;JavaScript;PHP;SQL;TypeScript;Homebrew;npm;Yarn;Angular;Node.js;Nuxt.js;Vue.js;DigitalOcean;Firebase;Google Cloud;Linode;Cloud Firestore;MariaDB;MySQL;PostgreSQL;Firebase Realtime Database;Redis;SQLite
+0,1,Undergraduate,20,Etta.Bord,C#;SQL;Docker;Kubernetes;Angular;Microsoft Azure;Microsoft SQL Server
+0,1,Master,25,Adelle.Freddi,Bash/Shell;HTML/CSS;JavaScript;PHP;TypeScript;Docker;npm;Express;Node.js;React.js;Vue.js;AWS;CouchDB;DynamoDB;MongoDB
+1,1,PhD,6,Nerta.Rustice,Bash/Shell;HTML/CSS;Java;MATLAB;Python;Scala;SQL;TypeScript;Ansible;Docker;npm;Yarn;Angular;Heroku;OpenStack;Elasticsearch;IBM DB2;MongoDB;Oracle;PostgreSQL;Redis
+1,1,NoHigherEd,5,Eugine.Urias,Bash/Shell;Java;JavaScript;Python;SQL;TypeScript;Docker;Homebrew;Kubernetes;Terraform;FastAPI;AWS;DynamoDB;Elasticsearch;PostgreSQL;Redis
+1,1,NoHigherEd,4,Sandie.Couture,C#;HTML/CSS;JavaScript;Python;Homebrew;npm;Unity 3D;Yarn;Express;FastAPI;Node.js;Nuxt.js;Vue.js;AWS;Redis
+0,1,Other,30,Dulce.Nikaniki,Bash/Shell;C;PHP;SQL;MariaDB;PostgreSQL
+0,1,Undergraduate,28,Brooks.Pascia,Assembly;Bash/Shell;C;C#;C++;Delphi;Groovy;HTML/CSS;Java;JavaScript;PHP;Python;Rust;TypeScript;Ansible;Docker;Kubernetes;npm;Terraform;Angular;jQuery;AWS;Google Cloud;Managed Hosting;VMware;Elasticsearch;Microsoft SQL Server;MySQL;Neo4j;Oracle;PostgreSQL;Redis;SQLite
+0,1,Undergraduate,5,Eugine.Ambrosia,Bash/Shell;C#;HTML/CSS;JavaScript;Python;SQL;TypeScript;Docker;Flow;Homebrew;npm;Yarn;ASP.NET Core ;Django;Express;Next.js;Node.js;React.js;AWS;MariaDB;PostgreSQL;SQLite
+0,1,Other,11,Ida.Tayib,C#;HTML/CSS;SQL;ASP.NET;ASP.NET Core ;Microsoft SQL Server
+0,1,Undergraduate,6,Lusa.Emmaline,C#;HTML/CSS;JavaScript;PowerShell;SQL;npm;ASP.NET;ASP.NET Core ;jQuery;VMware;Microsoft SQL Server
+0,1,Undergraduate,3,Helena.Gemini,Elixir;Erlang;Groovy;HTML/CSS;Java;JavaScript;MATLAB;Objective-C;PHP;Python;SQL;Docker;Homebrew;Kubernetes;npm;Yarn;Drupal;Express;jQuery;React.js;AWS;Firebase;Google Cloud;Cloud Firestore;MariaDB;MongoDB;MySQL;Firebase Realtime Database;Redis;SQLite
+0,1,Master,5,Ellette.Prouty,Elixir;HTML/CSS;Python;SQL;TypeScript;Ansible;Docker;Kubernetes;npm;Terraform;Yarn;Django;FastAPI;Flask;Next.js;Node.js;React.js;Svelte;AWS;DigitalOcean;MySQL;PostgreSQL;Redis;SQLite
+0,1,Undergraduate,21,Nessie.Iphlgenia,C;C++;HTML/CSS;Java;JavaScript;Python;Ansible;Docker;npm;Node.js;React.js;VMware;Elasticsearch;PostgreSQL;Redis
+0,1,Undergraduate,5,Andree.Creamer,C#;HTML/CSS;SQL;ASP.NET Core ;Svelte;MariaDB;Microsoft SQL Server;MongoDB;MySQL;PostgreSQL;SQLite
+0,1,Undergraduate,6,Ariela.Fitzsimmons,C;C#;C++;Dart;HTML/CSS;Java;JavaScript;Kotlin;Homebrew;npm;Yarn;Node.js;React.js;AWS;Firebase;Google Cloud;Cloud Firestore;Firebase Realtime Database;SQLite
+0,1,Master,26,Tami.Shaver,Bash/Shell;C;HTML/CSS;Java;SQL;Microsoft SQL Server;Oracle;PostgreSQL
+0,1,Undergraduate,15,Caryl.Fitzsimmons,C#;Go;HTML/CSS;JavaScript;SQL;Docker;Terraform;ASP.NET Core ;Blazor;AWS;Google Cloud;Microsoft Azure;Microsoft SQL Server;SQLite
+0,1,Undergraduate,6,Susan.Fiester,Groovy;Java;Python;Ansible;Docker;Kubernetes;Terraform;Flask;Microsoft Azure;Microsoft SQL Server;MySQL;PostgreSQL;SQLite
+0,1,Undergraduate,3,Zsa Zsa.Trey,Java;jQuery;MySQL
+0,1,Undergraduate,20,Violet.Stacy,Bash/Shell;Go;HTML/CSS;Python;Ansible;Docker;Homebrew;AWS;Heroku
+0,1,Master,20,Catrina.Bakerman,C#;Java;Docker;Homebrew;Kubernetes;Terraform;ASP.NET Core ;AWS;MongoDB;Oracle
+1,1,Undergraduate,9,Ardeen.Hathaway,JavaScript;Python;Rust;TypeScript;Homebrew;npm;Node.js;React.js;AWS;MongoDB;Redis
+1,1,Undergraduate,17,Britte.Horan,C#;Java;SQL;VBA;ASP.NET;ASP.NET Core ;Blazor;Microsoft Azure;Oracle Cloud Infrastructure;Microsoft SQL Server;Oracle
+0,1,Undergraduate,5,Lila.Schwejda,Go;HTML/CSS;Java;JavaScript;SQL;Docker;Laravel;React.js;Linode;Elasticsearch;MongoDB;PostgreSQL;Redis
+1,1,Other,5,Veda.Jary,Bash/Shell;C;C++;HTML/CSS;JavaScript;PowerShell;Python;Flask;Vue.js
+0,1,Undergraduate,4,Dale.Geffner,HTML/CSS;Java;PHP;SQL;jQuery;Laravel;React.js;Heroku;MySQL
+1,1,Master,13,Feliza.Engdahl,Python;R;Rust;SQL;AWS;Microsoft Azure;MySQL;PostgreSQL;SQLite
+0,1,Undergraduate,20,Rochette.McLaughlin,Bash/Shell;Elixir;HTML/CSS;Java;JavaScript;Ruby;SQL;Swift;TypeScript;Docker;Homebrew;npm;Yarn;Angular.js;jQuery;Node.js;Phoenix;Ruby on Rails;Svelte;Vue.js;AWS;DigitalOcean;Heroku;Elasticsearch;PostgreSQL;Redis
+0,1,NoHigherEd,18,Sidoney.Roumell,APL;Assembly;Bash/Shell;C;Delphi;Go;HTML/CSS;JavaScript;Ruby;Rust;TypeScript;Deno;Gatsby;Next.js;Node.js;Phoenix;React.js;Svelte;AWS;DigitalOcean;Cassandra;Couchbase;CouchDB;DynamoDB;Elasticsearch;MariaDB;MongoDB;MySQL;Redis
+0,1,Master,7,Starla.Gahl,Bash/Shell;C#;HTML/CSS;Java;PowerShell;SQL;npm;Express;jQuery;Laravel;Node.js;Play Framework;Google Cloud;Heroku;Managed Hosting;MariaDB;Microsoft SQL Server;MongoDB;MySQL;Oracle;Redis
+0,1,Undergraduate,3,Bee.Chesna,HTML/CSS;JavaScript;Python;Docker;Homebrew;Kubernetes;npm;Yarn;Angular.js;Django;FastAPI;Flask;jQuery;React.js;AWS;DigitalOcean;Heroku;DynamoDB;MongoDB;MySQL;PostgreSQL;Redis;SQLite
+0,1,Undergraduate,6,Gilda.Ursulette,HTML/CSS;JavaScript;SQL;TypeScript;Docker;npm;Yarn;Node.js;React.js;AWS;PostgreSQL
+0,1,Master,8,Mallory.Hepsibah,Bash/Shell;Python;SQL;Terraform;AWS;MySQL
+0,1,Master,12,Wanda.Breed,C#;SQL;ASP.NET;IBM DB2
+0,1,Master,8,Perry.Schroth,Bash/Shell;C#;C++;PHP;Python;ASP.NET;Blazor;MySQL;SQLite
+0,1,NoHigherEd,12,Aimil.Bouchard,Bash/Shell;C#;JavaScript;Docker;npm;Node.js;Microsoft Azure;Microsoft SQL Server
+1,1,Undergraduate,22,Millie.Faso,Assembly;HTML/CSS;JavaScript;TypeScript;Ansible;Docker;Homebrew;npm;Yarn;Deno;Node.js;Vue.js;Microsoft Azure;MongoDB;MySQL
+0,1,Undergraduate,4,Lynea.Garlinda,Bash/Shell;Go;HTML/CSS;JavaScript;PHP;SQL;TypeScript;Docker;Kubernetes;npm;Angular;Express;Laravel;Node.js;React.js;Symfony;Google Cloud;MongoDB;MySQL;Redis
+0,1,Undergraduate,10,Caritta.Harriman,C#;C++;Dart;HTML/CSS;Java;JavaScript;Kotlin;MATLAB;Objective-C;PHP;Python;SQL;Swift;TypeScript;VBA;Docker;npm;Unity 3D;Yarn;Angular;Angular.js;ASP.NET;ASP.NET Core ;Blazor;Django;Express;Flask;jQuery;Laravel;Node.js;React.js;Svelte;Symfony;Vue.js;AWS;Firebase;Google Cloud;Microsoft Azure;Couchbase;CouchDB;MariaDB;Microsoft SQL Server;MongoDB;MySQL;Oracle;PostgreSQL;Firebase Realtime Database;SQLite
+0,1,Master,10,Cristabel.Edison,HTML/CSS;Java;JavaScript;Python;TypeScript;npm;jQuery;Node.js;React.js;PostgreSQL
+0,1,Other,43,Mildrid.Vivle,C;C#;C++;Python;ASP.NET Core ;Microsoft Azure;Microsoft SQL Server;SQLite
+0,1,Master,23,Myriam.Kaja,Bash/Shell;C;Groovy;HTML/CSS;JavaScript;Perl;Python;Docker;Kubernetes;npm;Angular.js;Django;Flask;Node.js;IBM Cloud or Watson;CouchDB;MongoDB;MySQL
+1,1,Undergraduate,10,Maud.Lewes,Bash/Shell;HTML/CSS;Python;SQL;TypeScript;Docker;Homebrew;Kubernetes;Pulumi;Django;React.js;AWS;Firebase;Google Cloud;DynamoDB;PostgreSQL;Firebase Realtime Database;Redis
+1,1,Undergraduate,18,Alejandra.Daniele,C#;C++;HTML/CSS;Java;JavaScript;VBA;Angular;ASP.NET;Microsoft Azure;MySQL;SQLite
+0,1,Undergraduate,36,Mary.Kellby,C;C#
+0,1,Undergraduate,2,Katleen.Gladstone,HTML/CSS;Java;JavaScript;SQL;MySQL
+0,1,Undergraduate,4,Blondelle.Beebe,Bash/Shell;C;C++;Python;Docker;AWS;MariaDB;MySQL;SQLite
+0,1,Undergraduate,7,Gusella.Zamora,Go;HTML/CSS;Java;JavaScript;Solidity;SQL;TypeScript;Docker;npm;Angular;jQuery;Node.js;Microsoft SQL Server
+0,1,Undergraduate,12,Lynnea.Rurik,Java;Docker;PostgreSQL
+1,1,Master,13,Leona.Dudley,C#;HTML/CSS;JavaScript;PowerShell;SQL;TypeScript;Homebrew;npm;ASP.NET;ASP.NET Core ;Node.js;Microsoft Azure;Microsoft SQL Server;PostgreSQL
+0,1,Undergraduate,8,Eadie.Abbot,Java;Kotlin;SQL;Docker;Homebrew;AWS;MySQL;PostgreSQL;Redis
+0,1,Undergraduate,2,Sibella.Manolo,HTML/CSS;JavaScript;PHP;TypeScript;npm;Express;Laravel;Node.js;React.js;Firebase;Heroku;MongoDB;MySQL
+1,1,Master,16,Bibby.Hurley,HTML/CSS;JavaScript;Python;TypeScript;Homebrew;npm;Yarn;Node.js;React.js;Firebase
+0,1,Master,17,Silvana.Kauppi,C;Python;Rust
+0,1,Undergraduate,11,Jessamyn.Linehan,Bash/Shell;C#;Dart;Go;HTML/CSS;JavaScript;PHP;Ruby;SQL;TypeScript;Docker;Flow;Homebrew;Kubernetes;npm;Unity 3D;Yarn;Angular.js;ASP.NET;ASP.NET Core ;Blazor;Express;jQuery;Laravel;Node.js;React.js;Ruby on Rails;Svelte;Vue.js;DigitalOcean;Google Cloud;Managed Hosting;Microsoft Azure;MariaDB;Microsoft SQL Server;MySQL;Oracle;PostgreSQL;Redis;SQLite
+0,1,Undergraduate,3,Kate.McGrody,HTML/CSS;JavaScript;Ruby;Homebrew;Yarn;FastAPI;React.js;Ruby on Rails;AWS;Heroku;MySQL;PostgreSQL
+0,1,Undergraduate,3,Karlee.Vastah,HTML/CSS;JavaScript;npm;ASP.NET;Node.js;React.js
+0,1,Undergraduate,26,Chrystel.Rodmann,C#;HTML/CSS;Java;JavaScript;PHP;PowerShell;Swift;VBA;jQuery;Google Cloud;Microsoft Azure;VMware;MariaDB;MySQL;PostgreSQL;SQLite
+0,1,Other,20,Leia.Goldina,Bash/Shell;Python;Ansible;Docker;Kubernetes;OpenStack;Elasticsearch;MongoDB;PostgreSQL;Redis
+0,1,Undergraduate,10,Emilia.Whittaker,Python;TypeScript;Docker;Kubernetes;npm;Terraform;Yarn;Angular;Express;Node.js;AWS;Google Cloud;DynamoDB;Elasticsearch;MongoDB
+1,1,Other,37,Ermengarde.Talia,Bash/Shell;C;HTML/CSS;JavaScript;PowerShell;Python;SQL;Docker;Angular;Blazor;Django;Microsoft Azure;Oracle;PostgreSQL;SQLite
+0,1,Undergraduate,12,Donnie.Pandolfi,HTML/CSS;JavaScript;PHP;SQL;TypeScript;npm;Yarn;Express;jQuery;Node.js;React.js;AWS;DynamoDB;MongoDB;MySQL;Redis
+0,1,Master,35,Sheelagh.Isacco,F#;SQL;ASP.NET;ASP.NET Core ;React.js;Microsoft Azure;Microsoft SQL Server
+0,1,NoHigherEd,5,Isa.Odysseus,Bash/Shell;C#;JavaScript;Python;TypeScript;Docker;Homebrew;npm;Yarn;Django;Express;Gatsby;Next.js;Node.js;React.js;DigitalOcean;Google Cloud;Heroku;Microsoft Azure;Cassandra;Elasticsearch;MariaDB;PostgreSQL;Redis
+0,1,Undergraduate,10,Rayna.Idelia,C#;JavaScript;SQL;TypeScript;Ansible;Docker;Kubernetes;npm;Terraform;ASP.NET;ASP.NET Core ;Node.js;Heroku;Microsoft Azure;Oracle
+0,1,Master,41,Miquela.Elisha,Bash/Shell;Python;MongoDB
+0,1,Master,13,Hope.Kellby,Dart;JavaScript;TypeScript;Docker;Homebrew;Kubernetes;npm;Terraform;Node.js;Microsoft Azure;PostgreSQL;SQLite
+0,1,Undergraduate,0,Eve.Noelyn,HTML/CSS;JavaScript;Ruby;Yarn;jQuery;Ruby on Rails;AWS;DigitalOcean;PostgreSQL;Redis
+1,1,Undergraduate,13,Gwenneth.Si,Bash/Shell;JavaScript;PHP;SQL;DigitalOcean;MariaDB;MySQL
+0,1,Undergraduate,11,Taffy.Edison,HTML/CSS;Java;JavaScript;PHP;npm;Express;jQuery;Node.js;React.js;Heroku;MariaDB;MySQL;Oracle;PostgreSQL;SQLite
+0,1,Undergraduate,16,Nessie.Helve,Dart;Java;JavaScript;Kotlin;Lua;PHP;Ruby;Swift;Kubernetes;Unity 3D;Unreal Engine;ASP.NET;ASP.NET Core ;Node.js;AWS;Firebase;Google Cloud;Microsoft Azure;VMware;Cloud Firestore;MongoDB;Firebase Realtime Database;SQLite
+1,1,Master,8,Consuela.Malanie,HTML/CSS;JavaScript;Python;TypeScript;npm;Angular;Express;jQuery;Next.js;Node.js;React.js;AWS;Heroku;MongoDB;MySQL;PostgreSQL
+0,1,Master,43,Brianna.Elo,Bash/Shell;Dart;HTML/CSS;JavaScript;Rust;SQL;Swift;TypeScript;npm;Deno;Svelte;Firebase;Cloud Firestore;PostgreSQL;SQLite
+1,1,NoHigherEd,9,Zia.Denis,Bash/Shell;HTML/CSS;JavaScript;PHP;Python;SQL;TypeScript;Homebrew;npm;Gatsby;Next.js;Node.js;React.js;DigitalOcean;MariaDB;MySQL
+0,1,Master,42,Paulita.Gombach,Bash/Shell;Python;Ansible;Docker;AWS;VMware;MySQL;PostgreSQL
+0,1,Undergraduate,13,Joeann.Federica,Bash/Shell;TypeScript;Docker;npm;Node.js;Microsoft Azure;PostgreSQL
+0,1,Undergraduate,25,Jessy.Melan,Java;JavaScript;npm;Angular;Angular.js
+0,1,Master,5,Celisse.Yusuk,Dart;Firebase;Cloud Firestore;Firebase Realtime Database
+0,1,Master,13,Harmonia.Sandye,Assembly;C;C#;C++;Go;HTML/CSS;Java;JavaScript;PHP;Python;R;Scala;SQL;VBA;Docker;Kubernetes;Unity 3D;FastAPI;Flask;Microsoft Azure;IBM DB2;MongoDB;MySQL;PostgreSQL;SQLite
+1,1,NoHigherEd,10,Addia.Sasnett,C#;PowerShell;SQL;Microsoft SQL Server
+0,1,Master,22,Bernie.Gale,Elixir;Ruby;Docker;Phoenix;Ruby on Rails;DigitalOcean;PostgreSQL
+0,1,Other,28,Lynnea.Sallyann,C;C++;JavaScript;PHP;SQL;TypeScript;Docker;Kubernetes;npm;Puppet;jQuery;Laravel;Node.js;React.js;AWS;Colocation;Managed Hosting;VMware;Elasticsearch;MongoDB;MySQL;PostgreSQL;Redis
+0,1,Undergraduate,17,Amara.Lindemann,HTML/CSS;JavaScript;PHP;jQuery;Laravel;AWS;MongoDB;MySQL;Redis
+0,1,Master,14,Maye.Darrell,HTML/CSS;Java;JavaScript;SQL;TypeScript;Docker;npm;Yarn;Node.js;React.js;AWS;Firebase;Heroku;MySQL;SQLite
+0,1,Undergraduate,3,Aigneis.Douglass,Bash/Shell;Go;HTML/CSS;JavaScript;Python;SQL;TypeScript;Docker;npm;Express;FastAPI;Flask;Node.js;AWS;Heroku;MongoDB;MySQL;PostgreSQL
+0,1,Master,26,Kimmy.Lasley,Go;Groovy;HTML/CSS;Java;JavaScript;Perl;PHP;Python;Ansible;Docker;Homebrew;Kubernetes;npm;Express;jQuery;Node.js;AWS;DigitalOcean;Firebase;Google Cloud;Cassandra;Cloud Firestore;DynamoDB;Elasticsearch;MongoDB;MySQL;Neo4j;Oracle;Firebase Realtime Database;Redis
+0,1,Undergraduate,6,Collen.Wattenberg,HTML/CSS;Java;JavaScript;PHP;SQL;npm;Yarn;jQuery;Laravel;Next.js;Node.js;Nuxt.js;React.js;Vue.js;AWS;Google Cloud;Managed Hosting;MariaDB;MongoDB;MySQL;Firebase Realtime Database
+0,1,Undergraduate,9,Elfreda.Roche,JavaScript;PHP;npm;Yarn;Laravel;Vue.js;Microsoft SQL Server;MySQL
+0,1,Undergraduate,5,Maye.Crudden,JavaScript;TypeScript;Docker;Angular;React.js;MySQL
+0,1,Master,13,Arlina.Latini,Python;SQL;PostgreSQL
+0,1,Undergraduate,9,Emelina.Hirsch,Groovy;Haskell;JavaScript;Python;SQL;Docker;Homebrew;Kubernetes;npm;AWS;Google Cloud;MySQL;PostgreSQL;Redis
+0,1,NoHigherEd,24,Kathi.Odysseus,C#;C++;F#;JavaScript;TypeScript;npm;AWS
+0,1,Other,15,Ardenia.Morrill,Java;JavaScript;SQL;Docker;Homebrew;npm;React.js;Vue.js;AWS;MariaDB;MySQL
+0,1,PhD,7,Alie.Weide,Julia;Python;Rust;SQL;Docker;Homebrew;SQLite
+0,1,Other,36,Lauryn.Hanshaw,Bash/Shell;C#;Groovy;HTML/CSS;Java;JavaScript;Python;SQL;Docker;Kubernetes;jQuery;React.js;Microsoft Azure;Microsoft SQL Server
+0,1,Master,40,Gratia.Cutlerr,Java;JavaScript;Python
+0,1,Master,8,Marcy.Bord,C;C++;HTML/CSS;JavaScript;Python;TypeScript;Docker;npm;Node.js;AWS;Microsoft Azure
+0,1,Undergraduate,10,Veda.Bivins,Bash/Shell;C;C++;HTML/CSS;Java;JavaScript;Kotlin;Python;SQL;TypeScript;Ansible;Chef;Docker;Homebrew;Kubernetes;npm;Angular;Express;Node.js;React.js;AWS;DynamoDB;Elasticsearch;MongoDB;MySQL;PostgreSQL;Redis
+0,1,Master,12,Flo.Lacombe,Bash/Shell;C#;Dart;HTML/CSS;JavaScript;PHP;SQL;TypeScript;Homebrew;Kubernetes;npm;Yarn;Gatsby;jQuery;Laravel;Node.js;React.js;Vue.js;AWS;Heroku;MariaDB;MySQL;PostgreSQL;Redis
+0,1,Undergraduate,11,Stephanie.Forrer,HTML/CSS;JavaScript;Python;TypeScript;npm;Angular;Firebase;MySQL
+0,1,Undergraduate,16,Ellette.Tacye,Bash/Shell;C;C++;Python;SQLite
+1,1,Other,14,Dione.Sinegold,Java;SQL;MySQL;PostgreSQL
+0,1,Undergraduate,6,Laure.Sasnett,C++;HTML/CSS;JavaScript;PHP;Python;SQL;Docker;npm;Django;jQuery;Node.js;React.js;AWS;DigitalOcean;Firebase;VMware;MariaDB;MongoDB;MySQL;PostgreSQL;SQLite
+0,1,PhD,22,Verla.Frendel,Bash/Shell;C++;MATLAB;Perl;Python
+0,1,Master,10,Basia.Torray,Java;JavaScript;Python;TypeScript;Docker;Kubernetes;npm;FastAPI;Flask;React.js;Elasticsearch;MySQL;Redis
+0,1,Undergraduate,13,Sibella.Mayeda,Java;npm;React.js;AWS;Heroku;DynamoDB;MySQL;Oracle;SQLite
+0,1,Other,35,Jasmina.Pyle,Bash/Shell;C#;Delphi;HTML/CSS;JavaScript;PowerShell;SQL;TypeScript;npm;ASP.NET;Express;jQuery;Node.js;Microsoft Azure;Microsoft SQL Server
+0,1,Undergraduate,2,Anestassia.Dorothy,C#;HTML/CSS;JavaScript;SQL;Docker;Kubernetes;npm;Terraform;ASP.NET Core ;Node.js;React.js;Microsoft Azure;Microsoft SQL Server;PostgreSQL;SQLite
+0,1,Master,27,Kimberley.Ursulette,C#;HTML/CSS;Java;JavaScript;PowerShell;SQL;TypeScript;Docker;npm;Terraform;Angular;ASP.NET;ASP.NET Core ;jQuery;React.js;AWS;Firebase;Microsoft Azure;Elasticsearch;Microsoft SQL Server;PostgreSQL;Redis
+0,1,Undergraduate,12,Feliza.Hubert,HTML/CSS;JavaScript;PHP;TypeScript;Docker;npm;Yarn;Angular.js;Express;jQuery;Laravel;Next.js;Node.js;AWS;Firebase;Heroku;Managed Hosting;MariaDB;MongoDB;MySQL;SQLite
+0,1,PhD,16,Doro.Lea,Julia
+0,1,Undergraduate,6,Clo.Johnsson,HTML/CSS;JavaScript;PHP;TypeScript;npm;Express;Laravel;Node.js;AWS;MariaDB;MySQL
+1,1,Undergraduate,4,Dianemarie.Selway,Go;HTML/CSS;JavaScript;Python;SQL;TypeScript;npm;Express;Next.js;Node.js;React.js;Heroku;Microsoft Azure;DynamoDB;Elasticsearch;Microsoft SQL Server;MongoDB;PostgreSQL
+0,1,Master,41,Sue.Bluh,C#;JavaScript;PowerShell;SQL;TypeScript;npm;ASP.NET;React.js;Vue.js;AWS;Microsoft Azure;Microsoft SQL Server
+0,1,Master,22,Stacey.Ivens,Bash/Shell;HTML/CSS;JavaScript;SQL;TypeScript;Docker;Homebrew;npm;Express;jQuery;Node.js;React.js;AWS;Microsoft Azure;DynamoDB;MySQL
+1,1,Other,5,Alia.O'Neill,Bash/Shell;HTML/CSS;JavaScript;PHP;Python;SQL;TypeScript;Homebrew;npm;Yarn;Angular.js;Express;jQuery;Node.js;React.js;Vue.js;Heroku;MongoDB;MySQL
+0,1,Undergraduate,4,Lory.Wattenberg,Assembly;C;C++;HTML/CSS;MATLAB;Python;AWS;Microsoft Azure
+0,1,Undergraduate,5,Romona.Therine,Python;SQL;Oracle;PostgreSQL
+0,1,Master,8,Lauryn.Katrine,HTML/CSS;JavaScript;SQL;TypeScript;Docker;Homebrew;Kubernetes;npm;Gatsby;Next.js;Node.js;React.js;AWS;DigitalOcean;Firebase;Google Cloud;Cloud Firestore;MariaDB;Microsoft SQL Server;MongoDB;MySQL;PostgreSQL;SQLite
+0,1,Master,35,Misha.Redmond,Assembly;C;C++;COBOL;HTML/CSS;Java;JavaScript;PHP;Python;Symfony;MariaDB;MySQL;SQLite
+0,1,Master,25,Aubrie.Paine,C;HTML/CSS;JavaScript;PowerShell;Ruby;SQL;TypeScript;npm;Pulumi;Angular;ASP.NET;ASP.NET Core ;jQuery;Node.js;Ruby on Rails;AWS;Microsoft Azure;Elasticsearch;IBM DB2;Microsoft SQL Server;PostgreSQL;Redis
+0,1,Master,5,Lulita.Trinetta,HTML/CSS;JavaScript;Python;R;SQL;Docker;Homebrew;Flask;Gatsby;Google Cloud;Heroku;Microsoft Azure;MySQL;SQLite
+0,1,NoHigherEd,4,Wanda.Read,HTML/CSS;PowerShell;TypeScript;npm;Angular
+0,1,Undergraduate,10,Jinny.Cottle,Python;Ansible;Docker;Kubernetes;npm;Terraform;Yarn;Django;Express;FastAPI;Flask;Node.js;React.js;AWS;DigitalOcean;Google Cloud;Microsoft Azure;MongoDB;MySQL;PostgreSQL;Redis
+0,1,PhD,20,Corry.Daniele,Bash/Shell;C;C++;Python;Rust;Docker;Homebrew;npm;Yarn
+0,1,Undergraduate,7,Ruthe.Mendez,Groovy;HTML/CSS;Java;Kotlin;Python;npm;Firebase;Google Cloud;Managed Hosting;VMware;Cloud Firestore;MariaDB;MySQL;Oracle;PostgreSQL;Firebase Realtime Database;SQLite
+0,1,Undergraduate,24,Lorne.Mich,Bash/Shell;C#;JavaScript;SQL;VBA;Ansible;Docker;Kubernetes;npm;Terraform;Yarn;ASP.NET;ASP.NET Core ;Flask;jQuery;Vue.js;AWS;Microsoft Azure;DynamoDB;Microsoft SQL Server;Oracle;PostgreSQL
+1,1,PhD,3,Hollie.My,C++;HTML/CSS;JavaScript
+0,1,Undergraduate,5,Vere.Dudley,HTML/CSS;JavaScript;TypeScript;npm;Express;Next.js;Node.js;React.js;AWS
+0,1,Undergraduate,6,Laurene.Mintz,Dart;Go;HTML/CSS;JavaScript;Lua;TypeScript;Docker;Homebrew;npm;Terraform;Yarn;Node.js;Nuxt.js;React.js;Vue.js;Firebase;Google Cloud;Heroku;MongoDB;PostgreSQL
+1,1,Other,30,Edith.Melan,HTML/CSS;JavaScript;PHP;Kubernetes;npm;jQuery;Microsoft Azure;MariaDB;MySQL
+1,1,Master,14,Larine.Cordi,Bash/Shell;Clojure;HTML/CSS;Java;JavaScript;Python;SQL;Docker;Homebrew;npm;AWS;DigitalOcean;Firebase;Google Cloud;Cloud Firestore;Neo4j;PostgreSQL
+0,1,Other,6,Aili.Zitvaa,C;C++;Dart;HTML/CSS;Java;JavaScript;Kotlin;Swift;npm;Node.js;AWS;Firebase;Heroku;MongoDB
+0,1,Master,9,Gretal.Ingra,Bash/Shell;HTML/CSS;JavaScript;Python;SQL;TypeScript;Docker;Django;Express;FastAPI;Flask;Gatsby;jQuery;Next.js;Node.js;React.js;Vue.js;MongoDB;PostgreSQL
+0,1,Undergraduate,6,Lizzie.Esmaria,Groovy;HTML/CSS;Java;JavaScript;PHP;PowerShell;SQL;TypeScript;Docker;Kubernetes;npm;Angular;Node.js;Nuxt.js;Vue.js;Managed Hosting;MariaDB;MongoDB;MySQL;Oracle;PostgreSQL
+0,1,NoHigherEd,5,Ebonee.Ariella,Bash/Shell;HTML/CSS;Java;JavaScript;Python;Rust;TypeScript;Docker;Yarn;Angular.js;Flask;React.js;Svelte;MongoDB
+0,1,Other,11,Lulita.Poll,Go;Python;Docker;Django;AWS;PostgreSQL
+0,1,Undergraduate,23,Miquela.Carleen,JavaScript;Ruby;Rust;TypeScript;Docker;npm;Deno;Node.js;Ruby on Rails;MariaDB;PostgreSQL;SQLite
+0,1,Other,10,Aubrie.Remmer,C#;HTML/CSS;JavaScript;PowerShell;TypeScript;Angular;Angular.js;ASP.NET;ASP.NET Core ;jQuery;Microsoft Azure;Microsoft SQL Server
+0,1,PhD,15,Marita.Jenness,Julia
+0,1,Master,12,Melodie.Reneta,Bash/Shell;Go;HTML/CSS;JavaScript;Lua;Python;SQL;Docker;Homebrew;Kubernetes;Terraform;FastAPI;Svelte;Google Cloud;MySQL;SQLite
+0,1,Other,12,Devina.Chinua,Bash/Shell;Java;JavaScript;Python;SQL;Docker;Homebrew;npm;Django;Next.js;Node.js;AWS;Google Cloud;IBM Cloud or Watson;Microsoft Azure;Microsoft SQL Server;PostgreSQL;Redis
+0,1,Undergraduate,8,Micheline.Marcellus,C;C++;Docker;AWS
+0,1,Master,12,Margalo.Albertine,C#;Go;JavaScript;TypeScript;Ansible;Docker;Kubernetes;Angular;ASP.NET Core ;AWS;DynamoDB;Microsoft SQL Server;MySQL
+1,1,Undergraduate,15,Kaja.August,Bash/Shell;HTML/CSS;JavaScript;Homebrew;npm;Yarn;Nuxt.js;Vue.js;Firebase;Linode
+0,1,Undergraduate,15,Deirdre.Fennessy,Bash/Shell;C#;Go;HTML/CSS;Java;JavaScript;PHP;PowerShell;SQL;TypeScript;VBA;Docker;Kubernetes;npm;Angular;ASP.NET;ASP.NET Core ;jQuery;Node.js;AWS;Google Cloud;Microsoft Azure;Microsoft SQL Server;MongoDB;MySQL;PostgreSQL;SQLite
+0,1,Undergraduate,10,Gusella.Valerio,C;C++;HTML/CSS;Java;JavaScript;PHP;Python;SQL;TypeScript;npm;Angular;ASP.NET;ASP.NET Core ;Drupal;AWS;VMware;MariaDB;Microsoft SQL Server;MongoDB;MySQL;SQLite
+0,1,Undergraduate,24,Yolane.Suk,Groovy;Java;Docker;Oracle;PostgreSQL

@@ -1,0 +1,1000 @@
+Label,GroupId,YearsExperience,Education,FullName,SkillSet
+0,1,7,Master,Miguel Ballsdon,C++;Python;Git;PostgreSQL
+0,1,12,Undergraduate,Erena Maffy,Bash/Shell;HTML/CSS;JavaScript;Node.js;SQL;TypeScript;Git;Express;React.js;Vue.js;AWS;PostgreSQL
+0,1,15,Master,Helaina Dunbavin,C;C++;Java;Perl;Ruby;Git;Ruby on Rails
+0,1,9,Undergraduate,Jermaine Cowins,Bash/Shell;HTML/CSS;JavaScript;PHP;Ruby;SQL;Git;jQuery;Laravel;Ruby on Rails;AWS;MySQL;PostgreSQL
+0,1,40,PhD,Trumaine Jellings,C++;Python
+0,1,9,Master,Dory Lewtey,JavaScript;Python;Docker;Git;MySQL
+0,1,26,Master,Pembroke Linnane,C++;HTML/CSS;Java;JavaScript;Kotlin;Node.js;TypeScript;Docker;Git;Kubernetes;Angular;Express;Spring;AWS;Heroku;DynamoDB;PostgreSQL
+0,1,14,Master,Townsend Side,C++;Python;Docker;Git
+0,1,39,Undergraduate,Carlie Dunphie,Python;Git;PostgreSQL
+0,1,20,Master,Hoyt Gonsalo,Delphi;Java;SQL;Docker;Git;PostgreSQL
+0,1,4,Undergraduate,Goldia Gaylor,Bash/Shell;Go;Java;Node.js;Python;Scala;SQL;Docker;Git;Kubernetes;Terraform;AWS;Google Cloud Platform;Microsoft Azure;DynamoDB;MongoDB;MySQL;PostgreSQL
+0,1,6,Undergraduate,Jorge Felder,Assembly;C;C#;C++;HTML/CSS;Java;JavaScript;Matlab;Node.js;SQL;Git;Unity 3D;jQuery
+0,1,19,Master,Myrle Martusov,C;C++;Java;Python;Git
+0,1,8,Undergraduate,Henrietta Joseph,Assembly;C;Java;Kotlin;Rust;Docker;Git
+0,1,6,Master,Ralph Luckcock,Bash/Shell;C#;C++;Python;Git
+0,1,22,Undergraduate,Arluene Joder,C#;C++;JavaScript;PowerShell;SQL;TypeScript;Docker;Git;Kubernetes;ASP.NET Core ;React.js;Heroku;Microsoft Azure;Microsoft SQL Server;PostgreSQL;Redis
+0,1,7,Other,Luis Patmore,C++;SQL;Git;MongoDB;MySQL
+0,1,12,Undergraduate,Vale Turle,C#;HTML/CSS;JavaScript;Node.js;PowerShell;TypeScript;VBA;Docker;Kubernetes;Angular;ASP.NET;ASP.NET Core ;Express;Svelte;AWS;DigitalOcean;Microsoft Azure;Couchbase;MariaDB;Microsoft SQL Server;MongoDB;MySQL;PostgreSQL;Redis;SQLite
+0,1,34,Master,Nariko Fluger,Bash/Shell;HTML/CSS;Java;Python;SQL;TypeScript;Ansible;Git;Terraform;Yarn;React.js;Spring;MySQL;SQLite
+0,1,21,Master,Dew Mixter,C;C#;HTML/CSS;Java;JavaScript;PHP;SQL;Docker;Git;Angular;ASP.NET Core ;jQuery;Spring;Microsoft SQL Server;MySQL;Oracle;SQLite
+0,1,5,Other,Eleen McLeary,Bash/Shell;HTML/CSS;JavaScript;Python;SQL;Docker;Git;Django;FastAPI;Vue.js;Heroku;Oracle
+1,1,25,Other,Pia Deem,C#;VBA;Git;ASP.NET;Microsoft SQL Server;MySQL
+0,1,20,Master,Aggi Dreamer,Bash/Shell;JavaScript;Node.js;TypeScript;Terraform;AWS;DynamoDB
+0,1,24,Undergraduate,Byram Kinforth,HTML/CSS;JavaScript;SQL;TypeScript;Git;Express;Gatsby;React.js;AWS;Heroku;PostgreSQL;SQLite
+0,1,10,Master,Thedric Abriani,Bash/Shell;C;C++;Matlab;PowerShell;Python;Git
+0,1,25,Undergraduate,Cal Mandell,HTML/CSS;JavaScript;PHP;Git;jQuery;React.js
+0,1,12,Undergraduate,Rianon Hexham,Bash/Shell;C#;Dart;Delphi;Go;HTML/CSS;Java;JavaScript;Kotlin;Node.js;Objective-C;PHP;PowerShell;Python;SQL;Swift;TypeScript;Docker;Git;Unity 3D;Angular;Angular.js;ASP.NET;ASP.NET Core ;Django;Express;Flask;jQuery;Laravel;React.js;Spring;Vue.js;Google Cloud Platform;Microsoft Azure;Firebase;Microsoft SQL Server;MongoDB;MySQL;PostgreSQL
+0,1,10,PhD,Morna Yellowlea,HTML/CSS;Python;R;Docker;Git;Flask;AWS;DynamoDB
+0,1,10,Undergraduate,Ruggiero Chivrall,Bash/Shell;Java;JavaScript;PHP;Python;Ansible;Git;PostgreSQL
+0,1,12,Undergraduate,Alina Rummings,Assembly;C;C#;Go;HTML/CSS;Java;JavaScript;Node.js;PowerShell;Python;SQL;TypeScript;Docker;Git;Yarn;ASP.NET;ASP.NET Core ;jQuery;React.js;Microsoft Azure;MariaDB;Microsoft SQL Server;MySQL;SQLite
+0,1,25,Master,Lib Petruszka,Dart;HTML/CSS;Java;JavaScript;Node.js;PowerShell;TypeScript;Docker;Git;Angular;Django;Express;jQuery;React.js;Vue.js;Google Cloud Platform;Firebase;MariaDB;MongoDB;MySQL;Oracle
+0,1,31,Other,Thomasina Nangle,C#;SQL;TypeScript;Docker;Kubernetes;ASP.NET Core ;AWS;Microsoft Azure;Elasticsearch;Microsoft SQL Server
+0,1,18,PhD,Darrel Nicolls,Bash/Shell;C#;HTML/CSS;Julia;Matlab;Python;Git;Google Cloud Platform
+0,1,26,Undergraduate,Gino Kermath,C#;Clojure;Go;JavaScript;Python;SQL;Git;jQuery;Microsoft Azure;Microsoft SQL Server
+0,1,20,NoHigherEd,Cello Jilkes,Bash/Shell;C#;JavaScript;Node.js;PowerShell;Python;TypeScript;Docker;Git;Kubernetes;Puppet;Terraform;Unity 3D;ASP.NET;ASP.NET Core ;jQuery;React.js
+0,1,10,Undergraduate,Melloney Behneke,HTML/CSS;JavaScript;Node.js;PHP;SQL;TypeScript;Docker;Git;Terraform;Yarn;Laravel;React.js;AWS;DigitalOcean;Google Cloud Platform;Heroku;Firebase;MongoDB;MySQL;PostgreSQL;SQLite
+0,1,10,Master,Hobart Villaret,Scala;Git;Google Cloud Platform;MongoDB
+0,1,8,Master,Bo McPartling,Dart;JavaScript;Node.js;Docker;Git;Django;Vue.js;Google Cloud Platform;Firebase;PostgreSQL;SQLite
+0,1,18,Other,Donovan Boncore,C#;HTML/CSS;JavaScript;PHP;Docker;Git;Angular;Angular.js;ASP.NET;ASP.NET Core ;jQuery;AWS;Microsoft Azure;MariaDB;Microsoft SQL Server;MongoDB;PostgreSQL;SQLite
+0,1,4,Undergraduate,Colette Philson,Python;Docker;Git;Django;AWS
+1,1,38,Master,Robb Baile,Bash/Shell;C#;HTML/CSS;JavaScript;PowerShell;SQL;TypeScript;Git;Angular;ASP.NET;ASP.NET Core ;jQuery;Microsoft Azure;Microsoft SQL Server
+0,1,10,Undergraduate,Winnie Sidebotham,Go;JavaScript;Node.js;PHP;TypeScript;Git;React.js;Microsoft SQL Server
+0,1,10,Undergraduate,Gabi Caro,HTML/CSS;Java;JavaScript;Node.js;Python;SQL;Docker;Git;jQuery;Spring;Microsoft SQL Server;MongoDB;PostgreSQL
+0,1,8,Undergraduate,Abigail Cardoo,HTML/CSS;JavaScript;Python;Docker;Angular.js;Django;React.js;DigitalOcean;MySQL;PostgreSQL;Redis
+0,1,6,Other,Jenelle Killick,Bash/Shell;C#;Dart;Go;HTML/CSS;JavaScript;Node.js;PowerShell;Python;SQL;TypeScript;Ansible;Docker;Git;Kubernetes;Terraform;Xamarin;ASP.NET;ASP.NET Core ;Express;Flask;React.js;AWS;Microsoft Azure;Couchbase;DynamoDB;Elasticsearch;Microsoft SQL Server;MongoDB;MySQL;PostgreSQL;Redis;SQLite
+0,1,13,Master,Ibby Vuitte,Bash/Shell;HTML/CSS;Java;JavaScript;PHP;Python;Scala;SQL;VBA;Git;jQuery;React.js;Vue.js;AWS;MySQL;Oracle;PostgreSQL
+0,1,10,Undergraduate,Alyosha Creser,Bash/Shell;HTML/CSS;Java;JavaScript;Kotlin;Node.js;Python;SQL;TypeScript;Docker;Git;Angular;React.js;Spring;MariaDB;MySQL;PostgreSQL
+0,1,3,NoHigherEd,Cori Dewi,HTML/CSS;JavaScript;Node.js;Git;Express;React.js;Heroku;MongoDB
+0,1,12,Undergraduate,Spencer Izatt,C#;HTML/CSS;JavaScript;SQL;VBA;Angular.js;ASP.NET;ASP.NET Core ;jQuery;Microsoft Azure;DynamoDB;Elasticsearch;Microsoft SQL Server;SQLite
+0,1,6,Other,Robbyn Cresswell,C;C#;C++;Dart;HTML/CSS;Java;JavaScript;PHP;Python;Git;Kubernetes;Xamarin;Yarn;jQuery;Laravel;React.js;Symfony;Vue.js;AWS;DigitalOcean;Heroku;Firebase;MongoDB;MySQL;Redis;SQLite
+0,1,6,Other,Wilbert McKillop,Bash/Shell;Python;Docker;Git;Puppet;AWS;MySQL
+0,1,17,Master,Leticia Heaven,Kotlin;Objective-C;SQL;Swift;Git;AWS;Google Cloud Platform
+0,1,7,Undergraduate,Abram Fyfield,Bash/Shell;C#;HTML/CSS;JavaScript;TypeScript;Git;ASP.NET;Vue.js;AWS;Microsoft SQL Server
+0,1,27,Master,Bevan Birchenhead,C#;HTML/CSS;JavaScript;Node.js;PHP;PowerShell;SQL;Git;Angular;Angular.js;ASP.NET;ASP.NET Core ;jQuery;Vue.js;Microsoft Azure;Elasticsearch;Microsoft SQL Server;MySQL;SQLite
+0,1,17,Undergraduate,Hank Uden,Bash/Shell;C;C++;HTML/CSS;Java;JavaScript;PHP;Python;Docker;Git;Kubernetes;Puppet;Unity 3D;Angular;jQuery;Laravel;React.js;Symfony;AWS;DigitalOcean;Elasticsearch;MySQL;SQLite
+0,1,1,Undergraduate,Lottie Drewett,C#;Java;JavaScript;Python;SQL;Ansible;Chef;Docker;Terraform;Unity 3D;ASP.NET;ASP.NET Core ;Django;AWS;Microsoft Azure;Elasticsearch;MongoDB;MySQL;PostgreSQL;SQLite
+0,1,5,Other,Phineas Nettle,Go;JavaScript;Python;SQL;TypeScript;VBA;Ansible;Docker;Git;Yarn;Django;FastAPI;Flask;Gatsby;jQuery;React.js;AWS;Google Cloud Platform;Microsoft Azure;Elasticsearch;MariaDB;Microsoft SQL Server;MongoDB;MySQL;Oracle;PostgreSQL;Redis;SQLite
+0,1,30,Master,Priscilla Beatty,C#;Delphi;JavaScript;Node.js;TypeScript;Git;Angular;ASP.NET Core ;Microsoft Azure;Microsoft SQL Server
+0,1,4,Undergraduate,Nancee Wehnerr,JavaScript;Swift;TypeScript;Git;React.js;Google Cloud Platform;Firebase;PostgreSQL
+0,1,38,Undergraduate,Eyde Yexley,C#;F#;SQL;Git;Microsoft SQL Server
+0,1,27,Master,Agna Bonnette,Bash/Shell;C;Dart;Go;HTML/CSS;JavaScript;Node.js;PHP;Python;TypeScript;Docker;Git;Kubernetes;Yarn;React.js;AWS;DynamoDB;Elasticsearch;MongoDB;MySQL;Redis;SQLite
+0,1,15,Other,Frederigo Benkin,C++;Java;Kotlin;Objective-C;Swift;SQLite
+0,1,2,Master,Ermina Tetsall,SQL;Git;jQuery;Google Cloud Platform;SQLite
+0,1,7,Master,Brit Tattersfield,JavaScript;Node.js;PHP;TypeScript;Docker;Git;Angular;Express;Laravel;MariaDB;MongoDB;MySQL
+0,1,31,Undergraduate,Ailis Fallens,C#;HTML/CSS;PowerShell;SQL;Git;Xamarin;ASP.NET;ASP.NET Core ;jQuery;Microsoft Azure;Microsoft SQL Server
+0,1,15,Undergraduate,Netti Harrisson,Bash/Shell;C;C++;Go;HTML/CSS;Java;JavaScript;Matlab;Node.js;Python;Scala;SQL;TypeScript;Unity 3D;Unreal Engine;Django;FastAPI;Flask;jQuery;React.js;MongoDB;MySQL;SQLite
+1,1,20,Undergraduate,Star Bodd,HTML/CSS;JavaScript;Node.js;PHP;PowerShell;Python;SQL;Git;Angular;Express;Gatsby;jQuery;React.js;Heroku;Firebase;MariaDB;MongoDB;MySQL;Redis
+0,1,41,Undergraduate,Sim Narbett,C++;HTML/CSS;JavaScript;Node.js;Perl;PHP;SQL;Git;ASP.NET;Microsoft Azure;SQLite
+0,1,9,Master,Honor Von Oertzen,JavaScript;Python;SQL;Docker;Git;Django;jQuery;Google Cloud Platform;MariaDB;MongoDB;MySQL;PostgreSQL;SQLite
+0,1,8,Undergraduate,Jennee MacKerley,C++;Go;JavaScript;Node.js;Python;TypeScript;Docker;Git;Kubernetes;React.js;AWS;DynamoDB;Elasticsearch;MongoDB;Redis
+0,1,13,Master,Jenna Corcoran,C#;HTML/CSS;JavaScript;PowerShell;TypeScript;Git;Yarn;Angular;Angular.js;ASP.NET;ASP.NET Core ;jQuery;AWS;Google Cloud Platform;Microsoft Azure;Microsoft SQL Server;MongoDB;Redis
+0,1,7,Undergraduate,Gustave Stoaks,Assembly;Python
+0,1,42,PhD,Nola Borland,Matlab
+0,1,8,Undergraduate,Brien Kobisch,JavaScript;PHP;SQL;React.js;Symfony;MySQL
+0,1,4,Other,Kalila Dorr,HTML/CSS;JavaScript;Python;SQL;Git;Flask;DigitalOcean;Heroku;SQLite
+0,1,3,Master,Fitzgerald Giovannardi,Python;R;Git;AWS;Microsoft SQL Server
+0,1,16,Other,Chadd Benzi,C;C#;C++;Java;Kotlin;PHP;SQL;Docker;Git;Kubernetes;Spring;Microsoft Azure;IBM DB2;Microsoft SQL Server;MySQL;Oracle;PostgreSQL
+0,1,26,Master,Justin Skotcher,Bash/Shell;Groovy;HTML/CSS;Java;JavaScript;Ruby;SQL;TypeScript;Docker;Git;Angular;Spring;Google Cloud Platform;Oracle;PostgreSQL
+0,1,10,Undergraduate,Lura Conti,Go;JavaScript;Python;SQL;Docker;Git;DigitalOcean;Cassandra;Elasticsearch;PostgreSQL;Redis
+0,1,14,Undergraduate,Sig Petyt,Groovy;Java;Kotlin;Git;AWS;Google Cloud Platform;SQLite
+0,1,24,Undergraduate,Ogdon Lennarde,Java;JavaScript;SQL;Git;jQuery;Spring;IBM Cloud or Watson;Microsoft Azure;IBM DB2;MariaDB;Microsoft SQL Server;MySQL
+0,1,35,Other,Abbey Revill,C;C++;HTML/CSS;JavaScript
+0,1,6,Undergraduate,Hamilton Elijahu,C;C++;Delphi;Go;HTML/CSS;Perl;Python;R;Ruby;Rust;Docker;Git;Terraform;Django;Flask;AWS;DynamoDB;MariaDB;MongoDB;MySQL;PostgreSQL;SQLite
+0,1,23,Undergraduate,Sigfried Golde,C#;HTML/CSS;JavaScript;PHP;SQL;Docker;Git;Yarn;jQuery;React.js;Symfony;Vue.js;AWS;Elasticsearch;MariaDB;MySQL;PostgreSQL;Redis
+0,1,7,Undergraduate,Auberon Deackes,Java;TypeScript;Git;Angular;Spring
+0,1,20,Master,Florenza Chatt,HTML/CSS;Java;JavaScript;Node.js;TypeScript;Yarn;Angular;Express;React.js;Vue.js;AWS;DigitalOcean;MongoDB;MySQL;PostgreSQL
+0,1,20,Undergraduate,Freida Cudmore,C;C#;C++;HTML/CSS;JavaScript;SQL;TypeScript;Docker;Git;ASP.NET;ASP.NET Core ;jQuery;Vue.js;IBM DB2;Microsoft SQL Server;MySQL;Oracle;PostgreSQL;Redis;SQLite
+0,1,5,Undergraduate,Amandi Baszkiewicz,Assembly;C#;C++;HTML/CSS;JavaScript;Python;R;TypeScript;Git;Angular;Angular.js;jQuery;React.js;DigitalOcean;Microsoft SQL Server;PostgreSQL;SQLite
+0,1,10,Master,Manya Gerram,C;C++;JavaScript;Objective-C;Python;Swift;TypeScript;Docker;Git;Flask;React.js;AWS;DynamoDB;PostgreSQL;Redis
+0,1,12,Other,Gaven Effemy,Bash/Shell;Go;HTML/CSS;JavaScript;Ruby;SQL;TypeScript;Chef;Docker;Git;Terraform;Angular;React.js;Ruby on Rails;AWS;DigitalOcean;Google Cloud Platform;MySQL;PostgreSQL;Redis
+0,1,3,Master,Bay Hardy,JavaScript;Python;Docker;Git;Flask;MariaDB;PostgreSQL
+0,1,10,Undergraduate,Udell Strut,C#;HTML/CSS;SQL;TypeScript;Git;Angular;Angular.js;ASP.NET;ASP.NET Core ;jQuery;Microsoft Azure;MySQL
+0,1,20,Undergraduate,Mariel Lorey,C#;HTML/CSS;JavaScript;Node.js;PHP;Python;SQL;TypeScript;VBA;Docker;Git;Angular;ASP.NET;ASP.NET Core ;jQuery;React.js;Microsoft Azure;MariaDB;Microsoft SQL Server;MySQL
+0,1,15,Undergraduate,Herc Hazeley,C#;Docker;Unity 3D;Xamarin;ASP.NET;ASP.NET Core ;Microsoft Azure;Microsoft SQL Server;SQLite
+0,1,10,Undergraduate,Jefferson Asche,C;C#;C++;HTML/CSS;JavaScript;Node.js;PHP;Python;R;SQL;TypeScript;Docker;Git;Yarn;Angular;Angular.js;Django;jQuery;Laravel;React.js;Symfony;AWS;DigitalOcean;Google Cloud Platform;Heroku;IBM Cloud or Watson;Firebase;MariaDB;Microsoft SQL Server;MongoDB;MySQL;SQLite
+0,1,9,Master,Cheslie Boorn,Ansible;Docker;Git;AWS;Microsoft SQL Server
+0,1,9,Undergraduate,Benni Kearn,Bash/Shell;HTML/CSS;JavaScript;Node.js;SQL;Docker;Git;Kubernetes;Yarn;Express;React.js;Couchbase;Elasticsearch;MariaDB
+0,1,4,Master,Mari Henmarsh,C#;HTML/CSS;Matlab;Python;R;SQL;Git;Django;Flask;AWS;Microsoft Azure;MySQL;PostgreSQL;SQLite
+0,1,24,Undergraduate,Jermayne Banasiak,Bash/Shell;Java;JavaScript;Node.js;Python;TypeScript;Docker;Git;Kubernetes;Terraform;AWS;DynamoDB;MySQL;PostgreSQL;Redis
+0,1,21,Undergraduate,Obie Reast,Bash/Shell;HTML/CSS;Java;JavaScript;Kotlin;Node.js;Objective-C;PHP;SQL;Swift;TypeScript;Docker;Git;Yarn;Express;React.js;AWS;MySQL;SQLite
+0,1,28,Undergraduate,Gabriela Vass,Bash/Shell;C;C++;Docker;Git;DigitalOcean;Google Cloud Platform
+0,1,15,PhD,Orella Gammack,C#;Java;Python;Docker;Git;Kubernetes;Xamarin;ASP.NET;ASP.NET Core ;FastAPI;Flask;React.js;Google Cloud Platform;PostgreSQL
+0,1,10,Undergraduate,Gloria Gritskov,Bash/Shell;Go;HTML/CSS;Java;JavaScript;Kotlin;Node.js;Python;Ruby;TypeScript;Ansible;Docker;Git;Kubernetes;Yarn;Express;FastAPI;Flask;Ruby on Rails;AWS;DigitalOcean;Microsoft Azure;Elasticsearch;MariaDB;MongoDB;MySQL;Oracle;PostgreSQL;Redis
+0,1,31,Undergraduate,Bianca Mahmood,Haskell;HTML/CSS;JavaScript;Node.js;TypeScript;Chef;Docker;Git;Yarn;Express;Gatsby;React.js;AWS;Google Cloud Platform;PostgreSQL;Redis
+0,1,6,Undergraduate,Kellyann Reddlesden,C#;Dart;HTML/CSS;JavaScript;Node.js;SQL;TypeScript;Git;ASP.NET;ASP.NET Core ;jQuery;Vue.js;IBM DB2;Microsoft SQL Server
+0,1,14,Undergraduate,Terri Dalinder,Java;Kotlin;Git;SQLite
+0,1,15,Master,Leland Westcott,Bash/Shell;HTML/CSS;Java;JavaScript;Kotlin;Node.js;SQL;TypeScript;Docker;Git;Kubernetes;Angular;Spring;Vue.js;Elasticsearch;MariaDB;MongoDB;MySQL;PostgreSQL;SQLite
+0,1,30,Undergraduate,Aylmar Hasser,Bash/Shell;Groovy;HTML/CSS;Java;JavaScript;Kotlin;Node.js;PHP;Python;Ruby;SQL;TypeScript;Docker;Git;Terraform;Angular.js;jQuery;React.js;Ruby on Rails;Spring;Vue.js;AWS;DigitalOcean;DynamoDB;Elasticsearch;MongoDB;MySQL;PostgreSQL;Redis
+0,1,13,Undergraduate,Miguela Chessum,Dart;HTML/CSS;JavaScript;Node.js;PHP;Docker;Git;Vue.js;Google Cloud Platform;MariaDB;Microsoft SQL Server;MySQL;SQLite
+0,1,10,Other,Diena O'Sirin,HTML/CSS;JavaScript;Node.js;Rust;TypeScript;Docker;Git;Unity 3D;Express;React.js;AWS;DigitalOcean;MySQL;PostgreSQL
+0,1,12,Undergraduate,Jamaal Heinzler,Go;HTML/CSS;JavaScript;Python;SQL;TypeScript;Ansible;Docker;Git;Kubernetes;Terraform;Vue.js;AWS;Elasticsearch;PostgreSQL;Redis
+0,1,7,Undergraduate,Sigrid Chstney,C#;C++;Docker;Angular;ASP.NET;ASP.NET Core ;Google Cloud Platform;Microsoft Azure;Microsoft SQL Server;MongoDB;PostgreSQL;Redis
+0,1,12,Master,Bren Bartosch,Bash/Shell;Objective-C;Swift;Git;Microsoft Azure;SQLite
+0,1,6,Undergraduate,Anallese Hesbrook,C;C#;C++;HTML/CSS;Node.js;SQL;Git;Kubernetes;Xamarin;Microsoft Azure;Oracle
+0,1,18,Undergraduate,Norrie Halpine,C#;Git
+0,1,2,Undergraduate,Sheri McAusland,Bash/Shell;HTML/CSS;JavaScript;Python;SQL;Git;Django;React.js;AWS;IBM DB2;Microsoft SQL Server;SQLite
+0,1,5,Master,Lorrayne Ianetti,Python;SQL;Git;Flask;AWS;PostgreSQL;SQLite
+0,1,16,PhD,Caralie Sallows,R
+0,1,9,Other,Renee Barz,C#;HTML/CSS;Java;SQL;VBA;ASP.NET;ASP.NET Core ;Microsoft Azure;Microsoft SQL Server;MySQL
+0,1,13,PhD,Nikolia Challenor,HTML/CSS;Java;PHP
+0,1,6,Undergraduate,Finley Sprowson,HTML/CSS;JavaScript;Node.js;TypeScript;Docker;Git;React.js;Vue.js;AWS;Google Cloud Platform;Microsoft Azure
+0,1,13,Master,Luella McKeevers,C#;HTML/CSS;Java;JavaScript;Node.js;SQL;TypeScript;Git;jQuery;Vue.js;Microsoft SQL Server;Redis
+0,1,12,Undergraduate,Markus Deverell,Bash/Shell;C;Java;Kotlin;Perl;PowerShell;Python;Docker;Git;Kubernetes;IBM Cloud or Watson
+0,1,15,Master,Guinevere Howat,HTML/CSS;JavaScript;Node.js;Objective-C;Swift;TypeScript;Git;Gatsby;React.js;Google Cloud Platform;Microsoft Azure;Firebase;SQLite
+0,1,10,Master,Georgie Hulatt,Bash/Shell;C;C++;Java;JavaScript;Node.js;PHP;Python;Ruby;SQL;TypeScript;Ansible;Docker;Git;Yarn;Angular;Angular.js;Drupal;Express;jQuery;Laravel;Symfony;MariaDB;MySQL;SQLite
+0,1,7,Undergraduate,Anderson Chittie,C#;HTML/CSS;SQL;TypeScript;Docker;Git;Kubernetes;Terraform;Yarn;ASP.NET Core ;React.js;Microsoft Azure;Microsoft SQL Server
+0,1,6,Master,Gearalt Guion,Bash/Shell;Python;Git;Flask;Vue.js
+1,1,10,Undergraduate,Avigdor Brown,HTML/CSS;JavaScript;Node.js;PHP;SQL;TypeScript;Docker;Git;Unreal Engine;Express;Laravel;Vue.js;Heroku;MariaDB;MongoDB;MySQL;PostgreSQL;SQLite
+0,1,7,Master,Bobbie Silverston,HTML/CSS;JavaScript;Node.js;PHP;SQL;TypeScript;Docker;Angular;Express;React.js;Symfony;Microsoft SQL Server;MySQL;Oracle;PostgreSQL
+0,1,10,Undergraduate,Katleen Eyden,C;HTML/CSS;JavaScript;Node.js;TypeScript;Git;React.js;Microsoft Azure
+0,1,4,Other,Wandie Dibbert,C#;HTML/CSS;JavaScript;SQL;VBA;Git;ASP.NET;ASP.NET Core ;jQuery;Microsoft SQL Server
+0,1,24,Master,Eolande Shynn,Bash/Shell;Go;HTML/CSS;JavaScript;SQL;TypeScript;Angular;PostgreSQL
+0,1,18,Undergraduate,Cleon Davenhill,Bash/Shell;C;C++;JavaScript;Python;Git
+0,1,12,Undergraduate,Wyndham Imlock,Java;Scala;Docker;Git;Kubernetes;AWS;Couchbase;Elasticsearch;Microsoft SQL Server
+0,1,37,Undergraduate,Christabel Goude,C#;Dart;Go;Java;JavaScript;Matlab;SQL;Xamarin;Angular;Angular.js;ASP.NET;jQuery;React.js;AWS;IBM Cloud or Watson;Microsoft Azure;Microsoft SQL Server
+0,1,20,Undergraduate,Dory Kelinge,Bash/Shell;Perl;PowerShell;VBA;Docker;Git;AWS
+0,1,9,Undergraduate,Darci Grubb,Bash/Shell;HTML/CSS;Java;JavaScript;Python;SQL;Docker;Git;Angular.js;ASP.NET;jQuery;Spring;AWS;DynamoDB;IBM DB2;Microsoft SQL Server;MySQL;Oracle;PostgreSQL;Redis;SQLite
+0,1,5,Other,Adams Binton,HTML/CSS;JavaScript;Node.js;Python;Ruby;SQL;TypeScript;Docker;Git;Yarn;jQuery;React.js;Ruby on Rails;Google Cloud Platform;Heroku;Firebase;MySQL
+0,1,8,Other,Carina Eacle,HTML/CSS;JavaScript;PHP;SQL;Docker;Git;jQuery;Laravel;React.js;Vue.js;AWS;MySQL
+0,1,24,Undergraduate,Hal Pinching,Bash/Shell;C#;HTML/CSS;JavaScript;Node.js;SQL;Git;Puppet;Express;React.js;Microsoft Azure;IBM DB2;PostgreSQL
+0,1,12,Other,Sherwood McGorley,Dart;HTML/CSS;JavaScript;TypeScript;Docker;Git;Angular;Firebase;MySQL;SQLite
+1,1,10,Master,Ichabod Addenbrooke,Assembly;Bash/Shell;C;C#;C++;Go;HTML/CSS;Java;JavaScript;Matlab;PHP;Python;R;SQL;TypeScript;VBA;Docker;Git;Unity 3D;Xamarin;Angular;Django;Drupal;jQuery;Laravel;React.js;Spring;Microsoft SQL Server;MongoDB;MySQL;Oracle;PostgreSQL
+0,1,5,Other,Lucinda Janiszewski,HTML/CSS;JavaScript;Node.js;SQL;TypeScript;Docker;Git;Yarn;Express;React.js;Vue.js;Heroku;Firebase;MongoDB;MySQL;PostgreSQL;Redis
+0,1,9,Undergraduate,Prudence Clemson,C#;JavaScript;Kotlin;TypeScript;Git;Unity 3D;Angular;React.js;Firebase;MySQL
+0,1,30,Other,Sim Belford,Bash/Shell;Java;SQL;Ansible;Docker;Git;Yarn;AWS;Oracle;PostgreSQL
+0,1,10,PhD,Hamish Woodeson,Matlab;Python;Ruby;Git;Flask
+0,1,23,Undergraduate,Vassily Covely,HTML/CSS;JavaScript;Node.js;PHP;SQL;Git;React.js;MongoDB;MySQL
+0,1,20,Other,Zelda Shillito,Bash/Shell;HTML/CSS;JavaScript;Node.js;PHP;Python;SQL;Git;Yarn;Laravel;Symfony;AWS;Heroku;MariaDB;MySQL;PostgreSQL;SQLite
+0,1,6,Undergraduate,Sibylle Rudwell,JavaScript;Kotlin;Docker;Git;MySQL;SQLite
+0,1,25,Undergraduate,Aurlie Lodewick,C#;HTML/CSS;TypeScript;Docker;Git;Angular;ASP.NET Core ;Microsoft Azure;Microsoft SQL Server;SQLite
+0,1,5,Undergraduate,Joeann Schowenburg,C;C++;Dart;Java;JavaScript;Kotlin;Node.js;R;Git;Puppet;Django;Flask;React.js;Heroku;Firebase;MySQL;Oracle;SQLite
+0,1,22,Master,Hamid Keggin,Bash/Shell;C;C#;HTML/CSS;JavaScript;Node.js;Python;Git;Unity 3D;AWS
+0,1,21,Undergraduate,Stirling Vuittet,Bash/Shell;Go;Groovy;HTML/CSS;Java;JavaScript;Node.js;Python;TypeScript;Git;Kubernetes;Angular;Angular.js;Express;React.js;Spring;AWS;Google Cloud Platform;Microsoft Azure;Elasticsearch;MongoDB;SQLite
+0,1,14,Master,Anita Deeson,C;Python;Rust;Ansible;Docker;Git
+0,1,31,Master,Elonore Brockley,Assembly;C;C#;VBA;SQLite
+0,1,44,Undergraduate,Honoria Carpe,Assembly;Bash/Shell;C;Go;Python;Rust;Git
+0,1,40,Undergraduate,Lesli Cawsby,Bash/Shell;Dart;HTML/CSS;JavaScript;Python;Docker;Git;Angular.js;Django;Vue.js;Heroku;PostgreSQL;SQLite
+0,1,22,NoHigherEd,Shandee Kettlestringes,Bash/Shell;HTML/CSS;Java;JavaScript;Python;Git
+0,1,20,Master,Dewie Monnery,Bash/Shell;C#;Java;Kotlin;SQL;VBA;Docker;Git;Kubernetes;Spring;IBM Cloud or Watson;Microsoft SQL Server;PostgreSQL
+0,1,10,Master,Lisbeth Meas,C#;PowerShell;Python;Git;Microsoft Azure;Microsoft SQL Server;SQLite
+0,1,14,Master,Danella MacGorrie,Objective-C;Ruby;Swift;Git;Unity 3D;MySQL
+0,1,14,Undergraduate,Sloane LeEstut,HTML/CSS;JavaScript;TypeScript;Express;React.js;Vue.js;DigitalOcean;MongoDB;MySQL;Redis
+0,1,25,Undergraduate,Tymothy Aglione,C#;HTML/CSS;JavaScript;Kotlin;Node.js;Objective-C;PowerShell;SQL;TypeScript;Git;ASP.NET;ASP.NET Core ;Express;jQuery;React.js;AWS;Microsoft Azure;Firebase;Microsoft SQL Server;Redis;SQLite
+0,1,7,Undergraduate,Joseito Conibear,C;C++;PHP;Python;Git;Flask;MongoDB;MySQL;Oracle;Redis
+0,1,11,NoHigherEd,Ode Breagan,Bash/Shell;HTML/CSS;JavaScript;PHP;PowerShell;Ruby;SQL;TypeScript;Docker;Git;Yarn;jQuery;Laravel;Ruby on Rails;Vue.js;MariaDB;MongoDB;MySQL;PostgreSQL;SQLite
+0,1,17,Master,Reta Ruf,C++;Java;JavaScript;Kotlin;Python;SQL;Ansible;Docker;Git;Kubernetes;AWS;Elasticsearch;Oracle;Redis
+0,1,6,Undergraduate,Floyd Millan,C#;HTML/CSS;JavaScript;Node.js;PHP;PowerShell;TypeScript;Docker;Git;Xamarin;Angular;ASP.NET;ASP.NET Core ;Microsoft SQL Server;PostgreSQL
+0,1,18,Undergraduate,Naomi Conws,Go;Docker;Cassandra
+0,1,41,Other,Karil Newhouse,Python;ASP.NET Core ;Microsoft SQL Server;MySQL;PostgreSQL;SQLite
+0,1,14,Master,Brnaby Allanby,LISP;PHP;Python;Scala;SQL;Docker;MySQL;PostgreSQL;SQLite
+0,1,4,Undergraduate,Rawley Janton,HTML/CSS;JavaScript;Node.js;PHP;SQL;Git;Laravel;React.js;Symfony;Vue.js;AWS;DigitalOcean;MySQL;Redis;SQLite
+0,1,4,Undergraduate,Nadiya Garratty,HTML/CSS;Java;JavaScript;Ruby;SQL;TypeScript;Git;Yarn;React.js;Ruby on Rails;Spring;MySQL;PostgreSQL
+1,1,15,Other,Noe Fetherstone,Bash/Shell;JavaScript;PHP;SQL;Git;AWS;DigitalOcean;MySQL
+0,1,18,Undergraduate,Elicia Penhalewick,Bash/Shell;C;C++;HTML/CSS;Java;JavaScript;SQL;Docker;Git;React.js;Spring;AWS;Google Cloud Platform;Oracle;PostgreSQL
+0,1,20,PhD,Piper Sabati,C++;Elixir;Rust;Kubernetes;Terraform;AWS
+0,1,15,PhD,Lorianne Nutley,C;C++;Java;Matlab;R;Git;Vue.js
+0,1,11,Master,Lev Vincent,Python;Docker;Git;Kubernetes;AWS;DigitalOcean;Google Cloud Platform;Microsoft Azure;MongoDB;PostgreSQL
+0,1,12,Undergraduate,Sigismond Turmell,C++;HTML/CSS;Java;JavaScript;PHP;Python;SQL;Docker;Git;Angular;Angular.js;AWS;Google Cloud Platform;Elasticsearch;MongoDB;MySQL;Oracle
+0,1,30,PhD,Aggy Summerill,JavaScript;Python;Docker;Git;Kubernetes;Django;React.js;AWS;SQLite
+0,1,18,NoHigherEd,Charleen Shynn,C#;Git;ASP.NET Core ;Vue.js;Microsoft Azure;Microsoft SQL Server
+0,1,15,Undergraduate,Gardy Yitzovitz,Bash/Shell;HTML/CSS;JavaScript;Node.js;TypeScript;Docker;Git;Yarn;Express;Gatsby;jQuery;React.js
+0,1,21,Undergraduate,Wandis Mulvy,HTML/CSS;JavaScript;Angular.js;jQuery
+0,1,8,Master,Caren Bromehed,Assembly;Bash/Shell;C;C++;PowerShell;Python;Git;Microsoft Azure
+0,1,12,Undergraduate,Nil Mitkcov,Bash/Shell;JavaScript;Python;SQL;Docker;Git;Django;jQuery;AWS;Google Cloud Platform;Heroku;MongoDB;MySQL;PostgreSQL;SQLite
+0,1,6,Undergraduate,Aleen Holdey,Dart;Python;Docker;Git;AWS;Google Cloud Platform;Firebase;MongoDB;PostgreSQL;SQLite
+1,1,6,Other,Joellyn Firidolfi,HTML/CSS;JavaScript;PHP;Python;SQL;Docker;Git;jQuery;Symfony;MySQL
+0,1,8,NoHigherEd,Tatiania Faragher,Dart;HTML/CSS;JavaScript;Node.js;PHP;SQL;TypeScript;Git;Yarn;Angular;Express;React.js;Symfony;Google Cloud Platform;Elasticsearch;Firebase;MySQL
+0,1,27,Master,Ingar De Bischof,Go;Groovy;Java;Kotlin;Python;Ansible;Docker;Git;Kubernetes;Microsoft Azure;MariaDB;Microsoft SQL Server;MySQL;Oracle;PostgreSQL;Redis
+0,1,13,PhD,Estrella Shepheard,Bash/Shell;C#;HTML/CSS;Java;JavaScript;Kotlin;PowerShell;Python;SQL;Git;ASP.NET;Flask;jQuery;Microsoft Azure;Firebase;Microsoft SQL Server;SQLite
+0,1,2,Master,Donalt Doorey,Haskell;JavaScript
+0,1,24,Undergraduate,Nowell Springle,C#;Docker;Git;Kubernetes;ASP.NET;ASP.NET Core ;Microsoft Azure;Microsoft SQL Server
+0,1,25,Master,Edeline Gruby,C#;HTML/CSS;JavaScript;Git;ASP.NET Core ;Microsoft Azure;Microsoft SQL Server
+0,1,42,Undergraduate,Collete Attawell,Kotlin;Git
+0,1,7,Other,Jethro Slowcock,C;C#;C++;HTML/CSS;Java;JavaScript;Node.js;Objective-C;PHP;Python;R;Ruby;SQL;TypeScript;Docker;Git;Unity 3D;Xamarin;Yarn;Angular;Angular.js;ASP.NET;ASP.NET Core ;Django;Express;jQuery;Laravel;React.js;MongoDB;MySQL
+0,1,30,Other,Arleyne Sully,C#;HTML/CSS;JavaScript;SQL;Docker;Git;Kubernetes;Angular;ASP.NET;ASP.NET Core ;jQuery;AWS;Microsoft Azure;Microsoft SQL Server
+0,1,9,Other,Boris Sambedge,C#;HTML/CSS;JavaScript;Node.js;PowerShell;SQL;Docker;Git;Xamarin;ASP.NET Core ;jQuery;Microsoft Azure;Firebase;MariaDB;Microsoft SQL Server;MySQL
+1,1,26,Undergraduate,Lenka Leverington,Bash/Shell;C;C++;Go;Groovy;Python;Ansible;Docker;Git;Yarn;Angular;React.js;Google Cloud Platform;MySQL;PostgreSQL;SQLite
+0,1,26,Other,Harwell Hucknall,C#;Java;Git;Google Cloud Platform;Microsoft SQL Server;SQLite
+0,1,15,Master,Flori Eckart,Bash/Shell;C;C++;Java;Rust;SQL;Ansible;Docker;Git;Kubernetes;DigitalOcean;Cassandra;PostgreSQL;SQLite
+0,1,10,Undergraduate,Shanna Farguhar,C#;HTML/CSS;JavaScript;Node.js;TypeScript;Docker;Git;Unity 3D;Yarn;React.js;AWS;Google Cloud Platform;Microsoft Azure;Firebase;MongoDB;Oracle
+0,1,20,PhD,Phylis Lampart,Bash/Shell;Perl;R;SQL;DigitalOcean;Google Cloud Platform;IBM DB2;Oracle
+0,1,12,Undergraduate,Alfreda Kent,C#;Dart;Delphi;HTML/CSS;Java;JavaScript;Kotlin;Node.js;PHP;PowerShell;Python;Ruby;SQL;TypeScript;Docker;Git;Kubernetes;Unity 3D;Unreal Engine;ASP.NET;ASP.NET Core ;Django;React.js;AWS;Couchbase;Elasticsearch;MySQL;SQLite
+1,1,12,Undergraduate,Winston Housecraft,Python;Docker;Git;Django;Flask;AWS;DigitalOcean;PostgreSQL
+0,1,25,Master,Cherey Sibun,C#;C++;Git;Unity 3D
+0,1,6,Other,Mabelle Mountfort,C#;HTML/CSS;Java;JavaScript;Kotlin;PHP;Python;Scala;SQL;Angular;Angular.js;ASP.NET;ASP.NET Core ;Spring;AWS;Microsoft Azure;Firebase;MongoDB;MySQL;PostgreSQL;Redis;SQLite
+0,1,25,Other,Catriona Berick,C;Go;Perl;Python;Git;Kubernetes;Terraform;Google Cloud Platform;MySQL;PostgreSQL;Redis
+0,1,8,Master,Marianne Usborn,Java;JavaScript;Python;SQL;Docker;Git;Spring;AWS;Elasticsearch;MySQL
+0,1,35,PhD,Gonzalo Claricoats,APL;Erlang;Go;Python;Chef;Git;Kubernetes;Flask;IBM Cloud or Watson
+0,1,16,Master,Patrizia Houldcroft,Bash/Shell;JavaScript;Python;SQL;Docker;Git;Django;Flask;Microsoft Azure;MongoDB;PostgreSQL;SQLite
+0,1,14,Undergraduate,Hervey Millott,JavaScript;TypeScript;Git;Angular;Express;Elasticsearch;MongoDB
+0,1,6,Undergraduate,Joceline Gauge,Elixir;HTML/CSS;JavaScript;Ruby;Docker;Git;React.js;Ruby on Rails;AWS;DigitalOcean;Heroku;MySQL;PostgreSQL;Redis
+0,1,15,NoHigherEd,Dniren Gallego,Bash/Shell;Python;Ansible;Docker;Git;Kubernetes;AWS;DigitalOcean;Elasticsearch;PostgreSQL
+0,1,3,Master,Pamella Simmank,HTML/CSS;JavaScript;Node.js;Docker;Git;Yarn;React.js;Google Cloud Platform;MySQL
+0,1,12,Undergraduate,Even Prinnett,HTML/CSS;JavaScript;Node.js;TypeScript;Git;Yarn;React.js
+0,1,7,Undergraduate,Simmonds Henrionot,Groovy;Java;JavaScript;Node.js;SQL;TypeScript;Docker;Git;Kubernetes;Unity 3D;Angular;Spring;Elasticsearch;MongoDB;Oracle;Redis
+0,1,9,Undergraduate,Emeline Grigore,C;HTML/CSS;JavaScript;Node.js;SQL;TypeScript;Docker;Git;Angular;Angular.js;Express;jQuery;DigitalOcean;Microsoft Azure;Elasticsearch;Microsoft SQL Server;MongoDB;MySQL;PostgreSQL;Redis
+1,1,20,Master,Tillie Baden,C#;C++
+0,1,10,Undergraduate,Mair Worssam,C#;HTML/CSS;Java;JavaScript;PowerShell;SQL;TypeScript;Docker;Git;Unity 3D;Yarn;Angular;Angular.js;ASP.NET;ASP.NET Core ;jQuery;React.js;Spring;Vue.js;Heroku;Microsoft Azure;Firebase;Microsoft SQL Server;MySQL
+1,1,7,Undergraduate,Alexis Latus,Assembly;Bash/Shell;C;C++;HTML/CSS;Java;JavaScript;Matlab;Python;R;SQL;TypeScript;Git;Angular;Angular.js;Django;Spring;AWS;Microsoft SQL Server;MySQL;Oracle;SQLite
+0,1,9,Undergraduate,Rodrique Gulberg,Go;JavaScript;SQL;TypeScript;Angular;AWS;Elasticsearch;MariaDB
+0,1,10,Other,Bink Ginn,Bash/Shell;C;C++;HTML/CSS;JavaScript;Node.js;Python;TypeScript;Docker;Git;Yarn;Angular;Django;Express;FastAPI;Flask;React.js;Heroku;MongoDB;SQLite
+0,1,9,Undergraduate,Ginger Rolling,HTML/CSS;Java;JavaScript;Node.js;SQL;Git;jQuery;React.js;Spring;AWS;Elasticsearch;MySQL;PostgreSQL
+0,1,13,Undergraduate,Monah Kemish,C#;HTML/CSS;Java;JavaScript;Objective-C;SQL;Swift;VBA;Git;Unity 3D;jQuery;Microsoft Azure;Firebase
+0,1,15,Master,Sheila Dewen,Bash/Shell;HTML/CSS;Java;JavaScript;Node.js;SQL;TypeScript;Git;Angular;Spring;AWS;Oracle;PostgreSQL
+0,1,8,NoHigherEd,Laina Wards,HTML/CSS;JavaScript;Node.js;TypeScript;Docker;Git;Express;Vue.js;Couchbase
+0,1,6,Undergraduate,Maisie Itschakov,Bash/Shell;Groovy;HTML/CSS;Java;JavaScript;Kotlin;Node.js;PHP;Python;Scala;SQL;TypeScript;Docker;Git;Kubernetes;Pulumi;Terraform;Angular;ASP.NET;ASP.NET Core ;jQuery;Laravel;Spring;Vue.js;Google Cloud Platform;Elasticsearch;MongoDB;MySQL;PostgreSQL;Redis
+0,1,8,Undergraduate,Abigael Asipenko,C#;HTML/CSS;JavaScript;Node.js;R;Ruby;SQL;TypeScript;Git;Angular;Angular.js;ASP.NET Core ;Express;React.js;Ruby on Rails;Vue.js;AWS;Microsoft Azure;DynamoDB;Microsoft SQL Server
+0,1,7,Master,Currie Jirek,Bash/Shell;Java;Python;SQL;Docker;Git;AWS;MySQL
+0,1,11,Master,Hazel Billsberry,Bash/Shell;Java;JavaScript;Python;Docker;Git;jQuery;React.js;Spring;Elasticsearch;MySQL;PostgreSQL;SQLite
+0,1,22,Undergraduate,Toni Kopp,Bash/Shell;Ruby;SQL;Git;Oracle
+0,1,6,Undergraduate,Alejoa Moan,Bash/Shell;Go;HTML/CSS;JavaScript;Node.js;Python;TypeScript;Docker;Git;Kubernetes;Terraform;React.js;Vue.js;DigitalOcean;Microsoft Azure;MongoDB;PostgreSQL
+0,1,35,Master,Alecia Espinheira,C#;HTML/CSS;Java;JavaScript;SQL;TypeScript;Git;Xamarin;Angular;ASP.NET;ASP.NET Core ;Microsoft Azure;MariaDB;Microsoft SQL Server;SQLite
+0,1,12,Other,Annemarie Bernuzzi,Bash/Shell;C;HTML/CSS;Java;JavaScript;Python;SQL;Git;Flask;jQuery;Vue.js;AWS;DigitalOcean;Google Cloud Platform;Microsoft Azure;MariaDB;MySQL;SQLite
+0,1,6,Master,Leontyne Block,Bash/Shell;C#;C++;HTML/CSS;JavaScript;Node.js;TypeScript;Git;Kubernetes;Angular;Angular.js;ASP.NET Core ;Express;React.js;AWS;Google Cloud Platform;Firebase
+0,1,5,Undergraduate,Antin Darkott,Bash/Shell;JavaScript;Python;SQL;Docker;Git;Kubernetes;Flask;AWS;Google Cloud Platform;Elasticsearch;Firebase;Microsoft SQL Server;PostgreSQL
+0,1,10,Undergraduate,Lucais Tinham,Java;Python;Ansible;Docker;Git;Django;Spring;AWS;DigitalOcean;Elasticsearch;MariaDB;MySQL;Oracle;PostgreSQL;Redis
+0,1,20,Other,Fidelia Vedishchev,Bash/Shell;C#;C++;Go;HTML/CSS;Java;JavaScript;Node.js;Python;SQL;TypeScript;VBA;Git;ASP.NET;ASP.NET Core ;DigitalOcean;Cassandra;Elasticsearch;MariaDB;Microsoft SQL Server;PostgreSQL;Redis;SQLite
+0,1,15,Master,Dallas Murden,C#;C++;Python;Git;Django;React.js;AWS
+0,1,9,Undergraduate,Rikki Morot,HTML/CSS;JavaScript;Node.js;TypeScript;Deno;Docker;Git;Yarn;Angular;Angular.js;Express;FastAPI;Gatsby;React.js;Svelte;Vue.js;AWS;DigitalOcean;Heroku;Firebase;MongoDB;MySQL;PostgreSQL;Redis
+0,1,8,Undergraduate,Sharia Whitman,C#;Groovy;PHP;Angular.js
+0,1,8,Undergraduate,Antony Nelane,Bash/Shell;Go;JavaScript;Node.js;Python;Docker;Git;React.js;Google Cloud Platform;MongoDB;PostgreSQL
+0,1,21,Undergraduate,Terry Fibbitts,C#;HTML/CSS;JavaScript;Node.js;PowerShell;SQL;ASP.NET;jQuery;Vue.js;AWS;Google Cloud Platform;Microsoft Azure;Microsoft SQL Server
+0,1,18,NoHigherEd,Rebeka Petracco,Bash/Shell;HTML/CSS;JavaScript;PHP;Git;jQuery;Laravel;Svelte;Vue.js;MySQL;SQLite
+0,1,25,PhD,Frankie Henkmann,Python;Docker;Git;AWS;MariaDB;PostgreSQL
+0,1,20,Undergraduate,Xylina Partkya,C#;HTML/CSS;VBA;ASP.NET;Microsoft Azure;Microsoft SQL Server
+0,1,10,Undergraduate,Miof mela Gogie,Scala;SQL;TypeScript;Docker;Git;Terraform;React.js;AWS;Microsoft Azure;PostgreSQL
+0,1,12,Master,Rowena Filipov,Java;Matlab;Python;SQL;Docker;Git;IBM Cloud or Watson;PostgreSQL
+0,1,10,Undergraduate,Deloris Gascoine,Bash/Shell;Haskell;Rust;Ansible;Docker;Git;Kubernetes;PostgreSQL
+0,1,12,Master,Sallyanne Garnson,C;Java;Kotlin;Git;Drupal;jQuery;Google Cloud Platform;Microsoft Azure;MySQL;SQLite
+1,1,28,Undergraduate,Vivyan Balham,C;C#;Crystal;JavaScript;PHP;PowerShell;Python;SQL;VBA;Git;ASP.NET;ASP.NET Core ;jQuery;MariaDB;Microsoft SQL Server;MySQL;PostgreSQL
+0,1,3,Undergraduate,Steve Fibbings,Assembly;Bash/Shell;C;C++;Dart;HTML/CSS;Java;JavaScript;Matlab;Node.js;PHP;Python;SQL;Docker;Git;Yarn;Django;Express;Flask;Laravel;React.js;Spring;AWS;Google Cloud Platform;Heroku;Firebase;MongoDB;MySQL;SQLite
+0,1,18,Undergraduate,Rutger Baynton,Bash/Shell;Go;JavaScript;Node.js;PHP;SQL;Swift;TypeScript;Docker;Git;Kubernetes;Terraform;Angular;Django;Express;React.js;Symfony;AWS;DigitalOcean;Google Cloud Platform;Oracle Cloud Infrastructure;Elasticsearch;Firebase;MariaDB;MongoDB;MySQL;PostgreSQL;Redis;SQLite
+0,1,39,PhD,Pearla Gopsell,Bash/Shell;C;Git;Puppet;SQLite
+0,1,15,Undergraduate,De witt Baine,Bash/Shell;JavaScript;Node.js;SQL;TypeScript;Docker;Git;Yarn;Express;React.js;AWS;Heroku;MongoDB;Redis
+0,1,7,Master,Lisetta Baume,HTML/CSS;Java;JavaScript;Node.js;Python;SQL;TypeScript;Git;Unity 3D;Yarn;React.js;AWS;Microsoft Azure;MongoDB;MySQL;Oracle;PostgreSQL;Redis
+0,1,11,Undergraduate,Lonnie Barhims,C;C++;HTML/CSS;Objective-C;Python;Swift;Docker;Git;MySQL;PostgreSQL;SQLite
+0,1,16,Undergraduate,Jeffy Arniz,HTML/CSS;Java;JavaScript;Node.js;PHP;SQL;Swift;TypeScript;Docker;Git;Yarn;Angular;Express;Gatsby;React.js;AWS;Google Cloud Platform;Heroku;Elasticsearch;Firebase;MariaDB;MongoDB;MySQL;PostgreSQL;Redis;SQLite
+0,1,6,Undergraduate,Prissie Schout,HTML/CSS;JavaScript;TypeScript;Git;Yarn;Angular;Angular.js;jQuery;Heroku
+0,1,15,Master,Shannen Boick,Go;HTML/CSS;JavaScript;Python;TypeScript;Docker;Flow;Git;Kubernetes;Terraform;Yarn;React.js;AWS;Google Cloud Platform;DynamoDB;Elasticsearch;MongoDB
+0,1,6,Other,Cesaro Scarlet,Assembly;HTML/CSS;Node.js;Python;SQL;Ansible;Docker;Git;Angular;Angular.js;Django;Flask;jQuery;AWS;Microsoft SQL Server;MySQL;PostgreSQL;SQLite
+0,1,40,Master,Godwin Cobbledick,Bash/Shell;Groovy;Java;JavaScript;Git;jQuery;Spring;Elasticsearch;MongoDB
+0,1,30,PhD,Oby Leahy,C#;Git;Microsoft SQL Server
+0,1,14,Undergraduate,Finn Andrick,Bash/Shell;PowerShell;Ansible;Git;DigitalOcean;Oracle;PostgreSQL
+0,1,6,Undergraduate,Lainey Barnshaw,Java;SQL;Unity 3D;jQuery;MySQL;Oracle
+0,1,6,NoHigherEd,Shannah O' Culligan,C#;C++;HTML/CSS;JavaScript;TypeScript;Git;Xamarin;Yarn;ASP.NET Core ;React.js;MySQL;PostgreSQL
+0,1,3,Undergraduate,Denna Quade,Bash/Shell;Dart;HTML/CSS;Java;JavaScript;Node.js;PHP;SQL;TypeScript;Git;Express;DigitalOcean;Heroku;MongoDB;MySQL;SQLite
+0,1,20,Undergraduate,Aubrie Abeles,C#;HTML/CSS;JavaScript;SQL;Git;Xamarin;ASP.NET;ASP.NET Core ;Microsoft Azure;Microsoft SQL Server;PostgreSQL
+0,1,5,Master,Eve Goforth,Bash/Shell;JavaScript;Ruby;Flow;Git;Kubernetes;React.js;Ruby on Rails;AWS;PostgreSQL;Redis
+0,1,23,Other,Huntley Bodsworth,C#;HTML/CSS;JavaScript;SQL;Git;ASP.NET;jQuery;Microsoft SQL Server
+0,1,20,Undergraduate,Linc Hollington,Bash/Shell;Java;Python;Rust;SQL;Docker;Git;Elasticsearch
+0,1,13,Undergraduate,Meryl Dyer,Groovy;Java;Kotlin;Swift;Git;AWS;Google Cloud Platform;Firebase;SQLite
+0,1,16,Undergraduate,Rosita Yurinov,Java;Git;Kubernetes;Spring;AWS;Microsoft Azure;Cassandra;DynamoDB;Firebase;Microsoft SQL Server;PostgreSQL;Redis
+0,1,12,Master,Bryan Callard,HTML/CSS;JavaScript;Node.js;TypeScript;Docker;Git;Kubernetes;Yarn;jQuery;React.js;AWS;Google Cloud Platform;Microsoft Azure;PostgreSQL
+0,1,10,Undergraduate,Hadleigh Onele,Bash/Shell;HTML/CSS;Java;JavaScript;Node.js;PHP;PowerShell;Python;SQL;TypeScript;Docker;Git;Angular;Flask;Spring;AWS;DynamoDB;Elasticsearch;Microsoft SQL Server;MySQL;Oracle;PostgreSQL;Redis
+0,1,22,Undergraduate,Neda Linny,Bash/Shell;C;C++;Matlab;Python;VBA;Docker;Git;Django;Flask;MariaDB;MySQL;Oracle;SQLite
+0,1,1,Undergraduate,Eli Inmett,HTML/CSS;JavaScript;Git;React.js
+0,1,12,Master,Elinor Baudesson,Python;Rust;Docker;Git;Kubernetes;FastAPI;Flask;AWS;MongoDB;PostgreSQL
+0,1,30,Undergraduate,Lauralee de Guerre,C#;Dart;HTML/CSS;JavaScript;Kotlin;Node.js;Objective-C;PHP;PowerShell;Python;Ruby;SQL;Swift;TypeScript;Git;Unity 3D;Angular;Angular.js;Django;Express;Flask;jQuery;React.js;Ruby on Rails;AWS;DigitalOcean;Heroku;Cassandra;DynamoDB;Firebase;MariaDB;MongoDB;MySQL;PostgreSQL;Redis;SQLite
+0,1,22,Master,Carmelina Fassman,HTML/CSS;JavaScript;Node.js;SQL;TypeScript;Ansible;Deno;Docker;Git;Kubernetes;Yarn;React.js;Vue.js;Google Cloud Platform;Microsoft Azure;MongoDB;MySQL
+0,1,30,Master,Jasen Holbarrow,Bash/Shell;Dart;HTML/CSS;Java;JavaScript;Kotlin;Node.js;SQL;Docker;Kubernetes;Express;Google Cloud Platform;MongoDB;PostgreSQL
+0,1,20,Other,Elden Lilliman,JavaScript;PHP;SQL;Laravel;Vue.js;MySQL
+0,1,13,Master,Olive Heady,Bash/Shell;Java;Python;Scala;SQL;Docker;Git;MariaDB;MySQL;Oracle;PostgreSQL
+0,1,3,Undergraduate,Valaria Dreelan,HTML/CSS;JavaScript;Python;ASP.NET;AWS
+0,1,25,Undergraduate,Margo Petegre,Bash/Shell;JavaScript;Node.js;Ruby;TypeScript;Chef;Docker;Git;AWS;Couchbase;DynamoDB;Elasticsearch;MongoDB
+0,1,17,Undergraduate,Guthrey Dyhouse,Bash/Shell;Kotlin;Python;Rust;Git
+0,1,14,Other,Barrett Vequaud,C;C#;C++;HTML/CSS;Java;JavaScript;Node.js;SQL;TypeScript;Git;ASP.NET;ASP.NET Core ;jQuery;Microsoft Azure;Microsoft SQL Server;MongoDB;MySQL
+0,1,13,Other,Sherill Iacovazzi,HTML/CSS;JavaScript;PHP;R;SQL;Docker;Git;jQuery;Heroku;MariaDB;MySQL
+0,1,4,Other,Dorena Knox,Bash/Shell;C;C++;HTML/CSS;Java;JavaScript;Kotlin;Node.js;PowerShell;Python;SQL;TypeScript;Git;Yarn;Express;jQuery;React.js;Heroku;Firebase;MongoDB
+0,1,13,Master,Emmaline Sima,JavaScript;Python;TypeScript;Ansible;Docker;Git;Kubernetes;Angular;Express;Flask;React.js;Microsoft Azure;Elasticsearch;MongoDB;PostgreSQL
+0,1,9,Master,Orson Yanshin,C++;HTML/CSS;Java;JavaScript;Node.js;PHP;SQL;Git;ASP.NET Core ;jQuery;Laravel;AWS;MySQL
+0,1,8,Other,Ethelda Terrans,C#;HTML/CSS;JavaScript;Node.js;PHP;TypeScript;Docker;Git;jQuery;React.js;Symfony;MySQL
+0,1,34,Other,Dorita Grasha,Bash/Shell;C#;HTML/CSS;Java;PHP;SQL;Docker;Oracle Cloud Infrastructure;MySQL;Oracle;PostgreSQL
+0,1,3,Master,Melitta Berzen,Python;R
+0,1,12,Master,Thedric Kinchley,C#;HTML/CSS;JavaScript;Node.js;Python;SQL;TypeScript;Docker;Kubernetes;ASP.NET;ASP.NET Core ;Express;jQuery;React.js;Vue.js;AWS;Microsoft Azure;DynamoDB;Microsoft SQL Server;MySQL
+0,1,9,Undergraduate,Alex Czajka,Java;JavaScript;Python;Docker;Git;Django;Google Cloud Platform;Microsoft Azure;Elasticsearch;Microsoft SQL Server;MongoDB;MySQL;PostgreSQL;Redis;SQLite
+0,1,4,Undergraduate,Raleigh Crack,C++;HTML/CSS;JavaScript;Node.js;Git;Angular;React.js;AWS;Heroku;Microsoft Azure;MySQL;SQLite
+0,1,11,Undergraduate,Sonia Heel,HTML/CSS;JavaScript;Node.js;SQL;TypeScript;Docker;Git;Yarn;Angular;Express;React.js;Vue.js;AWS;Microsoft Azure;DynamoDB;Elasticsearch;MongoDB;PostgreSQL;Redis
+0,1,13,Other,Bertrando Rowling,Bash/Shell;HTML/CSS;Node.js;PHP;Python;TypeScript;Docker;Git;Kubernetes;Angular;Express;Gatsby;React.js;Svelte;Vue.js;AWS;DigitalOcean;Google Cloud Platform;Microsoft Azure;Firebase;PostgreSQL
+0,1,16,Undergraduate,Clarissa Wapplington,Python;Git
+0,1,40,Undergraduate,Mira Rogister,C;C#;Matlab;Python;Git;AWS;PostgreSQL
+1,1,17,Master,Maryl Tetla,Bash/Shell;C#;C++;PowerShell;Python;Git;Microsoft SQL Server;PostgreSQL;SQLite
+0,1,21,NoHigherEd,Colet Culvey,Bash/Shell;Go;HTML/CSS;JavaScript;Node.js;PHP;Python;SQL;Docker;Git;jQuery;Symfony;MariaDB;MySQL;Oracle;PostgreSQL;Redis;SQLite
+0,1,27,Master,Iormina O'Brogane,C;C++;Java;Python
+0,1,13,Master,Nerissa Onyon,Bash/Shell;HTML/CSS;JavaScript;Node.js;Python;Rust;TypeScript;Git;Express;React.js;AWS;DigitalOcean;Microsoft Azure;Elasticsearch;MongoDB;PostgreSQL;Redis
+0,1,8,Undergraduate,Christabella Rhucroft,JavaScript;Node.js;PHP;SQL;TypeScript;Git;Unity 3D;Unreal Engine;Angular;Express;Laravel;React.js;DigitalOcean;Google Cloud Platform;Heroku;Microsoft Azure;DynamoDB;Firebase;MongoDB;PostgreSQL
+0,1,36,Undergraduate,Dominique MacCleod,Bash/Shell;C;Go;Java;Docker;Git;Kubernetes;AWS
+0,1,11,Undergraduate,Gloriane Cops,Bash/Shell;C;C++;JavaScript;Node.js;PHP;Python;SQL;TypeScript;Docker;Git;Yarn;Django;Express;FastAPI;Flask;React.js;AWS;DigitalOcean;Firebase;MariaDB;MySQL;PostgreSQL;Redis;SQLite
+0,1,17,Undergraduate,Gilberto Everil,C#;HTML/CSS;JavaScript;Node.js;PowerShell;SQL;VBA;Docker;Git;Kubernetes;Unity 3D;ASP.NET;ASP.NET Core ;Express;jQuery;Microsoft Azure;Microsoft SQL Server;MongoDB
+0,1,13,Other,Lanny Balbeck,C;C#;C++;Go;JavaScript;Node.js;Objective-C;Swift;TypeScript;Unity 3D;Unreal Engine;Angular;Google Cloud Platform;Heroku;MariaDB;SQLite
+0,1,3,Undergraduate,Billy Armatidge,HTML/CSS;JavaScript;Ruby;SQL;TypeScript;Git;Yarn;React.js;Ruby on Rails;Microsoft Azure;PostgreSQL
+0,1,12,PhD,Dmitri Guinnane,Python;AWS;Microsoft Azure
+0,1,25,Other,Terence MacPhaden,Bash/Shell;C;C#;Go;JavaScript;Python;Rust;SQL;TypeScript;Docker;Git;Unreal Engine;Yarn;Django;Express;FastAPI;Flask;React.js;AWS;DigitalOcean;Google Cloud Platform;Microsoft Azure;Elasticsearch;MariaDB;PostgreSQL;Redis;SQLite
+0,1,4,Other,Ema Duesbury,C#;HTML/CSS;JavaScript;SQL;Git;Yarn;ASP.NET;ASP.NET Core ;React.js;Heroku;Microsoft Azure;Microsoft SQL Server
+0,1,4,Other,Wendie Cushe,C#;HTML/CSS;SQL;TypeScript;Git;ASP.NET Core ;jQuery;Microsoft SQL Server;PostgreSQL
+0,1,25,Undergraduate,Garvey Bewlie,C#;Kotlin;SQL;Docker;Unity 3D;ASP.NET Core ;MariaDB;Oracle;PostgreSQL;Redis;SQLite
+0,1,15,Undergraduate,Hildegarde Kitteman,Bash/Shell;Go;HTML/CSS;Java;JavaScript;Objective-C;SQL;TypeScript;Docker;Git;React.js;AWS;DynamoDB;PostgreSQL
+0,1,6,Undergraduate,Brewer Housen,Java;Spring;Firebase;MySQL;Oracle;SQLite
+0,1,10,Undergraduate,Ara Brunke,C#;HTML/CSS;JavaScript;Node.js;PHP;SQL;Docker;Git;Laravel;Vue.js;MariaDB;Microsoft SQL Server;MySQL;Redis
+0,1,6,Other,Nikkie Bartak,Bash/Shell;HTML/CSS;JavaScript;Docker;Git;Yarn;Gatsby;Vue.js;Heroku;Firebase;MongoDB;PostgreSQL
+0,1,3,NoHigherEd,Deina Kahan,HTML/CSS;JavaScript;PHP;TypeScript;Git;Gatsby;React.js;Vue.js;DigitalOcean;Google Cloud Platform;Heroku;Microsoft Azure;Firebase;MySQL;PostgreSQL
+0,1,7,Master,Egan Lusk,HTML/CSS;JavaScript;Node.js;TypeScript;Docker;Git;Yarn;Express;Laravel;React.js;Vue.js;DigitalOcean;Microsoft Azure;MongoDB;MySQL;Redis
+0,1,12,Master,Saxon Clulow,Bash/Shell;C;HTML/CSS;JavaScript;PHP;SQL;Ansible;Docker;Git;Yarn;Angular.js;Gatsby;jQuery;React.js;Symfony;AWS;Heroku;Elasticsearch;MariaDB;MongoDB;MySQL;PostgreSQL;Redis
+0,1,15,Undergraduate,Hailey Ham,C#;HTML/CSS;Java;JavaScript;SQL;React.js;AWS;Microsoft SQL Server
+0,1,11,Master,Percy Castrillo,C#;Dart;HTML/CSS;Java;JavaScript;Node.js;SQL;TypeScript;Git;Kubernetes;Express;React.js;AWS;Google Cloud Platform;Firebase;PostgreSQL
+0,1,20,Master,Riobard Fieldstone,Bash/Shell;HTML/CSS;JavaScript;Node.js;PHP;SQL;Git;Gatsby;jQuery;Laravel;Vue.js;Heroku;Oracle Cloud Infrastructure;MariaDB;MySQL;PostgreSQL;SQLite
+0,1,2,Undergraduate,Kristian Guinnane,HTML/CSS;JavaScript;Node.js;TypeScript;Git;Yarn;Angular;Express
+0,1,7,Master,Mathe Semerad,C;Python;Git;PostgreSQL
+0,1,7,Other,Sheffield Vinten,C#;HTML/CSS;JavaScript;SQL;Git;Unity 3D;ASP.NET;ASP.NET Core ;jQuery;React.js;Heroku;Microsoft Azure;Microsoft SQL Server;MySQL;SQLite
+0,1,8,NoHigherEd,Selestina Petrol,Bash/Shell;C;C++;HTML/CSS;JavaScript;Node.js;PHP;Python;TypeScript;Git;Yarn;Express;Vue.js;DigitalOcean;MariaDB
+0,1,11,Undergraduate,Annora McNulty,Python;R;SQL;Git;Google Cloud Platform;Microsoft Azure;Microsoft SQL Server
+0,1,12,NoHigherEd,Ely Dudderidge,Java;JavaScript;PHP;SQL;TypeScript;Ansible;Docker;Git;Yarn;Angular;Spring;Symfony;MySQL
+0,1,10,Undergraduate,Alberta Coady,Assembly;C;C++;Delphi;Python;Git
+0,1,27,Undergraduate,Flory Bricket,Kotlin;Git;Ruby on Rails;Google Cloud Platform;PostgreSQL
+0,1,10,PhD,Giustina Jull,Python;Rust;Git;Puppet
+0,1,35,Undergraduate,Gorden Sains,Bash/Shell;C;C#;C++;F#;Haskell;HTML/CSS;Java;JavaScript;Node.js;Perl;PHP;PowerShell;Python;SQL;TypeScript;Ansible;Docker;Git;Kubernetes;Unity 3D;Angular;Angular.js;ASP.NET;ASP.NET Core ;Django;Drupal;Express;jQuery;React.js;Spring;Symfony;Vue.js;AWS;DigitalOcean;Google Cloud Platform;IBM Cloud or Watson;Microsoft Azure;Oracle Cloud Infrastructure;Cassandra;Couchbase;DynamoDB;Elasticsearch;Firebase;IBM DB2;MariaDB;Microsoft SQL Server;MongoDB;MySQL;Oracle;PostgreSQL;Redis;SQLite
+0,1,6,PhD,Laina Throssell,C;C++;PowerShell;Docker;Git
+0,1,4,Undergraduate,Nataline Sigfrid,HTML/CSS;JavaScript;PHP;SQL;jQuery;MySQL;SQLite
+0,1,3,Undergraduate,Neala Goddert.sf,Bash/Shell;C++;HTML/CSS;Python;SQL;VBA;Oracle
+0,1,9,Master,Audi Hilbourne,C#;Java;Python;SQL;Microsoft SQL Server;SQLite
+0,1,30,Undergraduate,Orazio Crystal,C#;HTML/CSS;JavaScript;PowerShell;SQL;Angular.js;ASP.NET;jQuery;Vue.js;Microsoft Azure;Microsoft SQL Server;MySQL
+0,1,3,Undergraduate,Ardis Thor,C#;Objective-C;Swift;Git;AWS
+0,1,7,Master,Jared Mistry,C;C++;Git;Unity 3D;Unreal Engine;ASP.NET;Microsoft Azure;Microsoft SQL Server
+1,1,5,Undergraduate,Carlina Conn,HTML/CSS;JavaScript;Node.js;PHP;Python;SQL;TypeScript;Docker;Git;Yarn;Express;jQuery;Laravel;React.js;Vue.js;AWS;DigitalOcean;Google Cloud Platform;Heroku;Microsoft Azure;Cassandra;Elasticsearch;Firebase;MariaDB;MongoDB;MySQL;PostgreSQL;Redis
+0,1,9,Undergraduate,Hillyer Trehearn,Python;SQL;PostgreSQL
+1,1,15,Undergraduate,Melisent Shires,HTML/CSS;Java;JavaScript;Git;Spring;MySQL;PostgreSQL
+0,1,41,NoHigherEd,Ellary Frise,C#;Go;HTML/CSS;JavaScript;PHP;Python;Rust;SQL;Docker;Git;Kubernetes;Yarn;Angular;jQuery;React.js;Symfony;Elasticsearch;MariaDB;MongoDB;MySQL
+0,1,45,Undergraduate,Ranna Godman,Assembly;Bash/Shell;C;C++;Dart;Groovy;HTML/CSS;Java;JavaScript;LISP;Node.js;Python;Ruby;SQL;TypeScript;Docker;Git;Yarn;Express;Gatsby;jQuery;React.js;Ruby on Rails;AWS;Elasticsearch;Firebase;MongoDB;PostgreSQL;Redis
+0,1,9,NoHigherEd,Arlana Dalgety,HTML/CSS;Java;JavaScript;Node.js;Python;SQL;Git;IBM DB2;MariaDB;Microsoft SQL Server;MySQL;Oracle;SQLite
+0,1,14,Undergraduate,Pyotr Dominetti,Assembly;Bash/Shell;C#;C++;Java;Node.js;Objective-C;SQL;VBA;Docker;Git;Kubernetes;Spring;AWS;Google Cloud Platform;Microsoft Azure;DynamoDB;Elasticsearch;MariaDB;MongoDB;Oracle
+0,1,35,Other,Thor Morgue,C#;HTML/CSS;JavaScript;PowerShell;Python;SQL;Git;ASP.NET;ASP.NET Core ;Microsoft Azure;Microsoft SQL Server
+0,1,50,Other,Amii Diemer,HTML/CSS;JavaScript;PHP;SQL;VBA;Microsoft Azure
+0,1,6,Undergraduate,Lauren Schleicher,Bash/Shell;C#;HTML/CSS;JavaScript;Node.js;PHP;Python;SQL;TypeScript;Docker;Git;Yarn;Express;Gatsby;Laravel;React.js;Vue.js;Google Cloud Platform;Heroku;Firebase;MariaDB;MongoDB;MySQL;PostgreSQL;SQLite
+0,1,25,Other,Jojo Maly,SQL;VBA;IBM DB2
+0,1,3,NoHigherEd,Lucita Forster,Bash/Shell;C;C#;Dart;Go;HTML/CSS;JavaScript;Node.js;Python;SQL;TypeScript;Git;Yarn;ASP.NET Core ;Django;Express;React.js;Vue.js;AWS;DigitalOcean;Google Cloud Platform;Couchbase;Firebase;MongoDB;MySQL;SQLite
+0,1,9,Master,Emylee Van Brug,Go;HTML/CSS;Java;JavaScript;Node.js;SQL;Docker;Git;Vue.js;Microsoft Azure;Elasticsearch;MongoDB;MySQL;PostgreSQL;Redis
+0,1,2,Master,Giustino Sutherley,Dart;HTML/CSS;JavaScript;Kotlin;PHP;Python;SQL;Swift;Git;jQuery;Laravel;Symfony;Vue.js;MySQL
+0,1,20,Master,Kent Maltman,C#;HTML/CSS;JavaScript;Node.js;PHP;PowerShell;SQL;TypeScript;Docker;Git;Angular;Express;jQuery;Laravel;Elasticsearch;MariaDB;Microsoft SQL Server;MongoDB;MySQL
+0,1,10,Master,Harold Stowell,Bash/Shell;C;Java;JavaScript;Node.js;Ansible;Docker;Git;Kubernetes;Yarn;Express;React.js;Spring;AWS;DynamoDB;Elasticsearch;MongoDB;Oracle;PostgreSQL;Redis
+0,1,13,Undergraduate,Pippa Rudgard,Java;Python;TypeScript;Git;Angular;Django;Spring;MySQL;SQLite
+0,1,33,Other,Kory Peyro,C#;HTML/CSS;JavaScript;Node.js;PHP;PowerShell;SQL;TypeScript;Git;ASP.NET;ASP.NET Core ;jQuery;Vue.js;AWS;Microsoft Azure;Microsoft SQL Server;MongoDB;MySQL;PostgreSQL
+0,1,20,Other,Sibel Andrichuk,Bash/Shell;HTML/CSS;Java;JavaScript;Node.js;PHP;Python;SQL;Git;jQuery;Spring;MySQL;Oracle;PostgreSQL;SQLite
+0,1,18,Undergraduate,Chicky Gozard,C#;HTML/CSS;JavaScript;SQL;Git;ASP.NET;jQuery;Vue.js;Microsoft SQL Server
+0,1,15,NoHigherEd,Dede Staziker,JavaScript;Node.js;PHP;Ansible;Docker;Git;Puppet;Express;jQuery;Laravel;Symfony;Vue.js;AWS;Elasticsearch;Firebase;MariaDB;MongoDB;MySQL;Redis;SQLite
+0,1,12,Master,Del Danovich,Bash/Shell;HTML/CSS;JavaScript;Node.js;Python;TypeScript;Docker;Git;Django;Express;React.js;DigitalOcean;Google Cloud Platform;Microsoft Azure;PostgreSQL;Redis;SQLite
+0,1,18,Other,Noellyn Annell,C;C#;C++;Go;JavaScript;PowerShell;Python;TypeScript;Docker;Git;Kubernetes;Xamarin;ASP.NET;ASP.NET Core ;Microsoft Azure;Cassandra;Firebase;Microsoft SQL Server;PostgreSQL;Redis;SQLite
+0,1,12,Master,Brad Mellanby,Bash/Shell;C;C++;Matlab;Python;Microsoft Azure
+0,1,43,Undergraduate,Clair Benedite,JavaScript;PHP;Python;SQL;Git;Django;jQuery;AWS;MySQL;PostgreSQL;SQLite
+0,1,15,NoHigherEd,Trina Pahler,C#;HTML/CSS;JavaScript;Rust;SQL;TypeScript;Git;Angular;ASP.NET;DigitalOcean;Microsoft SQL Server;MongoDB;PostgreSQL;SQLite
+0,1,10,Other,Aryn Hanley,Swift;Git;AWS
+0,1,29,Master,Estella Hedin,C++;Python;Git
+0,1,4,Other,Matilde Khidr,Dart;Java;Kotlin;Python;Swift;TypeScript;Git;Angular;FastAPI;AWS;PostgreSQL
+0,1,6,Undergraduate,Robinia Jacquet,HTML/CSS;Java;JavaScript;Node.js;Python;SQL;TypeScript;Git;Angular;Angular.js;Spring;MariaDB;Microsoft SQL Server
+0,1,6,Master,Kimberli Kubyszek,C++;Git;Unreal Engine
+0,1,5,Undergraduate,Robinson Burtwistle,JavaScript;Node.js;SQL;Docker;Git;Express;PostgreSQL
+0,1,20,Master,Mirabel Fuke,C#;HTML/CSS;JavaScript;PowerShell;SQL;TypeScript;Docker;Git;Yarn;ASP.NET Core ;Express;Vue.js;Microsoft Azure;Microsoft SQL Server;PostgreSQL;Redis;SQLite
+0,1,11,Undergraduate,Laughton Baber,C#;JavaScript;Git;Flask;jQuery
+0,1,14,Undergraduate,Kippy Silverstone,Bash/Shell;Groovy;HTML/CSS;Java;JavaScript;Python;SQL;Docker;Git;Angular.js;Spring;AWS;MySQL
+0,1,2,Undergraduate,Romola Rutter,C;C++;Go;HTML/CSS;JavaScript;Node.js;PHP;Python;SQL;Git;Django;Express;Flask;jQuery;Laravel;React.js;Google Cloud Platform;Heroku;MongoDB;MySQL
+0,1,35,Other,Georgina Tidmas,Bash/Shell;C#;Delphi;HTML/CSS;JavaScript;Node.js;PowerShell;SQL;TypeScript;VBA;Ansible;Docker;Git;Kubernetes;Xamarin;Yarn;Angular;Angular.js;ASP.NET;ASP.NET Core ;Express;jQuery;AWS;Google Cloud Platform;Microsoft Azure;Elasticsearch;Microsoft SQL Server;Redis;SQLite
+0,1,21,Undergraduate,Anne-corinne Crinidge,Bash/Shell;C;C#;C++;HTML/CSS;Java;JavaScript;Node.js;PowerShell;Python;SQL;Docker;Git;ASP.NET;ASP.NET Core ;Express;Spring;AWS;DynamoDB;MariaDB;Microsoft SQL Server;MongoDB;MySQL;Oracle;PostgreSQL;SQLite
+0,1,12,Undergraduate,Marabel Hathorn,R;SQL;VBA;Microsoft SQL Server;Oracle
+0,1,4,Master,Fan Hasnney,C#;C++;HTML/CSS;Java;JavaScript;Node.js;PHP;SQL;VBA;Docker;Git;Kubernetes;Express;React.js;Spring;Microsoft Azure;Microsoft SQL Server;MongoDB;MySQL;PostgreSQL
+1,1,22,Undergraduate,Reube Sapwell,C#;HTML/CSS;Java;JavaScript;PHP;Git;jQuery;MariaDB;MySQL;SQLite
+0,1,12,Other,Gardener Greir,C#;SQL;Microsoft SQL Server;MySQL
+0,1,20,Master,Grover Ford,HTML/CSS;JavaScript;PHP;SQL;TypeScript;Git;Angular;Vue.js;MariaDB;MySQL
+0,1,42,Master,Dorine Switland,Assembly;C;C#;C++;HTML/CSS;JavaScript;Python;Rust;SQL;TypeScript;VBA;Docker;Git;ASP.NET;ASP.NET Core ;Microsoft Azure;Microsoft SQL Server;MongoDB;SQLite
+0,1,10,Undergraduate,Waring Egger,HTML/CSS;JavaScript;PHP;Ruby;Git;Yarn;Laravel;Ruby on Rails;AWS;Google Cloud Platform;Heroku;MySQL;PostgreSQL;Redis
+0,1,30,PhD,Carny Adame,C++;Java;Julia;Matlab;Python;MySQL;Oracle
+0,1,10,Master,Eleen Ingyon,C#;HTML/CSS;Python;TypeScript;VBA;Git;jQuery
+0,1,10,Undergraduate,Elset Pennigar,Bash/Shell;C#;HTML/CSS;JavaScript;SQL;Docker;Git;ASP.NET Core ;jQuery;AWS;Microsoft Azure;MariaDB;Microsoft SQL Server;MySQL
+0,1,13,Master,Norean Daldan,C#;C++;JavaScript;PHP;Git;Unity 3D;Unreal Engine;ASP.NET Core ;Microsoft Azure;Redis
+0,1,20,Undergraduate,Joice Adamo,Bash/Shell;C#;HTML/CSS;JavaScript;PowerShell;SQL;TypeScript;Git;Kubernetes;Unity 3D;ASP.NET;ASP.NET Core ;jQuery;Microsoft Azure;Microsoft SQL Server;Redis;SQLite
+0,1,12,Undergraduate,Brigitta Tooby,HTML/CSS;JavaScript;PHP;Git;jQuery;Laravel;Vue.js;DigitalOcean;Elasticsearch;MySQL;Redis;SQLite
+0,1,20,Undergraduate,Joycelin Paulusch,Bash/Shell;HTML/CSS;JavaScript;Node.js;TypeScript;Git;Unity 3D;Yarn;Angular
+0,1,6,Master,Drucill Chittim,HTML/CSS;JavaScript;PHP;Git;jQuery;Laravel;Vue.js;DigitalOcean;MariaDB;Redis
+0,1,10,Undergraduate,Corinne Swanton,C;C#;C++;HTML/CSS;JavaScript;Node.js;PHP;TypeScript;Docker;Express;jQuery;Laravel;Vue.js;AWS;Firebase;MySQL
+0,1,11,Master,Mick Tacker,C;C++;HTML/CSS;JavaScript;Node.js;TypeScript;Git;Yarn;Angular;Express;jQuery;React.js;MongoDB;MySQL;PostgreSQL
+1,1,3,Other,Shelden Maseres,Dart;HTML/CSS;PHP;Python;SQL;Docker;Git;Django;Google Cloud Platform;Microsoft Azure;MongoDB;MySQL;PostgreSQL;SQLite
+0,1,10,Undergraduate,Ira De Courtney,HTML/CSS;JavaScript;TypeScript;Git;Yarn;Angular;Flask;PostgreSQL
+0,1,15,Undergraduate,Byron Thickett,Bash/Shell;C;HTML/CSS;JavaScript;Python;Ruby;SQL;Docker;Git;Kubernetes;Yarn;Django;Flask;Ruby on Rails;Vue.js;Google Cloud Platform;MariaDB;MySQL;PostgreSQL;Redis;SQLite
+0,1,13,Master,Cathleen Undrell,C#;Git
+0,1,8,Other,Jeni Rasp,Bash/Shell;C#;Dart;Groovy;HTML/CSS;Java;JavaScript;Kotlin;PowerShell;Python;Rust;Swift;Docker;Git;Unity 3D;jQuery;React.js;Vue.js;AWS;Microsoft Azure;MongoDB
+0,1,16,Undergraduate,Lewes Toupe,HTML/CSS;Java;JavaScript;Node.js;TypeScript;Docker;Git;Angular;Angular.js;jQuery
+0,1,4,Undergraduate,Morgen Seymour,C++;JavaScript;Node.js;PHP;Express;Laravel;Vue.js;MySQL
+0,1,28,Master,Gage Ponder,Bash/Shell;Go;JavaScript;Node.js;Rust;Docker;Git;Kubernetes;Express;AWS;MongoDB
+0,1,10,Other,Angel Bortolini,LISP;R;Docker;Git;MySQL
+0,1,17,Other,Darb Hardacre,C#;HTML/CSS;JavaScript;Node.js;PowerShell;SQL;TypeScript;ASP.NET;ASP.NET Core ;jQuery;React.js;Microsoft Azure;Microsoft SQL Server
+0,1,12,NoHigherEd,Karissa Northway,C#;F#;HTML/CSS;JavaScript;PowerShell;SQL;Git;Angular;ASP.NET;jQuery;Spring;IBM DB2;Microsoft SQL Server;Oracle;SQLite
+0,1,11,Master,Jarrad Crouse,C;C++;Git
+0,1,4,PhD,Carmine Secrett,C++
+0,1,8,Undergraduate,Meade Povey,HTML/CSS;JavaScript;Node.js;TypeScript;Git;Express;React.js
+0,1,4,Undergraduate,Henrie Rosso,Assembly;C++;Dart;HTML/CSS;Java;Matlab;Python;SQL;Git;Unity 3D;Firebase;MongoDB;MySQL;SQLite
+0,1,13,Master,Ev Brisker,C#;HTML/CSS;Java;Matlab;Python;Scala;SQL;Docker;Git;Django;Flask;AWS;Microsoft Azure;MariaDB;Microsoft SQL Server;MongoDB;MySQL;PostgreSQL
+0,1,27,Undergraduate,Gabriel Filasov,C#;HTML/CSS;JavaScript;SQL;ASP.NET Core ;jQuery;Microsoft Azure;Microsoft SQL Server;MySQL;SQLite
+0,1,18,Other,Addia Begbie,Bash/Shell;HTML/CSS;JavaScript;Node.js;Python;SQL;TypeScript;Docker;Git;Yarn;Django;Express;React.js;AWS;DynamoDB;Elasticsearch;MariaDB;MySQL;Redis
+0,1,8,NoHigherEd,Shirline Jardine,Bash/Shell;C;C#;C++;Go;HTML/CSS;Java;Kotlin;Node.js;Objective-C;PHP;Python;SQL;TypeScript;VBA;Ansible;Docker;Git;Kubernetes;Unity 3D;Xamarin;Angular;Angular.js;ASP.NET;Django;Drupal;Express;FastAPI;Flask;jQuery;React.js;Vue.js;AWS;DigitalOcean;Google Cloud Platform;Microsoft Azure;Elasticsearch;Firebase;MariaDB;Microsoft SQL Server;MongoDB;MySQL;SQLite
+0,1,9,Undergraduate,Merola Raysdale,Bash/Shell;C;C++;HTML/CSS;JavaScript;Python;Rust;SQL;Git;Flask;Vue.js;AWS;MySQL;SQLite
+0,1,8,Undergraduate,Rivi Gouge,Bash/Shell;HTML/CSS;JavaScript;PHP;Python;SQL;Docker;Git;Django;Flask;jQuery;AWS;Microsoft Azure;Elasticsearch;MariaDB;Microsoft SQL Server;PostgreSQL;SQLite
+0,1,16,Master,Howard Hanrahan,Bash/Shell;HTML/CSS;JavaScript;Julia;Node.js;Python;SQL;TypeScript;Docker;Git;Express;React.js;AWS;DynamoDB;PostgreSQL
+0,1,15,Undergraduate,Wallace Hallwood,Java;Kotlin;Git
+0,1,30,Undergraduate,Moselle Van der Veldt,C#;SQL;VBA;Microsoft SQL Server
+0,1,9,Master,Haleigh Bellworthy,HTML/CSS;JavaScript;Node.js;Python;Docker;Git;Yarn;jQuery;React.js;Vue.js;Heroku
+0,1,6,Undergraduate,Clifford Hutchcraft,HTML/CSS;Java;JavaScript;Node.js;PHP;TypeScript;Docker;Git;Yarn;Gatsby;jQuery;Laravel;React.js;DigitalOcean;Heroku;Microsoft Azure;MongoDB;PostgreSQL;Redis
+0,1,14,PhD,Angel Eytel,Bash/Shell;R;Git;AWS;PostgreSQL
+0,1,21,Undergraduate,Mark Ellcock,Groovy;HTML/CSS;Java;JavaScript;Kotlin;Node.js;Docker;Git;Terraform;React.js;AWS
+0,1,9,NoHigherEd,Leigha Hrachovec,Assembly;C;C++;Go;HTML/CSS;JavaScript;Node.js;PHP;Python;TypeScript;Git;Yarn;Express;Laravel;React.js;Vue.js;AWS;DigitalOcean;Heroku;MariaDB;MongoDB;MySQL;PostgreSQL;Redis
+0,1,9,Master,Riobard Clemmey,C;C#;C++;HTML/CSS;Java;JavaScript;Python;R;SQL;VBA;Git;Ruby on Rails;Heroku;Microsoft SQL Server;MySQL;Oracle;PostgreSQL;SQLite
+0,1,14,Master,Leonore Yesenin,Bash/Shell;C++;Go;Perl;SQL;Docker;Git;Kubernetes;AWS;DigitalOcean;MariaDB;MongoDB;PostgreSQL
+0,1,6,Undergraduate,Hildagard Dayment,Bash/Shell;C++;HTML/CSS;Matlab;Python;R;Docker;Git;Django;Flask;Vue.js;Heroku;Firebase;MySQL;SQLite
+0,1,4,Other,Harley Rainford,C#;Python;Git;Microsoft SQL Server;SQLite
+0,1,3,Master,Ilse Snoding,HTML/CSS;JavaScript;Node.js;Python;SQL;Git;React.js;AWS;Google Cloud Platform;PostgreSQL
+0,1,15,Master,Aloysius Waddy,C;C#;C++;HTML/CSS;JavaScript;Node.js;Objective-C;PHP;Python;SQL;TypeScript;Deno;Docker;Git;Unity 3D;Unreal Engine;Drupal;jQuery;React.js;Svelte;Symfony;Heroku;Microsoft Azure;MariaDB;MongoDB;MySQL;PostgreSQL
+0,1,8,Undergraduate,Ianthe Marusyak,Bash/Shell;C;Python;Docker;Git;Django;Flask;jQuery;React.js;PostgreSQL;SQLite
+0,1,3,Other,Pattie Phittiplace,Bash/Shell;C;C#;C++;Java;JavaScript;Node.js;Rust;SQL;Git;DigitalOcean;MySQL
+0,1,10,Master,Dew Serfati,Python;R;SQL;Docker;AWS;Google Cloud Platform;MySQL;PostgreSQL;SQLite
+0,1,7,Undergraduate,Carolyne Gomez,Bash/Shell;C#;Java;JavaScript;Node.js;Objective-C;SQL;Swift;TypeScript;Git;Yarn;ASP.NET;ASP.NET Core ;React.js;AWS;Google Cloud Platform;Microsoft Azure;Microsoft SQL Server;SQLite
+0,1,8,Other,Angelo Schimke,Bash/Shell;Go;HTML/CSS;JavaScript;Node.js;PHP;PowerShell;SQL;TypeScript;Docker;Git;Yarn;Express;jQuery;Laravel;Vue.js;AWS;DigitalOcean;Google Cloud Platform;Microsoft Azure;MariaDB;MySQL;PostgreSQL
+0,1,6,Undergraduate,Gerri Wythill,C++;HTML/CSS;JavaScript;Python;Docker;Git;Flask;Elasticsearch;MongoDB;SQLite
+0,1,16,Undergraduate,Laurice Goggey,Bash/Shell;Python;SQL;Docker;Git;Kubernetes;Flask;AWS;PostgreSQL;Redis
+0,1,18,Other,Tait Clohessy,Java;JavaScript;Node.js;SQL;Docker;Express;jQuery;Ruby on Rails;Spring;Vue.js;AWS;DigitalOcean;MariaDB;MySQL;PostgreSQL;Redis
+0,1,13,Master,Benoit Dissman,Bash/Shell;Go;Groovy;Java;Python;Ansible;Docker;Git;Kubernetes;Terraform;AWS;Cassandra;Elasticsearch;PostgreSQL;Redis
+0,1,15,Master,Kaitlynn Hards,Bash/Shell;HTML/CSS;Java;JavaScript;Node.js;SQL;TypeScript;Git;Angular;Angular.js;Spring;MariaDB;MySQL;Oracle
+0,1,9,Undergraduate,Nickolai Djurevic,C;C#;C++;HTML/CSS;Java;JavaScript;Node.js;PHP;PowerShell;Python;SQL;Git;Unity 3D;jQuery;React.js;Vue.js;Microsoft SQL Server;MySQL;PostgreSQL
+0,1,25,PhD,Lyndsay Farran,C#;HTML/CSS;JavaScript;SQL;TypeScript;ASP.NET;ASP.NET Core ;Microsoft Azure;Microsoft SQL Server
+0,1,15,NoHigherEd,Juliana Di Biagio,Bash/Shell;C;C#;C++;HTML/CSS;Java;JavaScript;Node.js;SQL;TypeScript;VBA;Ansible;Docker;Git;Kubernetes;Unity 3D;Unreal Engine;Angular;Express;MariaDB;MySQL
+0,1,15,Other,Elli Pinckney,HTML/CSS;JavaScript;PHP;Git;Drupal;jQuery;React.js;MySQL
+0,1,15,Master,Shepherd Norwich,Bash/Shell;C;C#;C++;Python;Docker;Git
+0,1,24,Master,Caterina Wasielewski,C;C#;C++;Delphi;HTML/CSS;JavaScript;Objective-C;PowerShell;Python;SQL;VBA;Git;Angular.js;jQuery;Microsoft SQL Server;MongoDB;MySQL;PostgreSQL;SQLite
+0,1,12,Undergraduate,Madlen Abrahami,Java;Python;Scala;Docker;Git;Flask;Spring;Microsoft Azure;Elasticsearch;MongoDB;PostgreSQL
+0,1,15,NoHigherEd,Gert Farn,C#;C++;HTML/CSS;JavaScript;PHP;SQL;Ansible;Git;jQuery;MySQL
+0,1,6,Undergraduate,Ulrika Laven,C++;Git;Microsoft SQL Server;MongoDB
+0,1,10,Master,Jordana Woodman,C++;HTML/CSS;Java;JavaScript;SQL;VBA;Git;Yarn;Angular.js;ASP.NET;ASP.NET Core ;jQuery;Spring;AWS;Google Cloud Platform;IBM Cloud or Watson;Microsoft SQL Server;MongoDB;MySQL;Oracle
+0,1,3,Undergraduate,Eloisa Morat,C;C++;Java;JavaScript;Node.js;Python;SQL;TypeScript;Deno;Docker;Git;Yarn;Express;Vue.js;MySQL;Oracle
+0,1,29,NoHigherEd,Jerrilyn Alger,HTML/CSS;Java;JavaScript;Python;SQL;TypeScript;Docker;Git;Kubernetes;Terraform;Angular;Gatsby;React.js;AWS;MySQL;Oracle;PostgreSQL
+0,1,15,Undergraduate,Sherline Mattiacci,Bash/Shell;HTML/CSS;JavaScript;Node.js;TypeScript;Docker;Git;Unity 3D;Angular;Angular.js;Express;jQuery;Vue.js;AWS;DigitalOcean;Heroku;MongoDB
+0,1,17,Undergraduate,Hersch Gilford,Assembly;C;C#;C++;F#;Haskell;HTML/CSS;Java;PowerShell;Python;SQL;VBA;Git;Terraform;Unity 3D;Xamarin;ASP.NET;Drupal;Ruby on Rails;MySQL;PostgreSQL;SQLite
+0,1,12,Master,Darcy Brammar,C#;HTML/CSS;Python;SQL;TypeScript;VBA;Git;Angular;ASP.NET;ASP.NET Core ;Vue.js;Heroku;Microsoft SQL Server;MongoDB
+0,1,26,Undergraduate,Nickola Pargeter,C#;Python;TypeScript;Docker;Git;Yarn;Angular;ASP.NET;ASP.NET Core ;Flask;AWS;Microsoft Azure;Microsoft SQL Server;PostgreSQL
+0,1,2,Master,Mia Bettridge,Bash/Shell;C#;HTML/CSS;JavaScript;Python;SQL;VBA;Git;ASP.NET;jQuery;Microsoft SQL Server
+0,1,14,Undergraduate,Jermayne Goggan,HTML/CSS;Java;JavaScript;Node.js;PHP;PowerShell;Python;Ruby;SQL;TypeScript;VBA;Ansible;Docker;Git;Kubernetes;Yarn;Angular.js;Django;Express;jQuery;React.js;Vue.js;AWS;Google Cloud Platform;Heroku;Microsoft Azure;Microsoft SQL Server;MongoDB;MySQL;Oracle;PostgreSQL;Redis;SQLite
+0,1,23,Undergraduate,Neddie Bartlosz,Bash/Shell;HTML/CSS;Java;JavaScript;Node.js;PowerShell;Python;SQL;TypeScript;Docker;Git;Kubernetes;Angular;jQuery;Spring;Vue.js;AWS;DynamoDB;Elasticsearch;Microsoft SQL Server;MongoDB;Oracle;PostgreSQL;Redis
+0,1,10,Other,Meryl Ferebee,HTML/CSS;JavaScript;PHP;SQL;TypeScript;Docker;Git;Angular;Angular.js;Drupal;jQuery;Laravel;Microsoft Azure;Microsoft SQL Server;MySQL;Oracle;SQLite
+0,1,9,Master,Brion Gromley,Bash/Shell;Objective-C;Swift;Git
+0,1,30,Undergraduate,Chlo Bernardino,Bash/Shell;C;Java;JavaScript;Kotlin;Python;SQL;TypeScript;Git;React.js;Spring;Microsoft Azure;Elasticsearch;Oracle;PostgreSQL
+0,1,10,Master,Aguistin Frascone,C#;HTML/CSS;JavaScript;Python;TypeScript;VBA;Git;Angular;ASP.NET Core ;Microsoft SQL Server
+0,1,8,Master,Erich Hurche,HTML/CSS;Java;JavaScript;Kotlin;SQL;TypeScript;Ansible;Docker;React.js;Spring;Vue.js;AWS;DynamoDB;MySQL;Oracle;PostgreSQL
+0,1,6,Master,Randa Spore,C++;Dart;Python;Docker;Git;Firebase
+0,1,7,Undergraduate,Vidovik Hugin,Dart;Java;Kotlin;PHP;Git;Angular;Django;Laravel;AWS;MySQL;SQLite
+0,1,27,Undergraduate,Loretta Varvell,Groovy;Java;Kotlin;TypeScript;Docker;Git;Kubernetes;Angular;AWS;MariaDB;MongoDB;PostgreSQL
+0,1,5,Undergraduate,Germain Leahey,Git;AWS;Microsoft Azure;Oracle
+0,1,6,Undergraduate,Nanice Fawdrie,Assembly;Bash/Shell;C;Java;Matlab;PHP;Python;Docker;Git
+0,1,30,Master,Jeanine Kitchenham,Elixir;Node.js;Python;Docker;Git;Terraform;Express;Laravel;AWS;Heroku;DynamoDB;MariaDB;MongoDB;MySQL;PostgreSQL
+0,1,19,Master,Bail Jecks,Bash/Shell;C#;C++;HTML/CSS;Java;JavaScript;Matlab;SQL;VBA;Git;Unity 3D;Unreal Engine;Microsoft Azure;Microsoft SQL Server
+0,1,15,Master,Elva Eynaud,HTML/CSS;JavaScript;Node.js;Python;SQL;TypeScript;Docker;Git;Yarn;Angular;Angular.js;Flask;jQuery;React.js;Vue.js;Google Cloud Platform;Heroku;Couchbase;Firebase;MongoDB;PostgreSQL
+0,1,14,Master,Bartholomew Burditt,C;C++;Dart;Go;Docker;Git;Angular;AWS;DigitalOcean;PostgreSQL;SQLite
+0,1,12,Master,Berke Ferruzzi,Bash/Shell;PHP;Python;Docker;Git;FastAPI;Flask;Symfony;AWS;MySQL;SQLite
+0,1,15,Master,Leta Tarzey,C;Python;Git;SQLite
+0,1,9,Undergraduate,Brendin Bernardotti,Java;Kotlin;Swift;Git;Microsoft SQL Server;Redis
+0,1,35,PhD,Shell Berka,Bash/Shell;Python
+0,1,22,Undergraduate,Kristos Degenhardt,C#;Git;Microsoft SQL Server
+0,1,17,Other,Giovanni Grouen,Bash/Shell;C#;C++;HTML/CSS;Java;JavaScript;Node.js;Objective-C;PHP;Python;SQL;TypeScript;Docker;Git;Unity 3D;Unreal Engine;Angular;Express;React.js;Vue.js;AWS;MongoDB;MySQL;PostgreSQL;Redis
+0,1,12,Other,Rourke Battman,HTML/CSS;JavaScript;PHP;Git;jQuery;Laravel;MariaDB
+0,1,10,Undergraduate,Cristen Merrilees,Python;Git
+0,1,30,Master,Daniella Shermar,HTML/CSS;Java;JavaScript;Node.js;Rust;TypeScript;Docker;Git;Angular;Express;Spring;Google Cloud Platform;Firebase;Oracle
+0,1,6,Undergraduate,Jase Duke,C#;C++;Go;JavaScript;Python;Git;Unity 3D;Unreal Engine
+0,1,20,Undergraduate,Norris Santus,Dart;Delphi;Docker;Git;Kubernetes;Express;jQuery;Oracle Cloud Infrastructure;MySQL
+0,1,9,Undergraduate,Francklyn Davern,Bash/Shell;C++;HTML/CSS;Java;JavaScript;SQL;Git;Angular;jQuery;Spring;IBM DB2;Microsoft SQL Server;MySQL;Oracle;PostgreSQL
+0,1,11,Undergraduate,Geraldine Giacomazzo,C;C#;C++;HTML/CSS;JavaScript;Node.js;Objective-C;PHP;Python;SQL;Git;ASP.NET;ASP.NET Core ;Django;Express;jQuery;Laravel;React.js;Microsoft SQL Server;MongoDB;MySQL
+0,1,5,Other,Francine Ower,Bash/Shell;Dart;Node.js;TypeScript;Git;Vue.js;Google Cloud Platform;Heroku;Firebase;PostgreSQL;SQLite
+0,1,31,Other,Timmi Fenby,Bash/Shell;C#;Go;HTML/CSS;Java;JavaScript;Node.js;Ruby;SQL;TypeScript;Chef;Git;Terraform;Unity 3D;Angular.js;ASP.NET Core ;jQuery;Vue.js;AWS;DigitalOcean;Google Cloud Platform;Microsoft Azure;DynamoDB;Elasticsearch;Microsoft SQL Server;MongoDB;MySQL;PostgreSQL;Redis;SQLite
+0,1,5,Undergraduate,Kahaleel Gautrey,C++;HTML/CSS;Java;JavaScript;Node.js;SQL;TypeScript;Git;Yarn;Angular;Express;jQuery;Spring;AWS;Google Cloud Platform;MongoDB;MySQL;PostgreSQL
+0,1,10,Master,Bailie Firpo,C++;Java;Kotlin;Objective-C;Python;Swift;Git
+0,1,19,NoHigherEd,Chariot Brandin,Bash/Shell;C#;HTML/CSS;JavaScript;PHP;Python;SQL;Docker;Git;jQuery;Symfony;DigitalOcean;Google Cloud Platform;Elasticsearch;MariaDB;MySQL;PostgreSQL;Redis;SQLite
+0,1,20,Undergraduate,Wyatt Philipsen,Bash/Shell;C;C++;Elixir;Erlang;HTML/CSS;JavaScript;Node.js;Python;Rust;SQL;TypeScript;Docker;Git;Kubernetes;Terraform;Express;Gatsby;React.js;Vue.js;AWS;Google Cloud Platform;Elasticsearch;Firebase;MariaDB;Microsoft SQL Server;MongoDB;MySQL;PostgreSQL;Redis;SQLite
+0,1,13,Undergraduate,Ruthie Paolazzi,HTML/CSS;Java;JavaScript;Kotlin;Node.js;SQL;Docker;Git;Kubernetes;Xamarin;Angular;Drupal;jQuery;Spring;Microsoft Azure;Oracle Cloud Infrastructure;MariaDB;Microsoft SQL Server;MySQL;Oracle;PostgreSQL
+0,1,7,Master,Michael Linklet,Bash/Shell;C#;Groovy;Java;PowerShell;SQL;VBA;Docker;Git;Angular;Spring;AWS;Oracle
+0,1,8,Undergraduate,Shandee Stroulger,HTML/CSS;JavaScript;PHP;TypeScript;Docker;Git;Unity 3D;Angular;Angular.js;Laravel;Microsoft SQL Server;MongoDB
+0,1,42,Undergraduate,Julita Romagnosi,C#;HTML/CSS;JavaScript;SQL;TypeScript;Git;Angular;Angular.js;jQuery;Microsoft Azure;Microsoft SQL Server;SQLite
+0,1,10,Master,Udall Braunthal,PHP;Docker;Git;Angular;jQuery;AWS
+0,1,10,Master,Gannie Vasyutin,JavaScript;Node.js;TypeScript;Deno;Docker;Git;Puppet;Unity 3D;Unreal Engine;Yarn;Express;Gatsby;jQuery;React.js;Svelte;Vue.js;DigitalOcean;PostgreSQL;SQLite
+0,1,5,Undergraduate,Georgeanne Blumson,C++;Objective-C;Python;Swift;Git;Django
+0,1,30,Master,Letitia Grigolon,Bash/Shell;C#;C++;Delphi;HTML/CSS;Java;JavaScript;Node.js;Objective-C;PHP;PowerShell;Python;SQL;TypeScript;VBA;Git;Angular;ASP.NET;ASP.NET Core ;Microsoft SQL Server;MySQL;SQLite
+0,1,40,Master,Cobb Bernardoux,C;Java;PHP;Python;Docker;Git;MySQL;Redis
+0,1,10,NoHigherEd,Granville Eastway,HTML/CSS;JavaScript;Kotlin;Python;Git;Django;Microsoft SQL Server;SQLite
+0,1,6,Undergraduate,Mitch Borlease,Python;SQL;Git;AWS;PostgreSQL
+0,1,7,Master,Joby Ord,Bash/Shell;C++;HTML/CSS;Python;SQL;Docker;Git;Flask;Google Cloud Platform;MySQL;Redis;SQLite
+0,1,10,Undergraduate,Alverta Lantiff,Bash/Shell;Go;Node.js;SQL;Docker;Git;Kubernetes;AWS;Google Cloud Platform;Cassandra;Elasticsearch;Firebase;MySQL;PostgreSQL;Redis
+0,1,35,Undergraduate,Matty Berntssen,HTML/CSS;JavaScript;Node.js;Git;React.js;AWS
+0,1,15,Other,Ira Gitting,Go;HTML/CSS;JavaScript;Node.js;Python;SQL;TypeScript;Ansible;Docker;Git;Kubernetes;Yarn;Express;FastAPI;React.js;AWS;Oracle Cloud Infrastructure;DynamoDB;Elasticsearch;MySQL;PostgreSQL
+0,1,28,Other,Ezequiel Burch,Bash/Shell;C;Dart;Go;HTML/CSS;JavaScript;Node.js;Python;SQL;TypeScript;Ansible;Docker;Git;Kubernetes;Terraform;Flask;React.js;AWS;Firebase;PostgreSQL
+0,1,30,Other,Ezechiel Delion,Bash/Shell;C;C++;Clojure;Java;JavaScript;PowerShell;Python;Ruby;Git;Flask;jQuery;React.js;AWS;DynamoDB;Elasticsearch
+0,1,20,Other,Mortimer Atwill,JavaScript;Node.js;TypeScript;Docker;Git;Yarn;Express;React.js;AWS;DigitalOcean;MongoDB;PostgreSQL
+0,1,20,Master,Hobard Moogan,Bash/Shell;C++;Python;Git
+0,1,40,Master,Lizbeth Kardos,Bash/Shell;C#;C++;PowerShell;Python;SQL;Ansible;Docker;Git;AWS;Microsoft Azure;Microsoft SQL Server;MongoDB;SQLite
+0,1,7,Master,Wilfred Gallen,C++;HTML/CSS;JavaScript;Node.js;Python;SQL;TypeScript;Docker;Git;Kubernetes;Angular;Express;MongoDB
+0,1,10,Master,Phaidra Fry,Bash/Shell;Java;JavaScript;Kotlin;Docker;Git;React.js;Google Cloud Platform;Microsoft Azure;Cassandra;Elasticsearch;Firebase;Oracle
+0,1,20,Master,Orson Dennington,C#;JavaScript;Python;TypeScript;Git;ASP.NET Core ;Vue.js;AWS;Microsoft Azure;Microsoft SQL Server
+0,1,10,NoHigherEd,Fanechka Chesworth,SQL;Microsoft SQL Server
+0,1,11,Undergraduate,Angelica Giacubo,C#;HTML/CSS;JavaScript;Node.js;Python;TypeScript;Docker;Git;Kubernetes;Angular;ASP.NET Core ;FastAPI;Flask;React.js;Vue.js;AWS;Microsoft Azure;DynamoDB;Elasticsearch;MongoDB;MySQL;SQLite
+0,1,12,Master,Marcella Eschalotte,Assembly;Bash/Shell;C;Go;HTML/CSS;JavaScript;Python;Docker;Git;MariaDB
+0,1,12,Undergraduate,Clea Fawssett,Bash/Shell;C#;HTML/CSS;JavaScript;Node.js;Python;Ruby;SQL;TypeScript;Docker;Git;Kubernetes;Yarn;Angular;ASP.NET Core ;Express;jQuery;React.js;Google Cloud Platform;Elasticsearch;Firebase;MongoDB;MySQL;Oracle;PostgreSQL;Redis
+0,1,15,Other,Paulette Gurge,Bash/Shell;C#;Go;HTML/CSS;JavaScript;Node.js;Python;SQL;Ansible;Docker;Kubernetes;Terraform;Yarn;ASP.NET;React.js;AWS;Google Cloud Platform;Microsoft Azure;DynamoDB;Microsoft SQL Server;MySQL
+0,1,32,Undergraduate,Pincas Coniff,Bash/Shell;Go;Java;Node.js;Python;Ansible;Docker;Git;Kubernetes;Express;React.js;AWS;Elasticsearch;PostgreSQL;Redis
+0,1,10,Undergraduate,Modesty Antusch,HTML/CSS;JavaScript;Node.js;PHP;Docker;Git;Express;React.js;DigitalOcean;MongoDB;MySQL
+0,1,6,Undergraduate,Ekaterina Chooter,HTML/CSS;JavaScript;Ruby;Docker;Git;Yarn;Angular;Ruby on Rails;Vue.js;AWS;Heroku;Firebase;MySQL;PostgreSQL;Redis
+0,1,23,Undergraduate,Rozanne Burgher,Scala;TypeScript;Docker;Git;Kubernetes;Terraform;Google Cloud Platform;MySQL
+0,1,6,Undergraduate,Celka Rushton,C#;Dart;HTML/CSS;Java;JavaScript;Node.js;PHP;Python;SQL;Git;Unity 3D;Xamarin;Yarn;Flask;jQuery;Laravel;React.js;Spring;Vue.js;Google Cloud Platform;Microsoft Azure;Firebase;MariaDB;Microsoft SQL Server;MongoDB;MySQL;Oracle;PostgreSQL;SQLite
+0,1,5,Master,Erny Pesek,JavaScript;PHP;Git;Yarn;jQuery;Laravel;Vue.js;Heroku;MySQL
+0,1,13,Undergraduate,Lawry Gissing,JavaScript;PHP;Python;Docker;Git;Yarn;Flask;Laravel;React.js;Vue.js;AWS;DigitalOcean;MariaDB;MySQL;PostgreSQL
+0,1,23,Other,Susi Heninghem,Bash/Shell;Java;Rust;SQL;Docker;Git;Spring;AWS;Microsoft Azure;Elasticsearch;PostgreSQL
+0,1,6,Undergraduate,Tomasine Aleso,Python;SQL;Git;Django;DigitalOcean;Heroku;PostgreSQL
+0,1,38,Other,Wittie Jehu,Bash/Shell;C++;PHP;PowerShell;Python;SQL;VBA;MariaDB;Microsoft SQL Server;MySQL;PostgreSQL;SQLite
+0,1,23,Undergraduate,Boote Rutherforth,Bash/Shell;HTML/CSS;Java;JavaScript;PowerShell;Python;Docker;Git;Kubernetes;jQuery;React.js;Spring;Microsoft Azure;IBM DB2;Microsoft SQL Server
+0,1,10,Undergraduate,Silvie Scoyles,C++;HTML/CSS;JavaScript;PowerShell;Python;SQL;Docker;Git;Django;jQuery;React.js;AWS;MariaDB
+0,1,20,Undergraduate,Lizzie Wheadon,HTML/CSS;JavaScript;Ruby;Rust;SQL;TypeScript;Docker;Git;Yarn;React.js;Ruby on Rails;AWS;Heroku;PostgreSQL;Redis
+0,1,16,Undergraduate,Lula Sterry,Bash/Shell;C#;HTML/CSS;JavaScript;Node.js;PowerShell;SQL;TypeScript;Docker;Git;Kubernetes;Yarn;ASP.NET Core ;jQuery;React.js;Microsoft Azure;Microsoft SQL Server;PostgreSQL;SQLite
+0,1,25,Other,Alexis Aries,Bash/Shell;Go;Python;Ruby;Chef;Docker;Git;Terraform;Ruby on Rails;AWS;Google Cloud Platform;Heroku;DynamoDB;Elasticsearch;MySQL;Redis;SQLite
+0,1,13,Undergraduate,Tiffie Schiefersten,Java;Swift;Docker;Git;AWS
+0,1,15,Undergraduate,Kristofor Hegley,C;Java;Kotlin;Ruby;Git;Kubernetes;Terraform;React.js;Ruby on Rails;Spring;AWS;DigitalOcean;Google Cloud Platform;Heroku;IBM Cloud or Watson;Elasticsearch;Firebase;MongoDB;MySQL;Oracle;PostgreSQL;Redis;SQLite
+0,1,32,Undergraduate,Fallon Immings,C#;Dart;HTML/CSS;PowerShell;TypeScript;Git;Angular;ASP.NET;ASP.NET Core ;Elasticsearch;Microsoft SQL Server;Redis;SQLite
+0,1,7,Undergraduate,Sibella Docker,JavaScript;Python;Deno;Git;React.js
+0,1,11,Undergraduate,Fayre Blachford,C#;HTML/CSS;Java;PowerShell;Python;SQL;Docker;Git;ASP.NET Core ;MariaDB;Microsoft SQL Server;MySQL;Oracle;SQLite
+0,1,3,NoHigherEd,Lorilee Riccioppo,Bash/Shell;C#;HTML/CSS;JavaScript;Node.js;PHP;PowerShell;Python;SQL;TypeScript;Git;Angular;ASP.NET;ASP.NET Core ;Laravel;Microsoft Azure;Microsoft SQL Server;MySQL
+0,1,6,Other,Joseito McCathy,JavaScript;Node.js;SQL;Git;AWS;DynamoDB;PostgreSQL
+0,1,18,Master,Cassandre Lapenna,Dart;HTML/CSS;Java;JavaScript;Kotlin;Node.js;SQL;Docker;Git;Yarn;Spring;Vue.js;AWS;PostgreSQL;Redis;SQLite
+0,1,13,Master,Langston Marns,Bash/Shell;C++;Python;Git
+0,1,18,Undergraduate,Ninetta Cosbee,Go;PHP;SQL;Docker;Kubernetes;Laravel;MariaDB
+0,1,8,Other,Winfield Neiland,C#;HTML/CSS;JavaScript;PowerShell;SQL;ASP.NET;Microsoft SQL Server
+0,1,15,Master,Merilee Needham,Bash/Shell;HTML/CSS;Java;JavaScript;Node.js;PHP;PowerShell;Python;SQL;TypeScript;Ansible;Docker;Git;Kubernetes;Terraform;Yarn;Express;React.js;Spring;Microsoft Azure;Elasticsearch;PostgreSQL
+0,1,20,Other,Muhammad Schurcke,C;C#;C++;Haskell;HTML/CSS;JavaScript;Matlab;Node.js;PHP;Python;SQL;TypeScript;Docker;Git;Unity 3D;Yarn;jQuery;Laravel;Symfony;AWS;Elasticsearch;MongoDB;MySQL;Redis;SQLite
+0,1,17,Master,Alika Wooder,Assembly;C;Python;Microsoft Azure
+0,1,15,Other,Abran McKirton,Bash/Shell;C#;C++;HTML/CSS;JavaScript;Kotlin;Node.js;Python;SQL;Swift;Docker;Git;Unity 3D;Angular.js;ASP.NET;ASP.NET Core ;Microsoft Azure;Microsoft SQL Server;PostgreSQL;SQLite
+0,1,10,Undergraduate,Margo Colson,Bash/Shell;Java;Python;Scala;SQL;VBA;Docker;Git;AWS;Google Cloud Platform;MongoDB;MySQL;Oracle;Redis
+0,1,23,Undergraduate,Morena Rabley,HTML/CSS;JavaScript;PHP;Git;MariaDB;MySQL
+0,1,5,Undergraduate,Loren Beniesh,Assembly;Bash/Shell;C;C++;HTML/CSS;Java;JavaScript;Python;SQL;Ansible;Docker;Git;Kubernetes;React.js;Vue.js;AWS;Google Cloud Platform;Firebase;MongoDB;PostgreSQL;SQLite
+0,1,21,Master,Gwyneth Fidgett,C#;JavaScript;PowerShell;SQL;VBA;Docker;Git;Angular;ASP.NET Core ;Google Cloud Platform;Microsoft Azure;Microsoft SQL Server;MySQL;PostgreSQL;SQLite
+0,1,2,Master,Charlotte Davers,Kotlin;Swift;Git;Microsoft Azure;Firebase
+0,1,20,Master,Allegra Petri,JavaScript;Python;Git;Django;FastAPI;Heroku;PostgreSQL
+0,1,8,Other,Gustie Ostridge,HTML/CSS;JavaScript;Node.js;Python;Ruby;TypeScript;Git;Yarn;Express;Flask;React.js;Ruby on Rails;AWS;DynamoDB;Elasticsearch;PostgreSQL
+0,1,4,PhD,Rae Taberner,HTML/CSS;JavaScript;Node.js;PHP;Python;SQL;TypeScript;Docker;Git;Yarn;Angular;Express;Symfony;MariaDB;MySQL;PostgreSQL;SQLite
+0,1,25,Master,Ros Crankhorn,C++;HTML/CSS;JavaScript;Node.js;Objective-C;TypeScript;Git;Yarn;Angular;Django;Gatsby;React.js;AWS;Microsoft Azure
+0,1,10,Undergraduate,Juieta Bravey,C#;HTML/CSS;JavaScript;Node.js;PowerShell;Python;SQL;TypeScript;Git;Angular;Angular.js;ASP.NET;ASP.NET Core ;Express;React.js;Heroku;Microsoft Azure;DynamoDB;Firebase;Microsoft SQL Server;MongoDB;PostgreSQL
+0,1,43,NoHigherEd,Korrie Januszewicz,HTML/CSS;JavaScript;PHP;Python;SQL;Git;Drupal;jQuery;IBM DB2;MariaDB;Microsoft SQL Server;MySQL;Oracle
+0,1,13,Undergraduate,Venita Bonnick,C#;JavaScript;Node.js;TypeScript;Docker;Git;ASP.NET;ASP.NET Core ;Vue.js;Microsoft Azure;Microsoft SQL Server
+0,1,8,Undergraduate,Cookie McCleverty,Bash/Shell;C;LISP;Python;Docker;Git;SQLite
+0,1,1,Undergraduate,Ugo Eves,HTML/CSS;JavaScript;Node.js;TypeScript;Git;Express;React.js;Vue.js;IBM Cloud or Watson;IBM DB2
+0,1,38,Other,Gun Valentetti,Bash/Shell;HTML/CSS;JavaScript;Python;SQL;Ansible;Git;Django;Flask;jQuery;DigitalOcean;MariaDB;PostgreSQL;SQLite
+0,1,20,Other,Garwin Lyosik,JavaScript;Docker;React.js
+0,1,14,Master,Eleonore Epperson,Bash/Shell;Dart;Java;Git;Oracle
+0,1,6,Undergraduate,Zoe Dunridge,HTML/CSS;Java;JavaScript;SQL;Docker;Git;Kubernetes;Angular;Angular.js;jQuery;Spring;Oracle Cloud Infrastructure;MongoDB;MySQL;Oracle;PostgreSQL
+0,1,4,Undergraduate,Catlin Ehlerding,Python;SQL;Git;AWS;Oracle;SQLite
+0,1,15,Master,Allsun Maddox,Delphi;Java;JavaScript;PHP;SQL;Docker;Git;Yarn;Spring;AWS;Elasticsearch;MongoDB;Oracle;PostgreSQL;Redis;SQLite
+0,1,47,Undergraduate,Ange Coneley,Bash/Shell;C;C++;Perl
+0,1,9,Undergraduate,Elliot Sarsfield,C#;HTML/CSS;JavaScript;TypeScript;Docker;Git;Kubernetes;Angular;ASP.NET Core ;Heroku;Firebase;Microsoft SQL Server;MongoDB
+0,1,31,PhD,Janessa Pollicatt,Bash/Shell;C;C++;Perl;Git
+0,1,11,Undergraduate,Kelsey Mozzini,HTML/CSS;JavaScript;Node.js;TypeScript;Yarn;Angular;React.js;AWS
+0,1,10,Undergraduate,Abramo Rathe,Bash/Shell;Java;JavaScript;Kotlin;Python;SQL;TypeScript;Git;Angular;Spring;AWS;DynamoDB;IBM DB2;MySQL;Redis
+0,1,10,Undergraduate,Brandais Senten,Bash/Shell;JavaScript;TypeScript;Git;AWS
+0,1,25,Undergraduate,Freeman Iacovaccio,Bash/Shell;C#;C++;Java;JavaScript;Kotlin;Objective-C;PowerShell;SQL;Swift;Docker;Git;Xamarin;Google Cloud Platform;Microsoft Azure;Firebase;SQLite
+0,1,22,Master,Stesha Botly,Bash/Shell;Groovy;HTML/CSS;Java;JavaScript;Node.js;SQL;Docker;Git;Spring;AWS;Microsoft SQL Server;PostgreSQL
+0,1,35,Master,Debora Zahor,Java;PHP;R;Git;AWS;MySQL
+0,1,17,Undergraduate,Chucho Chmarny,Bash/Shell;HTML/CSS;JavaScript;Node.js;PHP;SQL;TypeScript;Docker;Git;Express;jQuery;Laravel;React.js;Vue.js;AWS;Elasticsearch;MariaDB;MySQL;PostgreSQL;Redis
+0,1,7,Other,Reinaldo Minocchi,Bash/Shell;HTML/CSS;JavaScript;Ruby;SQL;Docker;Git;Kubernetes;Yarn;Angular.js;jQuery;React.js;Ruby on Rails;DigitalOcean;Google Cloud Platform;Heroku;Elasticsearch;Firebase;MySQL;PostgreSQL;Redis
+0,1,5,Master,Madonna Carnegy,Bash/Shell;Python;SQL;Docker;Kubernetes;AWS;DynamoDB;PostgreSQL;Redis
+0,1,18,Master,Natividad Volleth,HTML/CSS;Java;Python;SQL;TypeScript;Git;FastAPI;Flask;Vue.js;AWS;MySQL;PostgreSQL
+0,1,17,Undergraduate,Petrina Kilgannon,Java;Python;Docker;Git;PostgreSQL
+0,1,25,Other,Cary Quin,HTML/CSS;JavaScript;Node.js;PowerShell;Python;SQL;TypeScript;Ansible;Docker;Git;Kubernetes;Express;jQuery;Svelte;Vue.js;AWS;DigitalOcean;Google Cloud Platform;Microsoft Azure;Microsoft SQL Server;MongoDB;PostgreSQL;Redis
+0,1,12,Undergraduate,Hewitt Monday,JavaScript;Node.js;Git;Yarn;Gatsby;React.js;AWS;DynamoDB;Firebase
+0,1,8,Master,Cathy Carstairs,Python;R;Docker;Git;Microsoft Azure
+0,1,14,Master,Wilton Longhirst,C++
+0,1,20,Undergraduate,Raff Poyner,C#;Git;Angular;ASP.NET Core ;Microsoft Azure;Microsoft SQL Server
+0,1,32,Undergraduate,Son Samuels,Bash/Shell;C#;C++;PowerShell;SQL;Git;SQLite
+0,1,15,Undergraduate,Bayard Brunel,C#;HTML/CSS;JavaScript;TypeScript;Git;Angular;ASP.NET Core ;Oracle
+0,1,10,NoHigherEd,Sally Spadazzi,C#;C++;HTML/CSS;JavaScript;SQL;TypeScript;Git;ASP.NET;ASP.NET Core ;jQuery;Elasticsearch;MariaDB;Microsoft SQL Server;Oracle;SQLite
+0,1,3,Undergraduate,Kirbee McBride,HTML/CSS;JavaScript;Node.js;SQL;TypeScript;Git;Yarn;Django;Express;Flask;React.js;AWS;Google Cloud Platform;Heroku;DynamoDB;MongoDB;PostgreSQL;SQLite
+0,1,12,Undergraduate,Dominic Skellington,Bash/Shell;C;C++;HTML/CSS;Java;JavaScript;PHP;Python;R;Ruby;TypeScript;Docker;Git;Terraform;Yarn;Angular.js;Django;Flask;jQuery;Laravel;Ruby on Rails;Symfony;Vue.js;AWS;DigitalOcean;Google Cloud Platform;MariaDB;MySQL;PostgreSQL;Redis;SQLite
+0,1,2,Undergraduate,Gwendolin Blanc,C#;HTML/CSS;JavaScript;PowerShell;Git;Unity 3D;ASP.NET;ASP.NET Core ;jQuery;Microsoft Azure;Microsoft SQL Server
+0,1,6,Other,Robby Shimony,Bash/Shell;C#;Java;Python;Docker;Git;ASP.NET Core ;PostgreSQL
+0,1,16,Undergraduate,Othella Mundford,C#;HTML/CSS;JavaScript;SQL;VBA;Git;ASP.NET;jQuery;AWS;Microsoft SQL Server;MySQL
+0,1,40,PhD,Blaine Vaggs,Python;Git
+0,1,10,Master,Rebe Jessel,Bash/Shell;JavaScript;Node.js;Python;R;SQL;TypeScript;Docker;Git;Kubernetes;Flask;React.js;AWS;Oracle Cloud Infrastructure;MySQL;Oracle;PostgreSQL
+0,1,13,Master,Uriah Brewerton,Python;SQL;Git;Microsoft Azure;Microsoft SQL Server
+0,1,16,Undergraduate,Cy Cotter,Bash/Shell;C;C++;HTML/CSS;JavaScript;Matlab;Node.js;Python;Rust;SQL;Git;Kubernetes;Yarn;Django;AWS;DigitalOcean;PostgreSQL;Redis
+0,1,19,Master,Francois Gibbons,C;C++;Python;Docker;Git
+0,1,7,Undergraduate,Allissa Joynson,C;C#;C++;HTML/CSS;Java;Kotlin;Matlab;Python;R;SQL;Docker;Git;Unity 3D;Angular.js;ASP.NET;Django;Flask;jQuery;React.js;Google Cloud Platform;Firebase;MySQL;Oracle;SQLite
+0,1,20,Other,Waring Prest,C#;HTML/CSS;JavaScript;Node.js;SQL;TypeScript;Docker;Git;Kubernetes;ASP.NET Core ;Express;jQuery;Vue.js;AWS;Microsoft Azure;Microsoft SQL Server
+0,1,7,Undergraduate,Rene Trouel,HTML/CSS;JavaScript;PHP;Git;jQuery;Laravel
+0,1,6,Undergraduate,Artair Chastenet,Go;HTML/CSS;Java;JavaScript;Kotlin;Ruby;SQL;TypeScript;Docker;Git;Kubernetes;Yarn;Django;Flask;jQuery;React.js;Ruby on Rails;Spring;Heroku;Microsoft Azure;MySQL;PostgreSQL;Redis;SQLite
+0,1,25,PhD,Zelda Roizn,C#;HTML/CSS;Java;JavaScript;Matlab;PowerShell;SQL;jQuery;MariaDB;Oracle;PostgreSQL;SQLite
+0,1,28,Undergraduate,Andrus Wasylkiewicz,HTML/CSS;Java;JavaScript;SQL;TypeScript;Docker;Git;React.js;AWS;PostgreSQL
+1,1,5,Other,Desmond Giblin,Dart;Groovy;Java;JavaScript;Kotlin;SQL;Docker;Git;Kubernetes;Express;DigitalOcean;Heroku;MariaDB;Microsoft SQL Server;MongoDB;MySQL
+0,1,7,NoHigherEd,Norrie Rubel,HTML/CSS;JavaScript;Node.js;PHP;SQL;TypeScript;Docker;Git;Yarn;Angular;Express;jQuery;Laravel;React.js;Vue.js;DigitalOcean;Google Cloud Platform;Firebase;MySQL;PostgreSQL;SQLite
+0,1,7,Other,Ursuline Tanby,HTML/CSS;JavaScript;Git;Angular;Vue.js
+0,1,42,Undergraduate,Gregoor Cowdry,C;C++;SQL;VBA;Microsoft SQL Server
+0,1,12,NoHigherEd,Tallia Cruickshanks,Bash/Shell;C++;HTML/CSS;Java;JavaScript;Node.js;Python;Rust;TypeScript;Docker;Git
+0,1,25,Undergraduate,Kendricks Burgott,C#;Java;Objective-C;Python;Swift;Git;Unity 3D;Django;AWS;Google Cloud Platform;Firebase;MySQL;SQLite
+0,1,19,Undergraduate,Luisa Manna,Java;Kotlin;Python;VBA;Git;Spring;Microsoft SQL Server
+0,1,42,PhD,Dasi Caulcutt,Bash/Shell;HTML/CSS;Java;Python;R;SQL;Docker;jQuery;Spring;MySQL
+0,1,5,Undergraduate,Port Dugue,C#;SQL;Git;Microsoft SQL Server
+0,1,31,Master,Eadmund McGlade,C;C#;C++;HTML/CSS;JavaScript;Node.js;PowerShell;Python;SQL;Docker;Git;ASP.NET Core ;jQuery;Microsoft Azure;Microsoft SQL Server;MySQL;PostgreSQL;SQLite
+1,1,35,Master,Lauralee Kleisle,Bash/Shell;HTML/CSS;Java;JavaScript;Python;SQL;Git;Flask;Spring;AWS;Elasticsearch;MariaDB;Oracle
+0,1,10,Undergraduate,Arvin Goulding,C;C++;HTML/CSS;Java;JavaScript;Kotlin;Matlab;Python;SQL;Git;Django;jQuery;React.js;MongoDB;MySQL;PostgreSQL;Redis;SQLite
+0,1,25,Undergraduate,Carly Whorf,Bash/Shell;C#;HTML/CSS;JavaScript;PHP;PowerShell;Python;SQL;TypeScript;Docker;Git;Kubernetes;Yarn;Angular;Angular.js;ASP.NET;ASP.NET Core ;Django;Drupal;Express;jQuery;Laravel;React.js;Symfony;Vue.js;AWS;Microsoft Azure;Elasticsearch;Firebase;MariaDB;Microsoft SQL Server;MongoDB;MySQL;PostgreSQL;Redis;SQLite
+0,1,12,Undergraduate,Patten Callcott,HTML/CSS;JavaScript;Ruby;SQL;Yarn;jQuery;Ruby on Rails;MySQL
+0,1,10,Undergraduate,Elmira Dugood,Bash/Shell;JavaScript;Node.js;Python;TypeScript;Docker;Git;React.js;AWS;DynamoDB;PostgreSQL
+0,1,26,Other,Joaquin Goodayle,C++;HTML/CSS;JavaScript;PowerShell;Python;SQL;Docker;Git;Angular;Angular.js;jQuery;Spring;AWS;Google Cloud Platform;IBM Cloud or Watson;Elasticsearch;Oracle;SQLite
+0,1,10,Master,Francisco Timberlake,Java;JavaScript;Node.js;Python;SQL;Git;jQuery;React.js;Spring;MariaDB;Oracle
+0,1,9,Undergraduate,Syman Broadfoot,Bash/Shell;C;Clojure;Groovy;HTML/CSS;JavaScript;Node.js;Python;Rust;SQL;TypeScript;Ansible;Git;Express;Flask;React.js;AWS;PostgreSQL
+0,1,16,Master,Margery Twohig,C;C#;C++;Delphi;HTML/CSS;JavaScript;Node.js;Python;SQL;TypeScript;Angular;ASP.NET;ASP.NET Core ;Django;jQuery;React.js;Google Cloud Platform;Heroku;Microsoft Azure;Elasticsearch;Firebase;Microsoft SQL Server;PostgreSQL;Redis;SQLite
+0,1,13,Undergraduate,Jazmin Paske,HTML/CSS;JavaScript;PHP;Python;SQL;Git;jQuery;Laravel;React.js;Vue.js;AWS;Oracle Cloud Infrastructure;MySQL;Oracle;SQLite
+0,1,10,Undergraduate,Loella Cello,C#;HTML/CSS;Java;JavaScript;Node.js;SQL;Swift;Git;Xamarin;Angular;jQuery;Spring;AWS;DigitalOcean;Google Cloud Platform;Firebase;MongoDB;MySQL;PostgreSQL
+0,1,41,NoHigherEd,Leontyne Stollen,Bash/Shell;C++;Perl
+0,1,37,NoHigherEd,Caye Revitt,Bash/Shell;C;Perl;PowerShell;SQL;Docker;Git;Kubernetes;MariaDB;Microsoft SQL Server;MySQL;PostgreSQL;SQLite
+0,1,17,Other,Micky Waghorn,JavaScript;TypeScript;Git;React.js
+0,1,35,PhD,Yance Winstone,C;JavaScript;Matlab;Node.js;Python
+0,1,12,Undergraduate,Breena Couling,C;HTML/CSS;JavaScript;Rust;Docker;Git;Vue.js
+0,1,20,Master,Karisa Coast,Bash/Shell;C;C++;Matlab;Python;Git
+0,1,6,Undergraduate,Margaretta Kincla,HTML/CSS;JavaScript;Node.js;PHP;Python;TypeScript;Docker;Git;Yarn;Django;jQuery;React.js;DigitalOcean;Heroku;PostgreSQL;Redis;SQLite
+0,1,5,Undergraduate,Brent Leese,Bash/Shell;JavaScript;Python;SQL;Git;Google Cloud Platform;Firebase;Microsoft SQL Server;MySQL;PostgreSQL
+0,1,20,Master,Fidelia Manthorpe,C++;Crystal;Java;JavaScript;Node.js;Rust;Ansible;Docker;Git;Terraform;Express;AWS;Redis
+0,1,15,Master,Adina Mammatt,C#;HTML/CSS;Java;JavaScript;Node.js;PHP;SQL;TypeScript;Docker;Git;Yarn;ASP.NET Core ;Express;React.js;Vue.js;AWS;Heroku;Firebase;MariaDB;Microsoft SQL Server;PostgreSQL
+0,1,8,Master,Milicent Battram,C;HTML/CSS;JavaScript;Matlab;Node.js;PHP;PowerShell;SQL;TypeScript;Docker;Git;Yarn;Angular;Express;jQuery;Laravel;React.js;Vue.js;Firebase;MariaDB;MongoDB;MySQL;PostgreSQL;Redis;SQLite
+0,1,10,Master,Gayelord Churching,C++;Python;R;SQL;VBA;Git;AWS;Google Cloud Platform;Oracle
+0,1,12,PhD,Farrell Danilchik,Bash/Shell;C++;Python;Ansible;Docker;Git
+0,1,20,Undergraduate,Delmer Woolway,C#;C++;F#;Git
+0,1,4,Other,Nikki Corsar,HTML/CSS;Java;JavaScript;PHP;Python;SQL;Git;Django;FastAPI;jQuery;Laravel;React.js;AWS;Heroku;Firebase;MariaDB;MySQL
+0,1,23,Master,Franky Rigge,Assembly;Bash/Shell;C;Java;Python;R;Scala;SQL;Docker;Git;AWS;DynamoDB;Elasticsearch;MongoDB;MySQL;Redis;SQLite
+0,1,7,Undergraduate,Haskell Shorthill,Dart;HTML/CSS;Java;JavaScript;Node.js;PHP;Python;SQL;Docker;Git;Express;jQuery;Laravel;React.js;Heroku;Microsoft SQL Server;MongoDB;MySQL;SQLite
+0,1,8,Master,Gilberta Caltera,HTML/CSS;Java;JavaScript;Node.js;PHP;Python;SQL;TypeScript;Docker;Git;Kubernetes;Yarn;Angular;Express;jQuery;React.js;Spring;Symfony;Vue.js;Heroku;Elasticsearch;IBM DB2;MongoDB;PostgreSQL
+0,1,20,Master,Farley Hillburn,Bash/Shell;Groovy;Java;Docker;Git;Kubernetes;Terraform;Spring;AWS;Google Cloud Platform;IBM DB2
+0,1,3,Undergraduate,Herman Cordaroy,Python;SQL;Microsoft Azure;Microsoft SQL Server;MySQL;SQLite
+0,1,7,Other,Donavon Chiles,C#;C++;HTML/CSS;Java;JavaScript;PHP;PowerShell;Python;SQL;VBA;Git;Unity 3D;ASP.NET;ASP.NET Core ;jQuery;AWS;MariaDB;Microsoft SQL Server;MySQL;SQLite
+0,1,14,Other,Delainey Preto,Assembly;Bash/Shell;C#;Groovy;HTML/CSS;Java;JavaScript;Node.js;PowerShell;Python;Ruby;SQL;Ansible;Docker;Git;Express;React.js;Ruby on Rails;Microsoft Azure;Elasticsearch;Microsoft SQL Server;MySQL;PostgreSQL
+0,1,38,Other,Delmor Davidovich,Groovy;Java;SQL;Git;Oracle
+0,1,40,Undergraduate,Jacklyn Hannant,Bash/Shell;C++;Java;Docker;Git
+0,1,6,Undergraduate,Janeva Happs,Bash/Shell;JavaScript;PHP;Python;TypeScript;Git;Kubernetes;Terraform;FastAPI;Flask;React.js;AWS;DynamoDB;MySQL;Redis
+0,1,7,NoHigherEd,Marcie Woller,Bash/Shell;HTML/CSS;JavaScript;Node.js;TypeScript;Docker;Git;ASP.NET;Express;React.js;AWS;Heroku;Firebase;MongoDB;PostgreSQL;Redis
+0,1,13,Master,Dorita Fynes,C++;Dart;Go;Java;JavaScript;Matlab;Node.js;PHP;PowerShell;Python;R;SQL;Deno;Docker;Git;Yarn;Angular;Angular.js;ASP.NET;ASP.NET Core ;Django;Express;Flask;jQuery;Laravel;React.js;Vue.js;AWS;DigitalOcean;Google Cloud Platform;Heroku;Microsoft Azure;Firebase;MariaDB;Microsoft SQL Server;MongoDB;MySQL;Oracle;PostgreSQL;SQLite
+0,1,9,Undergraduate,Mannie Stead,C++;Go;HTML/CSS;Java;JavaScript;Matlab;Node.js;Python;Express;Flask;Spring;Google Cloud Platform;MongoDB
+1,1,15,Other,Lonny Willacot,HTML/CSS;JavaScript;PHP;MariaDB
+0,1,6,Other,Marleah Weepers,Assembly;C;C#;C++;HTML/CSS;JavaScript;Matlab;Node.js;SQL;Xamarin;ASP.NET;ASP.NET Core ;Express;jQuery;AWS;Microsoft Azure;MariaDB;Microsoft SQL Server;MySQL;SQLite
+0,1,4,Other,Stavros Mitton,C#;HTML/CSS;Java;JavaScript;PHP;Python;SQL;Git;jQuery;MariaDB;MySQL;SQLite
+0,1,5,NoHigherEd,Morris Cridlin,Kotlin;Python;Git;Django;PostgreSQL
+0,1,7,Undergraduate,Emile Denekamp,HTML/CSS;Java;JavaScript;Node.js;Docker;Git;Kubernetes;Angular;React.js;AWS;Heroku;MongoDB;MySQL;PostgreSQL;Redis
+0,1,5,Other,Clovis Thornbarrow,Java;JavaScript;PHP;SQL;Git;jQuery;MongoDB;MySQL;PostgreSQL
+0,1,37,Master,Ganny Urch,Bash/Shell;Go;Ansible;Docker;Microsoft Azure;Elasticsearch
+0,1,13,Other,Malinde De Gouy,Bash/Shell;C;C#;C++;HTML/CSS;Java;JavaScript;PHP;Python;Git;jQuery;Microsoft Azure;MariaDB;MongoDB;MySQL
+0,1,12,Master,Arnie Sabbins,HTML/CSS;JavaScript;Git
+0,1,7,Master,Carolus Picardo,Java;Kotlin;Rust;Swift;TypeScript;Docker;Git;Yarn;Angular;React.js
+0,1,36,Undergraduate,Laughton Southern,C#;SQL;Git;Microsoft Azure;Microsoft SQL Server;SQLite
+0,1,15,Master,Dukie Castanone,Bash/Shell;Java;Python;Rust;Docker;Git;Kubernetes;Terraform;Yarn;Django;AWS;Google Cloud Platform;PostgreSQL
+0,1,13,Undergraduate,Korey Bushell,HTML/CSS;Java;JavaScript;Node.js;TypeScript;Ansible;Docker;Git;Kubernetes;Angular.js;Django;Express;Flask;jQuery;React.js;AWS;Google Cloud Platform;Cassandra;DynamoDB;MongoDB;MySQL;PostgreSQL;Redis
+0,1,20,Undergraduate,Cammi Goshawk,C++;JavaScript;Node.js;TypeScript;Git;Unity 3D;Unreal Engine;Angular;Angular.js;jQuery;React.js;Ruby on Rails;AWS;DigitalOcean;Google Cloud Platform;Microsoft Azure;Firebase;MongoDB;MySQL;PostgreSQL;SQLite
+0,1,19,Undergraduate,Misti Kuller,HTML/CSS;JavaScript;Node.js;TypeScript;Deno;Docker;Git;Yarn;Angular;Angular.js;ASP.NET;ASP.NET Core ;Express;Gatsby;jQuery;React.js;Svelte;Vue.js;AWS;Microsoft Azure;Firebase;MongoDB
+0,1,12,Other,Aubrie Piatkow,JavaScript;Node.js;React.js;SQLite
+0,1,14,Undergraduate,Rockwell Roark,Bash/Shell;C;C++;Go;HTML/CSS;Ansible;Docker;Git;Kubernetes;AWS;Google Cloud Platform;Oracle
+0,1,11,Master,Saxe Kovacs,Java;Python;SQL;Git;MariaDB;Microsoft SQL Server
+0,1,11,Master,Mel Sisneros,HTML/CSS;JavaScript;TypeScript;Docker;Git;Yarn;Angular
+0,1,10,Undergraduate,Valene Weildish,HTML/CSS;Java;JavaScript;PHP;SQL;Git;Angular.js;jQuery;Spring;Elasticsearch;Oracle
+0,1,23,Undergraduate,Rhianon Woollcott,Bash/Shell;Java;Python;SQL;Docker;Git;SQLite
+0,1,8,Undergraduate,Ilario Groome,HTML/CSS;Java;JavaScript;TypeScript;Angular;Laravel;Elasticsearch;Firebase
+0,1,5,Undergraduate,Lief McDade,Java;Python;Git;MySQL;SQLite
+0,1,41,Other,Turner Martine,C#;HTML/CSS;JavaScript;PowerShell;SQL;TypeScript;Git;Xamarin;Angular;ASP.NET;ASP.NET Core ;jQuery;Microsoft Azure;Microsoft SQL Server;SQLite
+1,1,8,Undergraduate,Tisha Wolton,C#;HTML/CSS;JavaScript;Node.js;PowerShell;SQL;Docker;Git;Unity 3D;ASP.NET;ASP.NET Core ;Express;jQuery;React.js;Vue.js;Microsoft Azure;Firebase;Microsoft SQL Server;MongoDB;MySQL;PostgreSQL;SQLite
+0,1,4,Undergraduate,Carlin Dunlap,HTML/CSS;JavaScript;TypeScript;Git;Angular;Microsoft Azure
+0,1,35,Undergraduate,Sue Bubbear,Bash/Shell;C#;HTML/CSS;JavaScript;PowerShell;Python;Rust;SQL;TypeScript;Docker;Git;Kubernetes;Xamarin;Angular.js;ASP.NET;ASP.NET Core ;Flask;jQuery;React.js;AWS;Microsoft Azure;Microsoft SQL Server;MySQL;Oracle
+0,1,6,Undergraduate,Friedrich Tomsett,Bash/Shell;C#;HTML/CSS;JavaScript;Node.js;Perl;PowerShell;Python;Rust;SQL;Docker;Git;Kubernetes;Puppet;ASP.NET;ASP.NET Core ;Django;Flask;React.js;Svelte;AWS;DigitalOcean;Google Cloud Platform;Microsoft Azure;Microsoft SQL Server;Oracle;PostgreSQL;Redis;SQLite
+0,1,5,Undergraduate,Dasi Maffia,C++
+0,1,3,Master,Dal Pestor,Bash/Shell;Python;Docker;Git;Django;Flask;AWS;MariaDB;MySQL;PostgreSQL;SQLite
+0,1,38,Undergraduate,Toddie Ferruzzi,C#;Go;HTML/CSS;JavaScript;SQL;Git;ASP.NET Core ;jQuery;Vue.js;Microsoft SQL Server
+0,1,17,Undergraduate,Deny Enrich,HTML/CSS;JavaScript;PHP;Python;SQL;Git;Django;MySQL;PostgreSQL;Redis;SQLite
+0,1,15,PhD,Asia Ames,Python;R
+0,1,4,Undergraduate,Mildred Dugall,C++;JavaScript;TypeScript;Git;Yarn;Angular;React.js;Heroku;Microsoft Azure;Firebase;Oracle
+0,1,7,Master,Jard Klaas,C;Python;R;SQL;Git;Microsoft Azure;Microsoft SQL Server;Oracle
+0,1,13,Master,Alexandre Elwill,C#;HTML/CSS;Java;JavaScript;SQL;VBA;Git;Angular.js;ASP.NET;IBM DB2;MariaDB;Microsoft SQL Server;MySQL;Oracle;PostgreSQL
+0,1,10,Undergraduate,Lyman Madsen,Bash/Shell;C;Go;Groovy;HTML/CSS;Java;JavaScript;Node.js;Python;SQL;Swift;TypeScript;Docker;Git;Kubernetes;Terraform;Yarn;Express;Flask;jQuery;React.js;Spring;AWS;DigitalOcean;Google Cloud Platform;DynamoDB;Elasticsearch;Firebase;MySQL;Redis;SQLite
+0,1,15,Master,Coral Bassingden,Java;Python;Scala;Git;Kubernetes;Django;Spring;AWS;MongoDB;PostgreSQL
+0,1,6,Undergraduate,Igor Houlridge,Python;SQL;MySQL;PostgreSQL
+0,1,3,Undergraduate,Terrijo Simunek,HTML/CSS;JavaScript;Node.js;Ruby;Git;Yarn;jQuery;React.js;Ruby on Rails;Vue.js;AWS;Google Cloud Platform;Heroku;MongoDB;PostgreSQL;SQLite
+0,1,15,Master,Elsi Empson,Bash/Shell;C;Groovy;Python;Ansible;Git
+0,1,30,Undergraduate,Rana Moakler,Java;Kotlin;Objective-C;SQL;Docker;Git;AWS;Google Cloud Platform;Firebase;MySQL;Oracle;PostgreSQL;SQLite
+0,1,7,Undergraduate,Jaymie Kryska,C++;Groovy;Java;Python;Docker;Git;Kubernetes;Terraform;Spring;Microsoft Azure;MySQL;Oracle;PostgreSQL;SQLite
+0,1,16,Undergraduate,Marty Moncreif,Bash/Shell;C;C++;Java;JavaScript;Python;Ansible;Docker;Git;Kubernetes;AWS;Cassandra;PostgreSQL
+0,1,16,PhD,Maximo Warrington,Bash/Shell;HTML/CSS;Java;Docker;Git;Spring;Microsoft SQL Server;MySQL;Oracle
+0,1,9,Other,Mechelle Normanville,Bash/Shell;HTML/CSS;Java;JavaScript;PHP;Python;Scala;SQL;TypeScript;Docker;Git;React.js;AWS;Cassandra;DynamoDB;MariaDB;MongoDB;MySQL;PostgreSQL;SQLite
+0,1,6,Undergraduate,Ursulina Barthot,Go;HTML/CSS;JavaScript;Node.js;Python;Rust;TypeScript;Docker;Git;Express;MariaDB
+0,1,37,Undergraduate,Mehetabel Stanworth,C;C#;C++;HTML/CSS;Java;PHP;PowerShell;Rust;SQL;Docker;Git;ASP.NET;Spring;MariaDB;Microsoft SQL Server;PostgreSQL
+0,1,6,Undergraduate,Virgil Van Giffen,C;C++;Go;Java;JavaScript;Node.js;Python;R;Ruby;SQL;Docker;Git;Yarn;Express;jQuery;React.js;Ruby on Rails;AWS;Heroku;DynamoDB;MongoDB;PostgreSQL
+0,1,12,Master,Penelopa Kemmer,C#;PHP;SQL;Docker;Git;Kubernetes;MariaDB;Redis
+0,1,10,Undergraduate,Gerladina Ochterlony,Python;Swift;Docker;Git;Kubernetes;Django;Flask;AWS;Heroku;MongoDB;MySQL;PostgreSQL;Redis
+0,1,13,Undergraduate,Carena Schubbert,C#;HTML/CSS;JavaScript;SQL;Git;ASP.NET;ASP.NET Core ;Microsoft SQL Server
+0,1,20,Undergraduate,Nevin Wolvey,Elixir;Erlang;Git;Terraform;AWS
+0,1,5,Other,Sibyl O'Glassane,C#;JavaScript;Python;Docker;Git;Yarn;Django;jQuery;React.js;Heroku;Oracle Cloud Infrastructure;MySQL;PostgreSQL;SQLite
+0,1,21,Undergraduate,Linzy Reavell,C;C++;Java;Rust;Git;Terraform;Angular;Google Cloud Platform;PostgreSQL
+0,1,39,Undergraduate,Brade Sigars,Bash/Shell;C++;HTML/CSS;JavaScript;Node.js;PHP;SQL;Docker;Git;jQuery;Symfony;Oracle
+0,1,10,Other,Margret Tytherton,C#;HTML/CSS;JavaScript;Node.js;TypeScript;Git;Angular;ASP.NET;ASP.NET Core ;Vue.js;Microsoft Azure;Microsoft SQL Server
+0,1,25,Undergraduate,Flemming Haresnaip,Kotlin;Objective-C;Ruby;Swift;AWS
+0,1,4,Master,Travis Keelan,Go;Groovy;HTML/CSS;Java;JavaScript;Python;SQL;Docker;Git;jQuery;Spring;MySQL;PostgreSQL;SQLite
+0,1,38,Master,Zia Brumpton,Java;Chef;Docker;Git;Kubernetes;Spring;Elasticsearch;MongoDB;MySQL
+0,1,12,Undergraduate,Nat Greir,Bash/Shell;HTML/CSS;Java;JavaScript;Node.js;PHP;Python;SQL;TypeScript;Git;Angular;Django;Express;Spring;AWS;DynamoDB;Elasticsearch;MariaDB;MongoDB;MySQL;PostgreSQL;Redis
+0,1,8,NoHigherEd,Tripp Posen,Go;HTML/CSS;JavaScript;Node.js;PHP;Python;SQL;TypeScript;Docker;Kubernetes;React.js;DigitalOcean;Google Cloud Platform;MongoDB;MySQL;PostgreSQL;Redis
+0,1,16,Master,Jocelin Sclater,C#;Java;JavaScript;SQL;TypeScript;Docker;Git;Terraform;Yarn;ASP.NET;ASP.NET Core ;Spring;Microsoft Azure;Microsoft SQL Server;Redis
+0,1,2,Undergraduate,Nanette Soloway,Bash/Shell;Go;HTML/CSS;JavaScript;Node.js;SQL;TypeScript;Docker;Git;React.js;MongoDB;PostgreSQL
+0,1,7,Undergraduate,Dannye Santry,Bash/Shell;HTML/CSS;JavaScript;Node.js;TypeScript;Docker;Git;Yarn;Gatsby;jQuery;Laravel;React.js;Elasticsearch;MariaDB;MySQL
+0,1,12,Master,Leoine Oakshott,C#;HTML/CSS;JavaScript;Node.js;PowerShell;SQL;Git;Microsoft SQL Server
+0,1,29,PhD,Rinaldo Goodhall,C++;Python
+0,1,35,Undergraduate,Arda Rayburn,Assembly;C;C#;C++;Delphi;HTML/CSS;Java;JavaScript;PHP;PowerShell;Ruby;SQL;TypeScript;Docker;Git;ASP.NET;ASP.NET Core ;jQuery;React.js;Ruby on Rails;Microsoft Azure;Oracle Cloud Infrastructure;Elasticsearch;Microsoft SQL Server;MongoDB;MySQL;PostgreSQL;SQLite
+0,1,5,Master,Mandy Geekin,Java;JavaScript;SQL;TypeScript;Git;React.js;Spring;AWS;MySQL
+0,1,47,Other,Jackqueline Battisson,Delphi;Git;Microsoft SQL Server;SQLite
+0,1,12,Other,Arlen Jeffes,C;HTML/CSS;JavaScript;Node.js;PHP;Python;SQL;TypeScript;Ansible;Docker;Git;Yarn;Django;Flask;jQuery;React.js;DigitalOcean;Microsoft Azure;Elasticsearch;MariaDB;MySQL;PostgreSQL;Redis;SQLite
+0,1,3,Undergraduate,Roanna Hurdle,Bash/Shell;PowerShell;Python;R;SQL;Docker;Git;FastAPI;DigitalOcean;PostgreSQL
+0,1,26,Other,Forster Oswal,Bash/Shell;C#;HTML/CSS;JavaScript;PHP;SQL;Docker;Git;jQuery;Symfony;AWS;DigitalOcean;Microsoft Azure;MariaDB;Microsoft SQL Server;MySQL;PostgreSQL;Redis
+0,1,13,Master,Petrina Crapper,Elixir;Go;Rust;Docker;Git;AWS;MySQL;PostgreSQL;Redis
+0,1,5,Undergraduate,Sig Arnoult,HTML/CSS;Java;JavaScript;SQL;Ansible;Git;React.js;Spring;Firebase;Microsoft SQL Server;MongoDB;MySQL;Oracle;PostgreSQL;Redis
+0,1,5,Undergraduate,Wright Chantrell,C;C#;Java;JavaScript;Python;Git;React.js;Google Cloud Platform;MySQL;PostgreSQL
+0,1,10,Undergraduate,Norry Asel,C#;Git;Oracle
+0,1,10,Undergraduate,Gray Simms,C;C#;C++;HTML/CSS;JavaScript;Python;Git;Unity 3D;Flask;DigitalOcean;MySQL;SQLite
+0,1,36,Other,Lindsay Cawt,C#;PowerShell;SQL;Elasticsearch;Microsoft SQL Server;Oracle;PostgreSQL
+0,1,6,Undergraduate,Mellisent Bourthoumieux,Bash/Shell;C#;HTML/CSS;JavaScript;Node.js;PowerShell;SQL;TypeScript;Deno;Git;Yarn;ASP.NET;ASP.NET Core ;jQuery;Vue.js;Microsoft SQL Server;MongoDB;PostgreSQL
+0,1,2,Other,Elaine Cosens,C#;HTML/CSS;JavaScript;SQL;ASP.NET;Microsoft SQL Server;Oracle
+0,1,18,Master,Andre Nowell,Bash/Shell;HTML/CSS;JavaScript;PowerShell;Python;SQL;Docker;Git;Django;Flask;jQuery;DigitalOcean;Elasticsearch;MySQL;PostgreSQL;SQLite
+0,1,10,Master,Tabor Harriday,C++;HTML/CSS;JavaScript;Node.js;Git;jQuery;AWS;MongoDB
+0,1,23,Undergraduate,Marcela Limprecht,C#;HTML/CSS;JavaScript;PHP;Git;ASP.NET;jQuery;Microsoft Azure;Microsoft SQL Server;MySQL
+0,1,42,Master,Meggy Coomer,C;Java;Perl
+0,1,13,Undergraduate,Genovera Milner,Assembly;Bash/Shell;C;Dart;Go;HTML/CSS;Java;JavaScript;Matlab;Node.js;Objective-C;Swift;Docker;Git;Yarn;Express;jQuery;React.js;Svelte;Google Cloud Platform;Heroku;IBM Cloud or Watson;Oracle Cloud Infrastructure;Firebase;Microsoft SQL Server;MongoDB;SQLite
+0,1,21,Master,Jewelle Yarrington,Java;Python;SQL;Docker;Git;MariaDB;Microsoft SQL Server;MySQL
+0,1,8,Master,Kameko MacKee,C++;HTML/CSS;JavaScript;Python;R;Docker;Git;Yarn;Django;Flask;React.js;Vue.js;Microsoft Azure;Firebase;MongoDB;MySQL
+0,1,15,Other,Allissa Balden,Bash/Shell;HTML/CSS;Java;JavaScript;Node.js;Python;SQL;TypeScript;Docker;Git;Terraform;Yarn;Express;React.js;Spring;AWS;Heroku;DynamoDB;MySQL;PostgreSQL;Redis
+0,1,8,Undergraduate,Win Ellington,Bash/Shell;HTML/CSS;JavaScript;Node.js;Python;TypeScript;Docker;Git;Yarn;React.js;DigitalOcean
+0,1,10,Undergraduate,Ettore Chainey,Bash/Shell;C;C#;Go;Java;JavaScript;Node.js;Python;Git;Kubernetes;Angular.js;ASP.NET Core ;jQuery;Spring;Microsoft Azure;Microsoft SQL Server;MySQL;PostgreSQL;Redis;SQLite
+0,1,24,Master,Gusella Hasker,Bash/Shell;Go;Python;Ansible;Git;AWS;DigitalOcean;Elasticsearch;Microsoft SQL Server;MongoDB;PostgreSQL;Redis
+0,1,12,Undergraduate,Chandal Ledwidge,C#;HTML/CSS;JavaScript;Node.js;Python;SQL;TypeScript;Git;ASP.NET Core ;Django;FastAPI;Flask;Vue.js;AWS;Heroku;Microsoft Azure;Microsoft SQL Server;MongoDB;MySQL;Oracle;PostgreSQL;Redis
+0,1,4,Undergraduate,Damien Botfield,Bash/Shell;HTML/CSS;JavaScript;Node.js;TypeScript;Docker;Git;Yarn;Angular;Express;AWS;Heroku;MongoDB;PostgreSQL
+0,1,13,Master,Mickie Belfrage,Bash/Shell;C;C++;Python;Docker;Git;AWS
+0,1,15,Undergraduate,Lusa Crebbin,C#;HTML/CSS;JavaScript;Node.js;PHP;TypeScript;Ansible;Docker;Git;Kubernetes;Pulumi;Terraform;Yarn;Express;React.js;Vue.js;AWS;DigitalOcean;Google Cloud Platform;Heroku;Elasticsearch;Firebase;MariaDB;MongoDB;MySQL;PostgreSQL
+0,1,4,Undergraduate,Carver Jakaway,HTML/CSS;Java;JavaScript;Kotlin;TypeScript;Flow;Gatsby;React.js;AWS;MySQL
+0,1,6,Undergraduate,Sancho Shires,C#;HTML/CSS;JavaScript;Node.js;PHP;SQL;TypeScript;Git;ASP.NET;Gatsby;jQuery;Laravel;React.js;Vue.js;Microsoft Azure;MariaDB;Microsoft SQL Server;MySQL
+0,1,13,Undergraduate,Claybourne Culshaw,Java;Kotlin;SQL;Git;SQLite
+0,1,5,Master,Winn Climson,Python;Docker;Git;Terraform;Flask;AWS;DigitalOcean;Google Cloud Platform;DynamoDB;MariaDB;MongoDB;MySQL;PostgreSQL;Redis;SQLite
+0,1,25,PhD,Dorice Geraudel,Bash/Shell;HTML/CSS;JavaScript;Julia;Python;Docker;Git;Kubernetes;jQuery;Vue.js;AWS;Heroku;Microsoft Azure;PostgreSQL
+0,1,25,Other,Giffie Kuhlen,Bash/Shell;HTML/CSS;Java;JavaScript;PHP;Python;SQL;Ansible;Docker;Git;Angular.js;Django;Drupal;Flask;jQuery;React.js;Google Cloud Platform;MariaDB;MySQL;PostgreSQL;Redis
+0,1,25,Master,Stanton Jowling,Bash/Shell;HTML/CSS;Java;JavaScript;PowerShell;SQL;TypeScript;Git;Angular;Spring;PostgreSQL
+0,1,13,Undergraduate,Madge Frigout,Groovy;HTML/CSS;JavaScript;Kotlin;Node.js;PowerShell;TypeScript;Deno;Docker;Flow;Git;Express;React.js;Spring;AWS;Couchbase;Firebase;MySQL;Redis;SQLite
+0,1,18,Master,Nap Meads,C#;F#;Java;JavaScript;PowerShell;SQL;Ansible;Git;ASP.NET;ASP.NET Core ;jQuery;Vue.js;Microsoft SQL Server
+0,1,5,Master,Barton Master,Matlab;Python
+0,1,12,Other,Enrique Hadye,Bash/Shell;HTML/CSS;Java;JavaScript;Python;SQL;TypeScript;Git;Yarn;React.js;PostgreSQL
+0,1,11,Other,Christoforo Kitchingham,Kotlin;Git;React.js;Svelte;Firebase
+0,1,10,Master,Berny Pagett,Bash/Shell;C;HTML/CSS;Python;SQL;Ansible;Docker;Git;Kubernetes;Puppet;Terraform;Django;FastAPI;Flask;jQuery;AWS;DigitalOcean;Google Cloud Platform;Heroku;Microsoft Azure;DynamoDB;Elasticsearch;MariaDB;Microsoft SQL Server;MongoDB;MySQL;Oracle;PostgreSQL;Redis;SQLite
+0,1,16,Undergraduate,Ivan Dyte,C#;HTML/CSS;JavaScript;PowerShell;SQL;VBA;ASP.NET;ASP.NET Core ;jQuery;Vue.js;AWS;Microsoft Azure;Microsoft SQL Server
+0,1,25,Other,Giovanni Pinwell,Bash/Shell;C++;HTML/CSS;JavaScript;Node.js;SQL;TypeScript;VBA;Docker;Git;Kubernetes;Angular;Express;jQuery;React.js;Vue.js;AWS;Microsoft Azure;Couchbase;Firebase;MongoDB;PostgreSQL
+0,1,9,Undergraduate,Sibella Gladdish,C#;Go;JavaScript;Node.js;PowerShell;Python;SQL;TypeScript;Docker;Git;Puppet;ASP.NET;ASP.NET Core ;DigitalOcean;Microsoft Azure;Microsoft SQL Server;MySQL;Redis
+0,1,15,Master,Anne-corinne Copeman,Java;Kotlin;Git;AWS
+0,1,16,PhD,Selie Joplin,C++;Go;HTML/CSS;JavaScript;Node.js;Python;Ansible;Docker;Git;Express;Vue.js;DigitalOcean;Elasticsearch;MongoDB;Redis
+0,1,12,Master,Moe Shewsmith,Bash/Shell;Scala;Git;Yarn;Microsoft Azure
+0,1,19,Master,Tamarah Senten,Bash/Shell;Java;JavaScript;Perl;Python;R;Docker;Git;Flask;jQuery;AWS;MySQL;PostgreSQL
+0,1,12,Undergraduate,Alia Kiehne,Java;Kotlin;SQL;Git;Spring;MySQL;SQLite
+0,1,18,Undergraduate,Iorgo Bedminster,Bash/Shell;C#;C++;HTML/CSS;JavaScript;Python;SQL;Git;DigitalOcean;Google Cloud Platform;MySQL
+0,1,15,Master,Luciana Dand,C#;Matlab;Unity 3D
+0,1,13,Master,Catlin Yurinov,Go;HTML/CSS;JavaScript;Ruby;SQL;Docker;Git;Kubernetes;Terraform;React.js;Ruby on Rails;Google Cloud Platform;Heroku;PostgreSQL
+0,1,30,Master,Corissa Hampson,Bash/Shell;C#;Delphi;HTML/CSS;Java;JavaScript;Matlab;Node.js;Perl;PHP;PowerShell;Python;SQL;VBA;Git;jQuery;Laravel;React.js;Vue.js;MariaDB;Microsoft SQL Server;MySQL;SQLite
+0,1,8,Undergraduate,Rozella Tavner,C;C++;HTML/CSS;Java;JavaScript;Node.js;PowerShell;Python;SQL;Docker;Git;Yarn;Express;Flask;jQuery;React.js;Heroku;MongoDB;MySQL
+0,1,15,Undergraduate,Donny Booeln,HTML/CSS;Java;JavaScript;Node.js;TypeScript;Docker;Git;Angular;jQuery;Spring;AWS
+0,1,34,Undergraduate,Merna Kleinsinger,C#;HTML/CSS;SQL;Git;ASP.NET;jQuery;Microsoft Azure;Microsoft SQL Server
+0,1,8,Undergraduate,Irina Polack,Bash/Shell;C;C#;Dart;HTML/CSS;JavaScript;Objective-C;PHP;Python;SQL;Docker;Git;Xamarin;Yarn;ASP.NET;ASP.NET Core ;Drupal;jQuery;React.js;Ruby on Rails;AWS;Couchbase;DynamoDB;Microsoft SQL Server
+0,1,9,Undergraduate,Rafaellle Pindred,C;Java;Kotlin;Git;Spring;Vue.js;AWS;MongoDB
+0,1,42,Undergraduate,Kimmi Deam,Swift;Firebase;MongoDB
+0,1,18,Other,Catha Mucklestone,HTML/CSS;JavaScript;Node.js;PHP;SQL;Docker;Git;jQuery;Laravel;Symfony;DigitalOcean;Elasticsearch;MariaDB;MySQL;Redis
+0,1,14,Undergraduate,Gasper Bras,HTML/CSS;JavaScript;Python;SQL;TypeScript;Docker;Git;Angular;Django;DigitalOcean;PostgreSQL
+0,1,4,Undergraduate,Raf Terzi,C;C++;HTML/CSS;Java;JavaScript;Python;TypeScript;Docker;Git;Angular;Django;Flask;jQuery;Firebase;PostgreSQL;SQLite
+0,1,18,Master,Xerxes Hattigan,Bash/Shell;C#;HTML/CSS;JavaScript;PowerShell;Python;SQL;Docker;Git;Kubernetes;ASP.NET;ASP.NET Core ;jQuery;Microsoft Azure;Microsoft SQL Server
+0,1,10,Other,Pru Rootes,Delphi;HTML/CSS;JavaScript;PHP;SQL;TypeScript;Docker;Git;Angular.js;jQuery;Laravel;Symfony;Vue.js;DigitalOcean;MySQL;PostgreSQL;SQLite
+0,1,12,Other,Roxana Donovan,HTML/CSS;JavaScript;Node.js;PHP;Ruby;TypeScript;Docker;Git;Express;Gatsby;jQuery;React.js;Ruby on Rails;Vue.js;DigitalOcean;Heroku;Firebase;MariaDB;MySQL;Redis
+0,1,12,Other,Stu MacLachlan,C#;HTML/CSS;JavaScript;SQL;Git;Angular.js;ASP.NET;jQuery;Microsoft SQL Server;SQLite
+0,1,16,Master,Dianemarie Martinon,C;C#;Go;Objective-C;Swift;Ansible;Docker;Git;Kubernetes;Cassandra;Elasticsearch;PostgreSQL;Redis;SQLite
+0,1,25,Undergraduate,Fabiano Hartright,Bash/Shell;C#;C++;HTML/CSS;Java;JavaScript;Matlab;Node.js;Perl;PHP;Python;SQL;TypeScript;Chef;Git;ASP.NET;Drupal;jQuery;React.js;Google Cloud Platform;Cassandra;Elasticsearch;Microsoft SQL Server;PostgreSQL;Redis
+0,1,10,Master,Brunhilda Damiata,C#;HTML/CSS;Node.js;PowerShell;TypeScript;Docker;Git;Angular;ASP.NET Core ;Express;Microsoft Azure;Microsoft SQL Server;Redis
+0,1,22,Master,Valene Bagenal,JavaScript;Node.js;Python;SQL;TypeScript;Docker;Git;Django;Express;Vue.js;Couchbase;MariaDB;MongoDB;PostgreSQL;SQLite
+0,1,16,Master,Taddeo Sampey,Java;Python;SQL;Docker;Flask;AWS;Google Cloud Platform;IBM Cloud or Watson;Microsoft Azure;Cassandra;Microsoft SQL Server;MySQL
+0,1,10,Undergraduate,Trumaine Latore,C#;HTML/CSS;Java;JavaScript;Kotlin;Node.js;PowerShell;SQL;TypeScript;Ansible;Docker;Git;Terraform;Angular;Angular.js;ASP.NET;ASP.NET Core ;jQuery;Spring;Couchbase;Microsoft SQL Server;MongoDB;MySQL;Redis;SQLite
+0,1,30,Undergraduate,Christyna Glawsop,Java;SQL;Docker;Git;Spring;Microsoft Azure;Oracle;PostgreSQL;Redis
+0,1,9,Undergraduate,Tommi Sherrington,Java;Kotlin;Git;MySQL;SQLite
+0,1,7,Master,Aurthur Jessup,HTML/CSS;JavaScript;Node.js;Python;SQL;TypeScript;Deno;Docker;Git;Yarn;Django;Express;Gatsby;jQuery;React.js;AWS;Heroku;PostgreSQL;SQLite
+0,1,5,Undergraduate,Suellen Bogges,Dart;HTML/CSS;Java;JavaScript;Node.js;PHP;SQL;TypeScript;Docker;Git;Yarn;Angular;Express;React.js;Svelte;AWS;Google Cloud Platform;Heroku;Microsoft Azure;Firebase;MariaDB;Microsoft SQL Server;MongoDB;MySQL;PostgreSQL;Redis
+0,1,20,Undergraduate,Joelly Mingasson,Git;Oracle
+0,1,14,Master,Bendite Cragell,HTML/CSS;Kotlin;Swift;Git;Django;AWS;Google Cloud Platform;Firebase;SQLite
+0,1,7,Other,Mab Belf,Assembly;Bash/Shell;C;Groovy;HTML/CSS;Java;JavaScript;Kotlin;Node.js;TypeScript;Docker;Git;Angular;Angular.js;Spring;Elasticsearch;MariaDB;MySQL;Oracle;Redis;SQLite
+0,1,11,Undergraduate,Cristina Joselin,HTML/CSS;JavaScript;Scala;TypeScript;Git;Angular;Spring
+0,1,6,Undergraduate,Clary Dooland,Bash/Shell;Node.js;PHP;SQL;Git;Angular;Laravel;AWS;Elasticsearch;PostgreSQL;Redis
+0,1,24,Undergraduate,Fredelia Bertome,Bash/Shell;HTML/CSS;JavaScript;Node.js;PHP;SQL;Docker;Git;Unity 3D;Express;jQuery;Laravel;React.js;Vue.js;AWS;Google Cloud Platform;Heroku;MariaDB;MySQL;SQLite
+1,1,20,Master,Maurine Hanster,Bash/Shell;HTML/CSS;Java;JavaScript;Perl;SQL;TypeScript;Git;Angular;Oracle
+0,1,40,Undergraduate,Lothario Mangam,C#;TypeScript;Docker;Angular;ASP.NET Core ;AWS;PostgreSQL
+1,1,7,Undergraduate,Lanita Broader,Bash/Shell;Python;Scala;SQL;Docker;Git;Terraform;AWS;MongoDB
+0,1,6,Master,Judye Mosten,C#;PHP;TypeScript;Git;Angular;Angular.js;React.js;Vue.js;AWS;MongoDB;MySQL
+0,1,6,Undergraduate,Robinette Gonnin,Bash/Shell;C++;HTML/CSS;JavaScript;Node.js;Git;Express;Vue.js;DigitalOcean;MongoDB;MySQL;Redis
+0,1,20,Undergraduate,Arney Burborough,JavaScript;Node.js;PHP;Laravel;Vue.js;Google Cloud Platform;Microsoft Azure;Elasticsearch;MariaDB;PostgreSQL
+1,1,34,Master,Tandy Carrol,Bash/Shell;C;C++;Delphi;HTML/CSS;Java;Matlab;Perl;PHP;Python;SQL;VBA;Git;MongoDB;MySQL;Oracle
+0,1,5,Undergraduate,Tracie Anker,HTML/CSS;JavaScript;TypeScript;Docker;Git;Kubernetes;Yarn;Angular;AWS;DigitalOcean;Google Cloud Platform;Heroku;Firebase;PostgreSQL;Redis
+0,1,7,Undergraduate,Freeland Alred,Dart;Java;JavaScript;Kotlin;PHP;Git;Google Cloud Platform;MySQL
+0,1,11,Undergraduate,Britt Chauvey,Bash/Shell;Dart;Java;JavaScript;Kotlin;TypeScript;Git;Cassandra;Microsoft SQL Server;MongoDB;MySQL;Oracle;PostgreSQL;SQLite
+0,1,15,Undergraduate,Pearl Ganforthe,Python;R;SQL;Git;AWS
+0,1,16,Undergraduate,Briny Northwood,Objective-C;Swift;Git;AWS;Heroku;Firebase;MySQL;SQLite
+0,1,5,Other,Gaven Lorentzen,C#;Dart;HTML/CSS;JavaScript;Node.js;SQL;Git;Express;jQuery;React.js;AWS;Heroku;Firebase;Microsoft SQL Server;MySQL
+0,1,13,Master,Nealy Lougheid,Bash/Shell;C++;HTML/CSS;PHP;Python;R;Docker;Git;Symfony;Vue.js
+0,1,10,Other,Casandra Pues,C#;JavaScript;SQL;Git;ASP.NET Core ;Express;React.js;AWS;DigitalOcean;Firebase;Microsoft SQL Server;MongoDB;PostgreSQL
+0,1,25,NoHigherEd,Merrie Chasles,C#;Java;JavaScript;SQL;Microsoft SQL Server
+0,1,14,Other,Maritsa Thorington,Assembly;Bash/Shell;HTML/CSS;Java;JavaScript;Kotlin;Rust;SQL;Git;jQuery;DigitalOcean;SQLite
+0,1,30,Other,Philly Germaine,Bash/Shell;Go;HTML/CSS;JavaScript;Node.js;Perl;PHP;Python;SQL;Git;jQuery;Laravel;DigitalOcean;MariaDB
+0,1,6,Other,Meg McGrirl,HTML/CSS;JavaScript;TypeScript;Docker;Git;Yarn;Express;React.js;AWS;MongoDB;PostgreSQL
+0,1,10,Master,Tedi Alabone,C#;HTML/CSS;JavaScript;SQL;TypeScript;Git;ASP.NET;ASP.NET Core ;jQuery;Oracle
+0,1,15,Master,Edy Robbs,Bash/Shell;C;C#;JavaScript;Python;SQL;Git;Microsoft SQL Server
+0,1,4,Master,Evvy Mashro,Bash/Shell;PowerShell;Python;R;SQL;Docker;Git;AWS;Google Cloud Platform;DynamoDB;PostgreSQL;SQLite
+0,1,6,Undergraduate,Teriann Jerdon,HTML/CSS;JavaScript;Node.js;Ruby;ASP.NET;Express;jQuery;React.js;Ruby on Rails;AWS;Heroku;Elasticsearch;MongoDB;PostgreSQL;Redis
+0,1,6,PhD,Barnie Yair,Bash/Shell;Python;R;SQL;Git;PostgreSQL
+0,1,8,Undergraduate,Norah Gonthard,C;C++;Dart;Go;HTML/CSS;Java;JavaScript;Node.js;Python;SQL;Docker;Git;Kubernetes;Django;Express;Flask;jQuery;Laravel;React.js;Svelte;Vue.js;MariaDB;MongoDB;MySQL;Oracle;PostgreSQL
+0,1,10,Undergraduate,Sydel Bonn,HTML/CSS;JavaScript;PHP;SQL;Git;jQuery;Laravel;Vue.js;AWS;Elasticsearch;MySQL;PostgreSQL;Redis;SQLite
+0,1,15,Undergraduate,Morganne Dearth,C#;HTML/CSS;JavaScript;PowerShell;SQL;TypeScript;Docker;Git;Kubernetes;Angular;ASP.NET Core ;Google Cloud Platform;Microsoft Azure;Microsoft SQL Server
+0,1,20,Master,Ellyn Sygroves,C#;HTML/CSS;JavaScript;Node.js;Git;Yarn;Angular;Angular.js;ASP.NET;jQuery;React.js;Microsoft Azure;Microsoft SQL Server;MongoDB
+0,1,21,Undergraduate,Ellyn Killeen,Bash/Shell;C;HTML/CSS;JavaScript;Matlab;PHP;Python;R;SQL;VBA;Git;Django;jQuery;Heroku;MySQL;PostgreSQL;Redis
+0,1,13,Other,Dorothee Ounsworth,JavaScript;Node.js;TypeScript;Docker;Git;Yarn;React.js;Vue.js;AWS;DigitalOcean;PostgreSQL
+0,1,15,Master,Aridatha Haccleton,Dart;Python;Docker;Git;Google Cloud Platform;Firebase
+0,1,10,Master,Lorilyn Sinfield,Bash/Shell;HTML/CSS;Java;JavaScript;Kotlin;Node.js;PowerShell;Python;SQL;TypeScript;Docker;Git;Yarn;React.js;Spring;AWS;Elasticsearch;MongoDB;MySQL;PostgreSQL
+0,1,10,Undergraduate,George Cluney,Java;JavaScript;Scala;SQL;Ansible;Docker;Kubernetes;Terraform;Express;React.js;Spring;Vue.js;AWS;DigitalOcean;DynamoDB;Elasticsearch;Firebase;MongoDB;MySQL;PostgreSQL
+0,1,10,Master,Boot Godbert,JavaScript;Node.js;TypeScript;Ansible;Git;Yarn;Express;React.js;Heroku;MongoDB;PostgreSQL
+0,1,22,Master,Tallie Mahedy,Bash/Shell;Dart;HTML/CSS;JavaScript;Node.js;Objective-C;Python;Swift;Docker;Git;React.js;Heroku;SQLite
+0,1,14,Undergraduate,Mendy Soames,Clojure;Java;Python;Docker;Git;Terraform;FastAPI;AWS;Elasticsearch;PostgreSQL
+0,1,5,Master,Cheston Selwin,Bash/Shell;Java;Python;Docker;Git;FastAPI;Flask;MariaDB;MySQL
+0,1,11,Undergraduate,Kimbell Tackes,Go;HTML/CSS;Java;JavaScript;SQL;Docker;Kubernetes;Terraform;Spring;AWS;DigitalOcean;PostgreSQL;Redis;SQLite
+0,1,10,Undergraduate,Allard Ander,Java;Kotlin;Git
+0,1,23,Master,Sascha Maymond,Bash/Shell;HTML/CSS;PHP;Ansible;Docker;Git;Drupal;jQuery;Laravel;AWS;Elasticsearch;MariaDB;MySQL;SQLite
+0,1,6,Undergraduate,Carmelia Hurtado,JavaScript;Node.js;Python;SQL;TypeScript;Ansible;Docker;Git;Kubernetes;Terraform;Yarn;Angular;Angular.js;Express;Flask;Gatsby;React.js;Vue.js;AWS;DigitalOcean;Google Cloud Platform;Heroku;DynamoDB;Firebase;MongoDB;PostgreSQL;Redis;SQLite
+0,1,10,Master,Tades Siggin,Bash/Shell;JavaScript;Python;SQL;VBA;Docker;Git;Angular;Django;jQuery;AWS;MySQL;PostgreSQL;Redis
+0,1,35,Undergraduate,Minnie Von Hindenburg,Bash/Shell;HTML/CSS;JavaScript;PowerShell;Python;SQL;Ansible;Docker;Git;Kubernetes;Yarn;FastAPI;Elasticsearch;Microsoft SQL Server;MySQL;Redis
+0,1,11,Master,Edy Lawrinson,HTML/CSS;JavaScript;PHP;SQL;TypeScript;Git;jQuery;Laravel;Vue.js;Heroku;MariaDB;Microsoft SQL Server;MySQL;Oracle;PostgreSQL;SQLite
+0,1,7,Undergraduate,Carie Wardingly,C#;Groovy;PowerShell;Python;Git
+0,1,35,PhD,Sally Pickerin,C++;Matlab;Python;Git
+0,1,12,Master,Gerrard Tourville,C#;SQL;Docker;Git;Kubernetes;ASP.NET;ASP.NET Core ;Elasticsearch;Microsoft SQL Server;Oracle;PostgreSQL
+0,1,17,Other,Virgina Stidworthy,Bash/Shell;C;C++;HTML/CSS;Java;JavaScript;Node.js;PHP;PowerShell;Ansible;Docker;Git;jQuery;React.js;AWS;Google Cloud Platform;Microsoft Azure;MariaDB;Microsoft SQL Server;MongoDB;MySQL;PostgreSQL
+0,1,10,Undergraduate,Anitra Strotone,HTML/CSS;Java;JavaScript;Node.js;PHP;SQL;TypeScript;Angular;Express;jQuery;React.js;IBM Cloud or Watson;Microsoft Azure;Microsoft SQL Server;MySQL
+0,1,4,Undergraduate,Mitchel MacGarvey,Bash/Shell;Go;Python;Scala;Docker;Git;Terraform;Flask;AWS;MongoDB;PostgreSQL
+0,1,13,Undergraduate,Stacia Buddles,Bash/Shell;Go;Python;Docker;Git;Kubernetes;Terraform;Yarn;FastAPI;Flask;Google Cloud Platform;Microsoft Azure;MongoDB;PostgreSQL;Redis
+0,1,9,Undergraduate,Nixie Hakewell,Bash/Shell;Java;JavaScript;SQL;jQuery;React.js;AWS;Google Cloud Platform;Microsoft SQL Server;MySQL;PostgreSQL
+0,1,20,Other,Mordy Lockwood,HTML/CSS;JavaScript;PHP;SQL;TypeScript;Docker;Git;Angular;Gatsby;jQuery;React.js;AWS;Elasticsearch;Firebase;MySQL
+0,1,7,Undergraduate,Randal Josselsohn,Java;JavaScript;Node.js;PHP;Python;SQL;VBA;Git;Yarn;Django;Express;React.js;MySQL;SQLite
+0,1,12,Master,Bobina Lauthian,Bash/Shell;Java;Kotlin;Git;Firebase;MySQL;SQLite
+0,1,12,Undergraduate,Benjamen Fellos,C#;HTML/CSS;JavaScript;PHP;SQL;Git;ASP.NET;ASP.NET Core ;jQuery;React.js;Microsoft Azure;Microsoft SQL Server;MySQL
+0,1,24,Undergraduate,Ilsa O'Corhane,C;C#;HTML/CSS;JavaScript;PowerShell;SQL;Git;ASP.NET;ASP.NET Core ;Microsoft Azure;Elasticsearch;Microsoft SQL Server
+0,1,20,Undergraduate,Briana Lathan,C#;C++;HTML/CSS;JavaScript;Perl;PHP;PowerShell;Python;SQL;TypeScript;Git;ASP.NET;ASP.NET Core ;Microsoft Azure;Microsoft SQL Server;MySQL;Oracle;Redis
+0,1,40,NoHigherEd,Niki Giacubo,C#;C++;HTML/CSS;Java;JavaScript;PHP;PowerShell;SQL;VBA;Git;Unity 3D;Xamarin;ASP.NET;ASP.NET Core ;jQuery;AWS;Google Cloud Platform;Microsoft Azure;Microsoft SQL Server;MySQL;SQLite
+0,1,11,PhD,Zed Veevers,Bash/Shell;R;Docker;AWS;PostgreSQL;SQLite
+0,1,26,Master,Griffy Jeanel,C#;JavaScript;TypeScript;Git;Angular;ASP.NET;ASP.NET Core ;Microsoft Azure;Microsoft SQL Server
+0,1,7,Undergraduate,Gilligan Arkill,C#;HTML/CSS;Java;JavaScript;PHP;Python;SQL;TypeScript;Docker;Git;Angular;Express;jQuery;Symfony;Vue.js;AWS;Heroku;Firebase;MySQL;Oracle;PostgreSQL
+0,1,11,Master,Clayson Gilkes,Bash/Shell;C;Go;Java;Rust;Docker;Git;Kubernetes;Yarn
+0,1,4,Undergraduate,Rebekkah Haylor,JavaScript;Python;Git;Yarn;Angular.js;React.js;Vue.js;AWS;DynamoDB;MySQL
+1,1,10,Undergraduate,Tarrance Palfrey,Assembly;Bash/Shell;C++;HTML/CSS;Java;JavaScript;Matlab;Python;Google Cloud Platform
+0,1,20,Master,Darren Diem,C++;Java;JavaScript;Python;Git;Flask;Heroku
+0,1,30,Undergraduate,Malva Gregorowicz,Python;Scala;Docker;Git;AWS;Elasticsearch;PostgreSQL
+0,1,12,Master,Andrei Lockney,Bash/Shell;Java;Kotlin;PowerShell;Docker;Git;Kubernetes;React.js;Spring;AWS;DigitalOcean;MySQL;PostgreSQL
+0,1,10,Master,Sawyere Gallgher,JavaScript;Node.js;Swift;TypeScript;Docker;Git;Express;AWS;DigitalOcean;Microsoft SQL Server;MongoDB;MySQL;PostgreSQL;Redis
+0,1,4,Undergraduate,Grenville Tatteshall,HTML/CSS;JavaScript;Node.js;Python;Rust;TypeScript;Git;Yarn;Express;React.js;Google Cloud Platform;Heroku;Microsoft Azure;IBM DB2;MariaDB;MongoDB;PostgreSQL
+0,1,7,Undergraduate,Evie Stiggers,C#;HTML/CSS;Java;JavaScript;Kotlin;Node.js;Python;TypeScript;Docker;Git;Spring;Vue.js;Microsoft SQL Server
+0,1,15,Undergraduate,Currey Austwick,C#;HTML/CSS;Java;JavaScript;SQL;Swift;TypeScript;Git;Angular;Angular.js;ASP.NET Core ;jQuery;Spring;Microsoft Azure;Microsoft SQL Server;MySQL
+0,1,4,Undergraduate,Joli Adenet,JavaScript;Matlab;Swift;Git;React.js;Firebase
+0,1,4,Other,Doloritas Berkley,C#;Java;Kotlin;AWS;Google Cloud Platform;SQLite
+0,1,31,Undergraduate,Brandice Salzburger,Bash/Shell;C;C++;Matlab;PowerShell;SQL;Git;MariaDB;MySQL;PostgreSQL;SQLite
+0,1,7,Undergraduate,Mariele Overstreet,Bash/Shell;C#;C++;HTML/CSS;Java;JavaScript;Node.js;PHP;TypeScript;Docker;Git;Angular;Angular.js;Drupal;jQuery;Symfony;AWS;Microsoft Azure;DynamoDB;Elasticsearch;Firebase;MariaDB;Microsoft SQL Server;MySQL;PostgreSQL;Redis
+0,1,8,Master,Karlen Zannuto,JavaScript;Python;Docker;Angular;React.js;AWS;Heroku;PostgreSQL
+0,1,2,Undergraduate,Mariejeanne Trayling,HTML/CSS;JavaScript;Python;SQL;Git;jQuery;AWS;Microsoft SQL Server
+0,1,15,Master,Philippe Burgum,HTML/CSS;Java;JavaScript;Kotlin;Node.js;Swift;TypeScript;Docker;Git;Yarn;Angular;Angular.js;React.js;Spring;DigitalOcean;Firebase;MongoDB
+0,1,12,Undergraduate,Tymothy Gartery,Assembly;Bash/Shell;C;C#;C++;HTML/CSS;Java;JavaScript;Node.js;Objective-C;PHP;Python;SQL;Git;Xamarin;jQuery;Microsoft SQL Server;MySQL;Oracle
+0,1,13,Master,Kaylil Marqyes,C++;Go;SQL;Docker;Git;AWS;Google Cloud Platform;Microsoft Azure;Cassandra;PostgreSQL
+0,1,18,Undergraduate,Lorelei Ashington,Groovy;HTML/CSS;Java;JavaScript;Python;SQL;Ansible;Git;Spring;AWS;DynamoDB;Microsoft SQL Server;MySQL;Redis
+0,1,12,Master,Darla Beaulieu,HTML/CSS;JavaScript;Node.js;TypeScript;Git;Angular;Express
+0,1,30,Master,Delcina Zimmerman,Java;SQL;Docker;Git;Spring;IBM DB2;MariaDB;Microsoft SQL Server;MongoDB;MySQL;Oracle;PostgreSQL
+0,1,15,Master,Saraann Crinson,C#;HTML/CSS;SQL;TypeScript;Git;Angular;ASP.NET;ASP.NET Core ;Microsoft Azure;Microsoft SQL Server
+0,1,6,Undergraduate,Ewan Joncic,Bash/Shell;HTML/CSS;JavaScript;Node.js;PHP;SQL;Git;Drupal;jQuery;Vue.js;DigitalOcean;MariaDB;MySQL
+0,1,13,Undergraduate,Woodie Lamerton,C#;Java;PowerShell;Python;SQL;Flow;Git;AWS;Microsoft Azure;Microsoft SQL Server
+0,1,10,Undergraduate,Karlik Harwell,Java;Docker;Git;Spring;AWS;DynamoDB;Elasticsearch;Firebase;MongoDB;Redis
+0,1,9,Undergraduate,Wrennie Spirit,HTML/CSS;JavaScript;PHP;PowerShell;TypeScript;Git;Angular;Angular.js;Express;jQuery;React.js;Vue.js;MongoDB;MySQL;SQLite
+0,1,5,Undergraduate,Ysabel Chazerand,C++;HTML/CSS;Java;JavaScript;Python;SQL;Docker;Git;Kubernetes;Angular;jQuery;Spring;Microsoft SQL Server;MongoDB;MySQL;Oracle;PostgreSQL
+0,1,9,Undergraduate,Quinlan Gusticke,JavaScript;PHP;SQL;Docker;Git;Laravel;Vue.js;AWS;Microsoft Azure;MySQL;Redis
+0,1,5,Undergraduate,Jenna Quinby,Dart;HTML/CSS;Java;JavaScript;Kotlin;TypeScript;Git;Kubernetes;Heroku;Firebase
+0,1,8,Other,Niki Youdell,C;HTML/CSS;Java;JavaScript;Git;ASP.NET;ASP.NET Core ;jQuery;AWS;DynamoDB;MariaDB;MySQL;Oracle
+0,1,16,Master,Cristiano Duly,C;C#;C++;Go;Groovy;HTML/CSS;Java;JavaScript;Node.js;PHP;TypeScript;Angular;Spring;Google Cloud Platform
+0,1,20,Master,Gizela Bracken,HTML/CSS;JavaScript;Node.js;Python;SQL;TypeScript;Docker;Git;Angular;Flask;React.js;DigitalOcean;PostgreSQL;SQLite
+0,1,7,Master,Cristie Durrand,JavaScript;Python;Git;Microsoft Azure
+0,1,9,Undergraduate,Cassaundra Gisbey,HTML/CSS;JavaScript;Python;Git;Django;React.js;AWS;Heroku;PostgreSQL
+0,1,16,Undergraduate,Annabal Jury,HTML/CSS;JavaScript;Git;React.js;Vue.js
+1,1,14,Undergraduate,Charlena Sneller,JavaScript;PHP;Python;Docker;Git;Flask;AWS;MongoDB;PostgreSQL;Redis
+0,1,11,NoHigherEd,Schuyler Bridywater,Bash/Shell;C;Dart;Go;HTML/CSS;JavaScript;Node.js;PHP;SQL;Docker;Git;jQuery;Symfony;Elasticsearch;MariaDB;MySQL;Redis;SQLite
+0,1,18,Other,Minnnie Measor,Assembly;C#;C++;Clojure;Groovy;Java;JavaScript;Kotlin;Perl;Python;SQL;VBA;Git;Unity 3D;Xamarin;AWS;Google Cloud Platform;DynamoDB;MariaDB;PostgreSQL;SQLite
+0,1,12,Master,Aubrette Burgin,Assembly;Bash/Shell;C;C++;Python;Git
+0,1,13,Undergraduate,Mehetabel Forst,C;C#;C++;Java;JavaScript;Kotlin;Objective-C;Ruby;Swift;Docker;Git;Kubernetes;Unity 3D;Unreal Engine;Angular;ASP.NET Core ;jQuery;Ruby on Rails;AWS;Google Cloud Platform;Heroku;Firebase;MySQL;PostgreSQL;Redis;SQLite
+0,1,10,Undergraduate,Oswald Hamblyn,HTML/CSS;JavaScript;Node.js;PHP;SQL;TypeScript;Angular;jQuery;AWS;DigitalOcean;Google Cloud Platform;Firebase;MySQL;SQLite
+0,1,18,Undergraduate,Hildagard Lardiner,Bash/Shell;JavaScript;PHP;Python;SQL;Git;AWS;MariaDB;MySQL;Redis;SQLite
+0,1,18,Undergraduate,Nancie Blything,Bash/Shell;Go;JavaScript;Python;Ansible;Docker;Git;Kubernetes;Terraform;Angular;Django;Flask;jQuery;Vue.js;DigitalOcean;Google Cloud Platform;MariaDB;MySQL;PostgreSQL;Redis;SQLite
+0,1,13,Undergraduate,Smith Haszard,C;C++;Python;Git;Django;SQLite
+0,1,20,Other,Sasha Maxworthy,Bash/Shell;HTML/CSS;JavaScript;Node.js;PHP;SQL;jQuery;Elasticsearch;MariaDB;MongoDB;MySQL;SQLite
+0,1,2,Other,Gradeigh Stallon,HTML/CSS;JavaScript;Node.js;TypeScript;React.js;DigitalOcean;Google Cloud Platform;Heroku;Microsoft SQL Server;MySQL;PostgreSQL
+0,1,17,Undergraduate,Cecilia Beeho,Java;Git;AWS;Microsoft SQL Server;Oracle;PostgreSQL
+0,1,5,Undergraduate,Therese Keaysell,Dart;HTML/CSS;Java;JavaScript;Swift;Git;React.js;AWS;Google Cloud Platform;Firebase
+0,1,5,Master,Leigh Leakner,Bash/Shell;C#;HTML/CSS;JavaScript;PowerShell;SQL;TypeScript;Chef;Git;ASP.NET;ASP.NET Core ;jQuery;Microsoft SQL Server
+0,1,18,Undergraduate,Arlyne Stirtle,Bash/Shell;JavaScript;Ruby;TypeScript;Docker;Git;Yarn;Ruby on Rails;AWS;DigitalOcean;MySQL
+1,1,8,Master,Aline Townes,C#;HTML/CSS;JavaScript;Node.js;SQL;Swift;TypeScript;Docker;Git;jQuery;React.js;Microsoft SQL Server
+0,1,9,Other,Aksel Mitchelson,Bash/Shell;C;C#;C++;Dart;HTML/CSS;Java;JavaScript;PHP;PowerShell;Python;SQL;TypeScript;Git;ASP.NET;ASP.NET Core ;jQuery;React.js;Microsoft Azure;MariaDB;Microsoft SQL Server;MySQL
+0,1,5,Master,Maurene Conklin,JavaScript;Node.js;Docker;Git;Kubernetes;Yarn;Express;React.js;AWS;MongoDB;MySQL
+0,1,8,Master,Robin Gallimore,Bash/Shell;C;Java;JavaScript;Node.js;SQL;TypeScript;Docker;Git;Kubernetes;Angular;Angular.js;Express;Vue.js;AWS;Elasticsearch;PostgreSQL;Redis
+0,1,8,Undergraduate,Brannon Merkle,HTML/CSS;JavaScript;Git;jQuery;React.js
+1,1,4,Master,Jemie McAvaddy,C;C++;Clojure;LISP;Python;SQL;Docker;Git;Flask;Google Cloud Platform;MySQL;PostgreSQL;Redis;SQLite
+0,1,22,Undergraduate,Moe Kroin,Bash/Shell;HTML/CSS;JavaScript;PHP;SQL;TypeScript;Docker;Git;Yarn;jQuery;React.js;MariaDB;MySQL;SQLite
+0,1,4,Undergraduate,Haskell Breazeall,JavaScript;Node.js;TypeScript;Yarn;Express;AWS;Firebase;MongoDB
+0,1,14,Undergraduate,Reggy Leinthall,C#;HTML/CSS;JavaScript;Node.js;PowerShell;Xamarin;ASP.NET;ASP.NET Core ;jQuery;React.js;Google Cloud Platform;Microsoft Azure;Microsoft SQL Server
+0,1,16,NoHigherEd,Tris Verling,Bash/Shell;C#;F#;Go;PowerShell;Chef;Docker;Git;Kubernetes;Terraform;Google Cloud Platform;Microsoft Azure
+0,1,39,Undergraduate,Shelly Mullally,C#;HTML/CSS;JavaScript;SQL;TypeScript;Git;Angular;Angular.js;ASP.NET;jQuery;AWS;Elasticsearch;Microsoft SQL Server;PostgreSQL;Redis
+0,1,15,Master,Emmett Juschke,Assembly;Bash/Shell;C;C#;C++;HTML/CSS;Java;JavaScript;PHP;Python;SQL;VBA;Docker;Git;Angular;Angular.js;Django;Laravel;Symfony;Vue.js;MariaDB;MySQL;SQLite
+0,1,12,Master,Bradly Wildbore,C#;C++;Matlab;Python;Git;Unity 3D
+0,1,5,Undergraduate,Jessi Fradgley,Bash/Shell;C;C++;HTML/CSS;Java;JavaScript;Node.js;Python;Git;Flask;Gatsby;React.js;DigitalOcean;Microsoft Azure;Firebase;MySQL;Oracle
+0,1,18,Master,Carmelle Jarrold,HTML/CSS;Java;JavaScript;SQL;Docker;Flow;Git;Yarn;React.js;Spring;MongoDB;MySQL
+0,1,1,Undergraduate,Edithe Risman,Bash/Shell;C#;HTML/CSS;JavaScript;Node.js;Python;SQL;ASP.NET Core ;Django;Firebase;Microsoft SQL Server
+0,1,5,Other,Sergent Sewill,Bash/Shell;C;C#;C++;HTML/CSS;JavaScript;Node.js;SQL;TypeScript;Git;Xamarin;Angular;ASP.NET;ASP.NET Core ;jQuery;Firebase;Microsoft SQL Server;MySQL;SQLite
+0,1,18,Master,Charisse Klaas,C#;JavaScript;SQL;TypeScript;Git;ASP.NET Core ;Microsoft SQL Server
+0,1,11,Undergraduate,Christi Tuffell,Bash/Shell;Java;SQL;Docker;Git;MariaDB;SQLite
+0,1,13,Undergraduate,Dolly Mynott,C#;Python;Docker;Git;Kubernetes;Xamarin;Angular.js;ASP.NET;Django;AWS;DigitalOcean;Microsoft SQL Server;MySQL;Oracle;PostgreSQL;Redis
+0,1,15,Other,Halimeda Froud,Bash/Shell;HTML/CSS;JavaScript;Node.js;PHP;SQL;Swift;TypeScript;Docker;Git;Yarn;Laravel;Vue.js;AWS;Heroku;Elasticsearch;MySQL;PostgreSQL;Redis;SQLite
+0,1,16,Undergraduate,Nolan Safe,Python;Scala;Docker;Git;Kubernetes;AWS;Google Cloud Platform;DynamoDB;PostgreSQL
+0,1,26,Undergraduate,Kylynn Belleny,C;HTML/CSS;JavaScript;PHP;SQL;Git;jQuery;MariaDB;MySQL
+0,1,5,PhD,Townie Botten,HTML/CSS;R;SQL;Git;PostgreSQL
+0,1,23,Undergraduate,Ulberto Ruoss,C#;JavaScript;TypeScript;Angular;ASP.NET;ASP.NET Core ;Microsoft Azure;Microsoft SQL Server
+0,1,30,Undergraduate,Carr Simkins,Bash/Shell;HTML/CSS;JavaScript;Kotlin;Node.js;Ruby;Swift;Git;jQuery
+0,1,7,Master,Emera Gerdes,Bash/Shell;HTML/CSS;JavaScript;Node.js;TypeScript;Docker;Git;Kubernetes;Angular;Express;React.js;AWS;Elasticsearch;MongoDB;PostgreSQL
+0,1,40,Other,Denise Viggers,Bash/Shell;C;C++;Python;SQLite
+0,1,8,PhD,Domenic Warrington,Bash/Shell;C;C++;Matlab;Git;Microsoft Azure
+0,1,10,Undergraduate,Bruce Chitham,HTML/CSS;Java;JavaScript;Node.js;Python;SQL;TypeScript;Express;jQuery;React.js;Svelte;Vue.js;DigitalOcean;MongoDB;PostgreSQL
+0,1,8,Undergraduate,Eustace Kermitt,HTML/CSS;JavaScript;TypeScript;Docker;Git;Yarn;React.js;AWS
+0,1,7,Other,Antonin Goudie,HTML/CSS;JavaScript;PHP;Python;Ruby;SQL;Docker;Git;Yarn;Express;jQuery;Laravel;React.js;Ruby on Rails;Vue.js;DigitalOcean;Heroku;MariaDB;MySQL;PostgreSQL
+0,1,11,Undergraduate,Dane Dregan,C#;Groovy;HTML/CSS;JavaScript;Node.js;PowerShell;TypeScript;Docker;Git;Yarn;Express;React.js;Vue.js;AWS;Elasticsearch;MongoDB
+0,1,10,Master,Muire Elderidge,Bash/Shell;Java;Kotlin;Python;SQL;Docker;Git;Kubernetes;Spring;Google Cloud Platform;Microsoft Azure;Microsoft SQL Server;PostgreSQL
+0,1,7,Other,Danica MacPaike,Bash/Shell;C#;Dart;Go;HTML/CSS;JavaScript;Kotlin;Node.js;PowerShell;Ruby;SQL;TypeScript;Docker;Git;Kubernetes;ASP.NET Core ;Express;React.js;Ruby on Rails;DigitalOcean;Heroku;Microsoft Azure;Firebase;Microsoft SQL Server;PostgreSQL;Redis;SQLite
+0,1,3,NoHigherEd,Griffith Ridler,Java;Spring;AWS;MariaDB;MySQL
+0,1,14,Undergraduate,Alan Bril,Bash/Shell;C#;Groovy;HTML/CSS;Java;JavaScript;Kotlin;Node.js;SQL;TypeScript;Git;Yarn;jQuery;Spring;Vue.js;MySQL;PostgreSQL;Redis
+0,1,21,Undergraduate,Oswald Forcer,HTML/CSS;JavaScript;TypeScript;Git;React.js;AWS;DynamoDB;Elasticsearch
+0,1,10,Undergraduate,Abel Poinsett,C#;HTML/CSS;JavaScript;Node.js;PHP;TypeScript;Git;Yarn;ASP.NET;ASP.NET Core ;Laravel;React.js;Symfony;MySQL;SQLite
+0,1,8,Undergraduate,Alia Giorgielli,Java;JavaScript;Ansible;Docker;Git;Spring;Vue.js;AWS;MariaDB;Redis
+0,1,10,PhD,Emmery Chessum,Python;Docker;Git;MongoDB
+0,1,28,Undergraduate,Darin Errichiello,Go;JavaScript;PHP;Python;SQL;Ansible;Docker;Git;Terraform;jQuery;Laravel;Vue.js;AWS;Google Cloud Platform;DynamoDB;MySQL;Redis
+0,1,25,Master,Francine Ewles,C++;Python;Docker;Git;Kubernetes;AWS;DynamoDB
+0,1,2,Undergraduate,Olly De Pero,C++;HTML/CSS;Java;JavaScript;Node.js;TypeScript;Git;Yarn;React.js;Heroku;MongoDB
+0,1,22,Undergraduate,Gamaliel Egle,C#;Dart;HTML/CSS;JavaScript;SQL;Git;ASP.NET;ASP.NET Core ;jQuery;Microsoft Azure;Microsoft SQL Server
+0,1,30,Master,Cindelyn Forbear,PowerShell;Ruby;Puppet;Microsoft Azure;Microsoft SQL Server
+0,1,28,Master,Perry Twiggins,C#;HTML/CSS;JavaScript;PowerShell;SQL;TypeScript;Git;ASP.NET;ASP.NET Core ;jQuery;React.js;Microsoft Azure;Microsoft SQL Server
+0,1,10,Undergraduate,Ninette Veelers,Bash/Shell;Go;HTML/CSS;JavaScript;Node.js;SQL;TypeScript;Docker;Git;Kubernetes;Terraform;Angular;React.js;AWS;DigitalOcean;Google Cloud Platform;PostgreSQL;Redis
+0,1,10,Other,Estelle Rew,JavaScript;PowerShell;Python;Rust;TypeScript;Docker;ASP.NET;ASP.NET Core ;FastAPI;Flask;React.js;Google Cloud Platform;Microsoft SQL Server;SQLite
+0,1,20,Master,Ivette Crippill,Bash/Shell;Python;SQL;Docker;Git;Flask;PostgreSQL;Redis
+0,1,37,Master,Cece Warstall,C#;HTML/CSS;JavaScript;Docker;Git;ASP.NET Core ;Microsoft SQL Server;MySQL;Oracle;SQLite
+0,1,4,Undergraduate,Murvyn Wybrow,C++;HTML/CSS;Java;JavaScript;Objective-C;PHP;jQuery
+1,1,9,Other,Hunt Chevalier,Dart;HTML/CSS;JavaScript;PHP;SQL;Docker;Git;Yarn;jQuery;Laravel;React.js;Svelte;Symfony;Google Cloud Platform;Elasticsearch;MariaDB;Microsoft SQL Server;PostgreSQL;Redis
+0,1,6,Other,Persis Fitt,Java;JavaScript;Node.js;Python;TypeScript;Docker;Git;Unity 3D;Unreal Engine;Angular;Angular.js;Flask;jQuery;Microsoft Azure;MongoDB;MySQL
+0,1,8,Other,Harrietta Loveman,Bash/Shell;C#;Go;PowerShell;SQL;Docker;ASP.NET Core ;Microsoft SQL Server;SQLite
+0,1,8,Master,Andie Ciotti,JavaScript;Python;SQL;Docker;Git;React.js;AWS;PostgreSQL;SQLite
+0,1,9,Master,Judie Ortas,Java;Kotlin;Git;SQLite
+0,1,14,Master,Emmi Witherdon,C#;HTML/CSS;JavaScript;Matlab;SQL;Git;ASP.NET;ASP.NET Core ;jQuery;Vue.js;Microsoft SQL Server
+0,1,26,Master,Janka Truter,Bash/Shell;C++;Go;Groovy;Java;JavaScript;PowerShell;Scala;SQL;Docker;Git;jQuery;React.js;Spring;Cassandra;Elasticsearch;MongoDB
+0,1,12,Other,Elfreda Sansome,C++;Elixir;Python;Rust;Ansible;Docker;Git;Kubernetes;Terraform;FastAPI;Flask;AWS;Google Cloud Platform;DynamoDB;Elasticsearch;MongoDB;PostgreSQL;Redis
+0,1,6,Undergraduate,Cos Scrace,JavaScript;TypeScript;Docker;Git;Angular
+0,1,15,Undergraduate,Sadye Deares,Bash/Shell;Dart;HTML/CSS;JavaScript;Python;SQL;Docker;Git;Django;Google Cloud Platform;Elasticsearch;Firebase;PostgreSQL;Redis
+0,1,8,Undergraduate,Daria Balderstone,Java;Git;Spring;Cassandra;PostgreSQL
+0,1,6,Master,Alfie Northeast,Bash/Shell;Go;HTML/CSS;Rust;TypeScript;Docker;Git;Kubernetes;Terraform;Google Cloud Platform;PostgreSQL;Redis;SQLite
+0,1,9,Undergraduate,Peterus Plet,HTML/CSS;Node.js;Python;TypeScript;Docker;Git;Kubernetes;Terraform;Angular;Express;AWS;DynamoDB;Elasticsearch;MongoDB
+0,1,16,Master,Thayne Fetherston,Bash/Shell;Java;Node.js;Python;SQL;Git;AWS;DigitalOcean;Google Cloud Platform;Microsoft Azure;Microsoft SQL Server;MongoDB;MySQL;PostgreSQL;Redis
+0,1,30,Master,Roxane Jarret,C#;HTML/CSS;JavaScript;PowerShell;SQL;Docker;Git;Kubernetes;Angular;Angular.js;ASP.NET;ASP.NET Core ;jQuery;AWS;Microsoft Azure;Microsoft SQL Server
+0,1,10,Undergraduate,Dex McCloughen,C#;HTML/CSS;JavaScript;Python;Ruby;Docker;Git;ASP.NET;Django;React.js;Ruby on Rails;Microsoft SQL Server;MongoDB;PostgreSQL
+0,1,35,PhD,Janice Astle,Bash/Shell;C;C++
+0,1,15,Undergraduate,Amargo Feldbrin,Bash/Shell;Java;JavaScript;Python;Ansible;Docker;Git;Kubernetes;Puppet;Yarn;React.js;Spring;Vue.js;AWS;Google Cloud Platform;Elasticsearch
+0,1,11,Undergraduate,Brad Saurat,Java;Python;Scala;SQL;Docker;Git;Yarn;AWS;Microsoft Azure;MariaDB;MySQL;PostgreSQL
+0,1,7,Undergraduate,Miof mela Late,C++;Erlang;Groovy;HTML/CSS;Kotlin;PHP;Docker;Flow;Git;Flask;Spring;Microsoft SQL Server;MySQL;Oracle;PostgreSQL;Redis
+0,1,6,Master,Paton Corbitt,HTML/CSS;JavaScript;Node.js;Python;Git;Express;React.js;Heroku;SQLite
+0,1,6,Undergraduate,Kaiser Blumsom,Python;Docker;Git
+0,1,9,Master,Ernaline Ackrill,Bash/Shell;C#;PowerShell;Python;SQL;Git;ASP.NET;ASP.NET Core ;Flask;DigitalOcean;Microsoft SQL Server;MongoDB
+0,1,20,Master,Harrietta Matteucci,Assembly;C;C#;C++;HTML/CSS;JavaScript;Matlab;PHP;PowerShell;SQL;TypeScript;Docker;Git;Angular;Angular.js;ASP.NET;ASP.NET Core ;jQuery;React.js;Microsoft Azure;Elasticsearch;IBM DB2;Microsoft SQL Server;Oracle;PostgreSQL
+0,1,25,PhD,Henderson Cornwell,Bash/Shell;Elixir;Python;SQL;Ansible;Docker;Git;Django;Microsoft Azure;Elasticsearch;PostgreSQL;Redis
